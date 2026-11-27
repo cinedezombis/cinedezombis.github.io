@@ -280,6 +280,10 @@ cite { font-style: italic; }
 .pie-descargas { display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; margin-top: .9rem; }
 .pie-descargas a { font-weight: 600; text-decoration-color: var(--sangre); text-decoration-thickness: 2px; }
 .pie-descargas span { display: inline-block; margin-left: .25em; font-weight: 400; color: var(--formol); white-space: nowrap; }
+.pie-libro .pie-zenodo { color: var(--formol); font-size: .9rem; margin-top: .9rem; }
+.cita-libro { border-left: 3px solid var(--sangre); padding: .2rem 0 .2rem 1rem; color: var(--formol); scroll-margin-top: 1.5rem; }
+.cita-libro em { color: var(--tinta); }
+.cita-libro em cite { font-style: normal; }
 .pie-secciones ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .3rem; }
 .pie-secciones a { text-decoration: none; }
 .pie-secciones a:hover { text-decoration: underline; }

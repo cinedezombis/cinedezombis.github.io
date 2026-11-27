@@ -8,3 +8,7 @@ url: "https://cinedezombis.github.io"
 # (cinedezombis.github.io) o "/proyecto/" si es un repositorio de proyecto
 # (usuario.github.io/proyecto). Solo la usa la página de error 404.
 ruta_base: "/"
+
+# DOI del libro en Zenodo. Es el DOI general, que apunta siempre a la última versión publicada
+# (el de la versión 1.0, 10.5281/zenodo.24590777, es el que va impreso en el libro).
+libro_doi: "10.5281/zenodo.24590776"

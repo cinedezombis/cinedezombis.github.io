@@ -5,6 +5,8 @@ ruta: /p/los-zombis.html
 
 *Este atlas nació del blog ZombisBlog, donde entre 2012 y 2016 se comentaron 299 películas de zombis. Esas reseñas se reproducen aquí como se publicaron, con las erratas corregidas. Lo que sigue es la declaración de principios con la que nació el blog, que fija qué entendemos por zombi y qué películas entran en la revisión.*
 
+<p id="citar" class="cita-libro"><em>Las reseñas están también reunidas en el libro <cite>Atlas del cine de zombis. 299 películas comentadas desde 1932 hasta 2016</cite>, publicado en <a href="https://doi.org/10.5281/zenodo.24590776">Zenodo</a> con la misma licencia libre. Para citarlo:</em><br>Gómez Ruiz, M. Á. (2026). <cite>Atlas del cine de zombis. 299 películas comentadas desde 1932 hasta 2016</cite>. Zenodo. <a href="https://doi.org/10.5281/zenodo.24590776">https://doi.org/10.5281/zenodo.24590776</a></p>
+
 Un día nos planteamos ver todas las películas de zombis que existieran... ilusos de nosotros creímos que no alcanzarían la centena... nos equivocamos... y de esa equivocación surgió **Zombis Blog**... Pero comencemos por el principio, y es que si vamos a hacer un blog sobre películas de zombis, lo primero será plantearnos:
 
 ## ¿Qué entendemos por zombi?

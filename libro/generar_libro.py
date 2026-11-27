@@ -59,8 +59,8 @@ def leer_pagina(nombre):
 def introduccion():
     _, cuerpo = leer_pagina("sobre")
     parrafos = cuerpo.split("\n\n")
-    # Fuera la nota del atlas (primer párrafo en cursiva) y el saludo final de la web.
-    parrafos = [p for p in parrafos if not p.startswith("*Este atlas") and "Gracias por visitarnos" not in p]
+    # Fuera la nota del atlas (primer párrafo en cursiva), la cita del libro y el saludo final de la web.
+    parrafos = [p for p in parrafos if not p.startswith(("*Este atlas", '<p id="citar"')) and "Gracias por visitarnos" not in p]
     return enlaces("\n\n".join(parrafos))
 
 

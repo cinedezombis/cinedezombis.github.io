@@ -40,6 +40,7 @@
       <h2 id="pie-libro-titulo">El libro</h2>
       <p>Las reseñas publicadas en ZombisBlog entre 2012 y 2016 están también en forma de libro, con la misma licencia libre.</p>
       <p class="pie-descargas">{% if libro.pdf %}<a href="{{ raiz }}libro/{{ libro.pdf }}">Descargar en PDF <span>{{ libro.pdf_mb|string|replace('.', ',') }} MB</span></a>{% endif %}{% if libro.epub %}<a href="{{ raiz }}libro/{{ libro.epub }}">Descargar en EPUB <span>{{ libro.epub_mb|string|replace('.', ',') }} MB</span></a>{% endif %}</p>
+      {% if config.libro_doi %}<p class="pie-zenodo">Publicado también en <a href="https://doi.org/{{ config.libro_doi }}">Zenodo</a> con el DOI {{ config.libro_doi }}. <a href="{{ raiz }}p/los-zombis.html#citar">Cómo citarlo</a>.</p>{% endif %}
     </div>
   </section>
   {% endif %}
