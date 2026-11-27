@@ -379,6 +379,15 @@ main { position: relative; z-index: 0; overflow-x: clip; }
 .resultado-meta { display: flex; align-items: center; gap: .6rem; }
 .resultado-anio { font-family: var(--display); font-weight: 700; color: var(--formol); }
 .resultado-fragmento { font-size: .92rem; line-height: 1.5; color: var(--formol); }
+.buscar-descartes { max-width: 48rem; margin-top: 2.2rem; }
+.buscar-descartes h2 { font-family: var(--display); font-weight: 700; font-size: 1.6rem; line-height: 1.05; margin: 0 0 .5rem; }
+.buscar-descartes-lista { list-style: none; margin: 0; padding: 0; }
+.buscar-descartes-lista li + li { border-top: 1px solid var(--musgo); }
+.buscar-descartes-lista a { display: block; padding: .6rem .25rem; text-decoration: none; color: inherit; }
+.buscar-descartes-lista a:hover { background: var(--musgo); }
+.buscar-descartes-lista a:hover .resultado-titulo { text-decoration: underline 1px var(--sangre); text-underline-offset: .18em; }
+.descarte-motivo { display: block; font-size: .92rem; color: var(--formol); }
+.criterio { scroll-margin-top: 1.5rem; }
 .buscar mark { background: var(--marca); color: var(--tinta); padding: 0 .05em; }
 
 /* Pie */
@@ -444,3 +453,31 @@ main { position: relative; z-index: 0; overflow-x: clip; }
 /* Títulos enlazables (por ejemplo, cada saga): al llegar desde una ficha se ve cuál es */
 .prosa h2[id], .prosa h3[id] { scroll-margin-top: 1.5rem; }
 .prosa h2:target { text-decoration: underline 3px var(--sangre); text-underline-offset: .22em; }
+
+/* Películas descartadas, en listas desplegables bajo cada criterio de «Sobre el atlas» */
+.criterio { border-top: 1px solid var(--liquen); padding: .85rem 0 1.3rem; }
+.criterio:not(:has(+ .criterio)) { border-bottom: 1px solid var(--liquen); margin-bottom: 1.6rem; }
+p + .criterio { margin-top: 1.6rem; }
+.criterio > p { margin: 0 0 .35rem; }
+.criterio > p strong { color: var(--tinta); }
+.descartes summary {
+  font-size: .95rem; color: var(--formol); display: inline-flex; align-items: center; gap: .5rem; cursor: pointer; list-style: none; padding: .15rem 0;
+  text-decoration: underline 1px var(--liquen); text-underline-offset: .22em;
+}
+.descartes summary::-webkit-details-marker { display: none; }
+.descartes summary::before {
+  content: ""; flex: none; width: 0; height: 0;
+  border-style: solid; border-width: .32rem 0 .32rem .5rem; border-color: transparent transparent transparent var(--sangre);
+  transition: transform .15s ease;
+}
+.descartes[open] summary::before { transform: rotate(90deg); }
+.descartes summary:hover { color: var(--tinta); text-decoration-color: var(--sangre); }
+.descartes-lista {
+  list-style: none; margin: .7rem 0 0 !important; padding: .2rem 0 0 1rem !important;
+  columns: 2 15rem; column-gap: 2rem;
+}
+.descartes-lista li { break-inside: avoid; margin: 0 0 .65rem; padding: 0; font-size: .95rem; line-height: 1.3; }
+.descarte-titulo { font-weight: 600; }
+.descarte-anio { font-family: var(--display); font-weight: 700; color: var(--formol); margin-left: .15rem; white-space: nowrap; }
+.descarte-original { display: block; color: var(--formol); font-size: .88rem; }
+@media (prefers-reduced-motion: reduce) { .descartes summary::before { transition: none; } }

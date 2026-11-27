@@ -20,3 +20,14 @@
   });
   document.addEventListener("click", (e) => { if (lupa.open && !lupa.contains(e.target)) lupa.open = false; });
 })();
+
+// En «Sobre el atlas», un enlace a #descartes-… abre la lista de películas de ese criterio.
+(() => {
+  const abrir = () => {
+    const criterio = location.hash.startsWith("#descartes-") && document.getElementById(location.hash.slice(1));
+    const lista = criterio && criterio.querySelector("details.descartes");
+    if (lista) lista.open = true;
+  };
+  abrir();
+  addEventListener("hashchange", abrir);
+})();

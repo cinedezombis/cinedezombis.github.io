@@ -1,4 +1,5 @@
-// Buscador de texto completo sobre buscar.json (título, otros títulos y texto de cada reseña).
+// Buscador de texto completo sobre buscar.json (título, otros títulos y texto de cada reseña,
+// más los títulos de las películas descartadas).
 (() => {
   const zona = document.querySelector(".buscar");
   if (!zona) return;
@@ -6,6 +7,8 @@
   const campo = document.getElementById("q");
   const recuento = zona.querySelector(".buscar-recuento");
   const lista = zona.querySelector(".buscar-resultados");
+  const descartes = zona.querySelector(".buscar-descartes");
+  const listaDescartes = zona.querySelector(".buscar-descartes-lista");
   const MAX = 100;
 
   // Sin tildes y en minúsculas, conservando la longitud del texto para poder recortar fragmentos.
@@ -42,23 +45,35 @@
 
   const manchas = (v) => `<span class="manchas" style="--n:${Number(v)}" role="img" aria-label="${v} de 5 manchas de sangre"></span>`;
 
-  let docs = null;
+  let docs = null, resenas = [], descartadas = [];
   const buscar = () => {
     const q = campo.value.trim();
     const url = new URL(location.href);
     if (q) url.searchParams.set("q", q); else url.searchParams.delete("q");
     history.replaceState(null, "", url);
     const ts = terminos(q);
+    descartes.hidden = true;
     if (!ts.length || !docs) { lista.innerHTML = ""; recuento.textContent = q && docs ? "Escribe al menos dos letras." : ""; return; }
+    // Las descartadas solo se buscan por título y van en un bloque aparte, debajo de las reseñas.
+    const fuera = descartadas.filter((d) => ts.every((t) => d._titulo.includes(t)));
+    descartes.hidden = !fuera.length;
+    listaDescartes.innerHTML = fuera.map((d) => `
+      <li><a href="${raiz}${d.r}"><span class="resultado-titulo">${resaltar(d.t, normalizar(d.t), ts)}</span>
+        <span class="resultado-anio">${escapar(String(d.a))}</span>${d.o ? `<span class="descarte-original">${resaltar(d.o, normalizar(d.o), ts)}</span>` : ""}
+        <span class="descarte-motivo">Descartada por: ${escapar(d.d)}</span></a></li>`).join("");
     const hallados = [];
-    docs.forEach((d) => {
+    resenas.forEach((d) => {
       if (!ts.every((t) => d._todo.includes(t))) return;
       const puntos = ts.reduce((s, t) => s + contar(d._x, t) + (d._titulo.includes(t) ? 25 : 0), 0);
       hallados.push([puntos, d]);
     });
     hallados.sort((a, b) => b[0] - a[0] || a[1].a - b[1].a);
     const n = hallados.length;
-    recuento.textContent = n ? `${n} ${n === 1 ? "reseña" : "reseñas"}${n > MAX ? `; se muestran las ${MAX} con más coincidencias` : ""}.` : "Ninguna reseña contiene eso. Prueba con otra palabra o sin comillas.";
+    const k = fuera.length;
+    const enlaceDescartes = `<a href="#titulo-descartes">${k} ${k === 1 ? "película descartada" : "películas descartadas"}</a>`;
+    recuento.innerHTML = n ? `${n} ${n === 1 ? "reseña" : "reseñas"}${k ? ` y ${enlaceDescartes}, al final` : ""}${n > MAX ? `; se muestran las ${MAX} reseñas con más coincidencias` : ""}.`
+      : k ? "Ninguna reseña contiene eso, pero está entre las películas descartadas."
+      : "Ninguna reseña contiene eso. Prueba con otra palabra o sin comillas.";
     lista.innerHTML = hallados.slice(0, MAX).map(([, d]) => `
       <li class="resultado">
         <a class="resultado-enlace" href="${raiz}${d.r}">
@@ -77,6 +92,8 @@
   recuento.textContent = campo.value ? "Buscando…" : "";
   fetch(zona.dataset.indice, { mode: "cors", credentials: "same-origin" }).then((r) => r.json()).then((datos) => {
     docs = datos.map((d) => ({ ...d, _x: normalizar(d.x), _titulo: normalizar(d.t + " " + d.o), _todo: normalizar(d.t + " " + d.o + " " + d.x) }));
+    resenas = docs.filter((d) => !d.d);
+    descartadas = docs.filter((d) => d.d);
     buscar();
     if (!campo.value) campo.focus();
   }).catch(() => { recuento.textContent = "No se ha podido cargar el índice de búsqueda."; });

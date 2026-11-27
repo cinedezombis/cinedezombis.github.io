@@ -1,0 +1,418 @@
+# Películas descartadas del atlas. Aparecen en «Sobre el atlas», debajo del criterio que las deja fuera.
+# grupo: infectados, posesiones, fantasmas, imaginario, hipnotizados, animales, mutantes, esqueletos,
+#        sin-muertos, cortos, documentales, animacion o musicales.
+# titulo: el título en España (si no se estrenó aquí, el original). original: el título original;
+#   si coincide con el de España, no se muestra.
+# Solo entra una película si el motivo es seguro; en caso de duda, no se añade.
+# El grupo «imaginario» (vampiros, momias...) no lleva lista: son demasiadas.
+# Un criterio sin películas no muestra nada; el desplegable aparece al añadir la primera.
+# Para añadir una, copia una entrada y cambia los datos.
+
+- grupo: infectados
+  titulo: Las uvas de la muerte
+  original: Les raisins de la mort
+  anio: 1978
+- grupo: infectados
+  titulo: Zombies tóxicos
+  original: Toxic Zombies
+  anio: 1980
+- grupo: infectados
+  titulo: La casa de la muerte
+  original: Zombie Death House
+  anio: 1987
+- grupo: infectados
+  titulo: 'I Zombie: The Chronicles of Pain'
+  original: 'I Zombie: The Chronicles of Pain'
+  anio: 1998
+- grupo: infectados
+  titulo: 28 días después
+  original: 28 Days Later
+  anio: 2002
+- grupo: infectados
+  titulo: Vampires vs. Zombies
+  original: Vampires vs. Zombies
+  anio: 2004
+- grupo: infectados
+  titulo: Evil
+  original: To kako
+  anio: 2005
+- grupo: infectados
+  titulo: Severed
+  original: Severed
+  anio: 2005
+- grupo: infectados
+  titulo: La hora fría
+  original: La hora fría
+  anio: 2006
+- grupo: infectados
+  titulo: Mulberry Street
+  original: Mulberry Street
+  anio: 2006
+- grupo: infectados
+  titulo: 28 semanas después
+  original: 28 Weeks Later
+  anio: 2007
+- grupo: infectados
+  titulo: Soy leyenda
+  original: I Am Legend
+  anio: 2007
+- grupo: infectados
+  titulo: Evilution
+  original: Evilution
+  anio: 2008
+- grupo: infectados
+  titulo: Infectados
+  original: Carriers
+  anio: 2009
+- grupo: infectados
+  titulo: Dead Air
+  original: Dead Air
+  anio: 2009
+- grupo: infectados
+  titulo: Doghouse
+  original: Doghouse
+  anio: 2009
+- grupo: infectados
+  titulo: Siege of the Dead
+  original: Rammbock
+  anio: 2010
+- grupo: infectados
+  titulo: The Neighbor Zombie
+  original: Yeopjip jombi
+  anio: 2010
+- grupo: infectados
+  titulo: 'Extinction: The G.M.O. Chronicles'
+  original: 'Extinction: The G.M.O. Chronicles'
+  anio: 2011
+- grupo: infectados
+  titulo: Bloodlust Zombies
+  original: Bloodlust Zombies
+  anio: 2011
+- grupo: infectados
+  titulo: Dead Sushi
+  original: Deddo sushi
+  anio: 2012
+- grupo: infectados
+  titulo: Dulces criaturas
+  original: Cooties
+  anio: 2014
+- grupo: infectados
+  titulo: Maggie
+  original: Maggie
+  anio: 2015
+- grupo: infectados
+  titulo: Range 15
+  original: Range 15
+  anio: 2016
+- grupo: infectados
+  titulo: Melanie. The Girl with All the Gifts
+  original: The Girl with All the Gifts
+  anio: 2016
+- grupo: infectados
+  titulo: The Cured
+  original: The Cured
+  anio: 2017
+- grupo: infectados
+  titulo: 'Maze Runner: La cura mortal'
+  original: 'Maze Runner: The Death Cure'
+  anio: 2018
+- grupo: infectados
+  titulo: Office Uprising
+  original: Office Uprising
+  anio: 2018
+- grupo: infectados
+  titulo: Patient Zero
+  original: Patient Zero
+  anio: 2018
+- grupo: infectados
+  titulo: Brain Freeze
+  original: Brain Freeze
+  anio: 2021
+- grupo: infectados
+  titulo: The Sadness
+  original: Ku bei
+  anio: 2021
+- grupo: infectados
+  titulo: Zombie Reddy
+  original: Zombie Reddy
+  anio: 2021
+- grupo: infectados
+  titulo: Carter
+  original: Kateo
+  anio: 2022
+- grupo: infectados
+  titulo: Herd
+  original: Herd
+  anio: 2023
+- grupo: infectados
+  titulo: Die Alone
+  original: Die Alone
+  anio: 2024
+- grupo: infectados
+  titulo: 28 años después
+  original: 28 Years Later
+  anio: 2025
+- grupo: infectados
+  titulo: Forgive Us All
+  original: Forgive Us All
+  anio: 2025
+- grupo: infectados
+  titulo: My Daughter Is a Zombie
+  original: Jombittal
+  anio: 2025
+- grupo: infectados
+  titulo: '28 años después: El templo de huesos'
+  original: '28 Years Later: The Bone Temple'
+  anio: 2026
+- grupo: infectados
+  titulo: Cold Storage
+  original: Cold Storage
+  anio: 2026
+- grupo: infectados
+  titulo: Gunche
+  original: Gunche
+  anio: 2026
+- grupo: posesiones
+  titulo: Posesión infernal
+  original: The Evil Dead
+  anio: 1981
+- grupo: posesiones
+  titulo: Terroríficamente muertos
+  original: Evil Dead II
+  anio: 1987
+- grupo: posesiones
+  titulo: La noche de los demonios
+  original: Night of the Demons
+  anio: 1988
+- grupo: posesiones
+  titulo: El ejército de las tinieblas
+  original: Army of Darkness
+  anio: 1992
+- grupo: posesiones
+  titulo: REC
+  original: REC
+  anio: 2007
+- grupo: posesiones
+  titulo: Rise of the Dead
+  original: Rise of the Dead
+  anio: 2007
+- grupo: posesiones
+  titulo: REC 2
+  original: REC 2
+  anio: 2009
+- grupo: posesiones
+  titulo: 'REC 3: Génesis'
+  original: 'REC 3: Génesis'
+  anio: 2012
+- grupo: posesiones
+  titulo: 'REC 4: Apocalipsis'
+  original: 'REC 4: Apocalipsis'
+  anio: 2014
+- grupo: posesiones
+  titulo: Fonda sangrienta
+  original: Blood Diner
+  anio: 1987
+- grupo: posesiones
+  titulo: Aterrados
+  original: Aterrados
+  anio: 2017
+- grupo: posesiones
+  titulo: Exorcism at 60,000 Feet
+  original: Exorcism at 60,000 Feet
+  anio: 2019
+- grupo: posesiones
+  titulo: Cuando acecha la maldad
+  original: Cuando acecha la maldad
+  anio: 2023
+- grupo: posesiones
+  titulo: Evil Dead Rise
+  original: Evil Dead Rise
+  anio: 2023
+- grupo: posesiones
+  titulo: Evil Dead Burn
+  original: Evil Dead Burn
+  anio: 2026
+- grupo: fantasmas
+  titulo: J'accuse
+  original: J'accuse
+  anio: 1919
+- grupo: fantasmas
+  titulo: J'accuse
+  original: J'accuse
+  anio: 1938
+- grupo: fantasmas
+  titulo: El carnaval de las almas
+  original: Carnival of Souls
+  anio: 1962
+- grupo: fantasmas
+  titulo: Roma contra Roma
+  original: Roma contro Roma
+  anio: 1964
+- grupo: fantasmas
+  titulo: El barco de la muerte
+  original: Death Ship
+  anio: 1980
+- grupo: fantasmas
+  titulo: La niebla
+  original: The Fog
+  anio: 1980
+- grupo: fantasmas
+  titulo: Un hombre lobo americano en Londres
+  original: An American Werewolf in London
+  anio: 1981
+- grupo: fantasmas
+  titulo: House, una casa alucinante
+  original: House
+  anio: 1986
+- grupo: fantasmas
+  titulo: Los abandonados
+  original: The Abandoned
+  anio: 2006
+- grupo: fantasmas
+  titulo: Deadstream
+  original: Deadstream
+  anio: 2022
+- grupo: fantasmas
+  titulo: Beetlejuice Beetlejuice
+  original: Beetlejuice Beetlejuice
+  anio: 2024
+- grupo: posesiones
+  titulo: La autopsia de Jane Doe
+  original: The Autopsy of Jane Doe
+  anio: 2016
+- grupo: hipnotizados
+  titulo: El gabinete del doctor Caligari
+  original: Das Cabinet des Dr. Caligari
+  anio: 1920
+- grupo: hipnotizados
+  titulo: The Mad Ghoul
+  original: The Mad Ghoul
+  anio: 1943
+- grupo: hipnotizados
+  titulo: Teenage Zombies
+  original: Teenage Zombies
+  anio: 1959
+- grupo: hipnotizados
+  titulo: Horror en el hospital
+  original: Horror Hospital
+  anio: 1973
+- grupo: hipnotizados
+  titulo: Cell
+  original: Cell
+  anio: 2016
+- grupo: hipnotizados
+  titulo: Weapons
+  original: Weapons
+  anio: 2025
+- grupo: sin-muertos
+  titulo: Castle of the Living Dead
+  original: Il castello dei morti vivi
+  anio: 1964
+- grupo: sin-muertos
+  titulo: Night of the Zombies
+  original: Gamma 693
+  anio: 1981
+- grupo: mutantes
+  titulo: Experimento mortal
+  original: Death Warmed Up
+  anio: 1984
+- grupo: sin-muertos
+  titulo: Ritual
+  original: Ritual
+  anio: 2001
+- grupo: sin-muertos
+  titulo: Zombiez
+  original: Zombiez
+  anio: 2005
+- grupo: mutantes
+  titulo: Horrors of War
+  original: Horrors of War
+  anio: 2006
+- grupo: animales
+  titulo: Ovejas asesinas
+  original: Black Sheep
+  anio: 2006
+- grupo: animales
+  titulo: Zoombies
+  original: Zoombies
+  anio: 2016
+- grupo: sin-muertos
+  titulo: One Cut of the Dead
+  original: Kamera o tomeru na!
+  anio: 2017
+- grupo: sin-muertos
+  titulo: We Are Little Zombies
+  original: We Are Little Zombies
+  anio: 2019
+- grupo: cortos
+  titulo: Friend of the World
+  original: Friend of the World
+  anio: 2020
+- grupo: mutantes
+  titulo: Nadie duerme en el bosque esta noche
+  original: W lesie dziś nie zaśnie nikt
+  anio: 2020
+- grupo: animales
+  titulo: Aquarium of the Dead
+  original: Aquarium of the Dead
+  anio: 2021
+- grupo: sin-muertos
+  titulo: Ejército de ladrones
+  original: Army of Thieves
+  anio: 2021
+- grupo: sin-muertos
+  titulo: Unhuman
+  original: Unhuman
+  anio: 2022
+- grupo: animales
+  titulo: 'Talchul: Project Silence'
+  original: 'Talchul: Project Silence'
+  anio: 2023
+- grupo: sin-muertos
+  titulo: The Damned
+  original: The Damned
+  anio: 2024
+- grupo: mutantes
+  titulo: The Gorge
+  original: The Gorge
+  anio: 2025
+- grupo: animacion
+  titulo: Seoul Station
+  original: Seoul-yeok
+  anio: 2016
+- grupo: musicales
+  titulo: Anna and the Apocalypse
+  original: Anna and the Apocalypse
+  anio: 2017
+- grupo: animacion
+  titulo: 'Resident Evil: Vendetta'
+  original: 'Biohazard: Vendetta'
+  anio: 2017
+- grupo: animacion
+  titulo: Zombillénium
+  original: Zombillénium
+  anio: 2017
+- grupo: musicales
+  titulo: Zombies
+  original: Zombies
+  anio: 2018
+- grupo: musicales
+  titulo: Zombies 2
+  original: Zombies 2
+  anio: 2020
+- grupo: musicales
+  titulo: Zombies 3
+  original: Zombies 3
+  anio: 2022
+- grupo: animacion
+  titulo: 'Resident Evil: Death Island'
+  original: 'Biohazard: Death Island'
+  anio: 2023
+- grupo: musicales
+  titulo: 'Zombies 4: Dawn of the Vampires'
+  original: 'Zombies 4: Dawn of the Vampires'
+  anio: 2025
+- grupo: documentales
+  titulo: Black Zombie
+  original: Black Zombie
+  anio: 2026

@@ -284,7 +284,7 @@ def escribir_canal(cuantas=20):
 
 
 def escribir_indice_busqueda():
-    """buscar.json: título, otros títulos y texto plano de cada reseña, para el buscador."""
+    """buscar.json: título, otros títulos y texto plano de cada reseña, y títulos de las descartadas."""
     import html as html_mod
     docs = []
     for p in PELICULAS:
@@ -293,6 +293,14 @@ def escribir_indice_busqueda():
         plano = re.sub(r"\s+", " ", html_mod.unescape(plano)).strip()
         docs.append({"t": p["titulo"], "a": p["anio"], "v": p["valoracion"], "r": p["ruta"].lstrip("/"),
                      "m": p.get("miniatura_webp") or "", "o": " · ".join(p.get("etiquetas") or []), "x": plano})
+    # Las descartadas solo se buscan por título y llevan al criterio que las deja fuera.
+    sobre = (RAIZ / "contenido" / "paginas" / "sobre.md").read_text(encoding="utf-8")
+    criterios = {g: n for n, g in re.findall(r"\*\*([^*]+?)\.\*\*[^\n]*\n\n<!-- descartes:([\w-]+) -->", sobre)}
+    for p in DESCARTES:
+        original = p.get("original") or ""
+        docs.append({"t": p["titulo"], "a": p.get("anio") or "s. f.", "r": f"p/los-zombis.html#descartes-{p['grupo']}",
+                     "o": original if normalizar(original) != normalizar(p["titulo"]) else "",
+                     "d": criterios[p["grupo"]], "x": ""})
     datos = json.dumps(docs, ensure_ascii=False, separators=(",", ":"))
     (SALIDA / "buscar.json").write_text(datos, encoding="utf-8")
     # La dirección lleva la huella del contenido: cambia solo cuando cambia alguna reseña.
@@ -341,6 +349,38 @@ def escribir_mapa():
     (SALIDA / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {URL}/sitemap.xml\n", encoding="utf-8")
 
 
+DESCARTES = yaml.safe_load((RAIZ / "contenido" / "descartadas.yml").read_text(encoding="utf-8"))
+
+
+def lista_descartes(grupo):
+    """Películas descartadas por un criterio de «Sobre el atlas»: título en España y año, y debajo el original."""
+    from html import escape
+    pelis = sorted((p for p in DESCARTES if p["grupo"] == grupo),
+                   key=lambda p: (p.get("anio") or 9999, normalizar(p["titulo"])))
+    if not pelis:
+        return ""
+    filas = "".join(
+        f'<li><span class="descarte-titulo">{escape(p["titulo"])}</span>'
+        f' <span class="descarte-anio">{p.get("anio") or "s. f."}</span>'
+        + (f'<span class="descarte-original">{escape(p["original"])}</span>'
+           if p.get("original") and normalizar(p["original"]) != normalizar(p["titulo"]) else "")
+        + "</li>"
+        for p in pelis)
+    n = len(pelis)
+    texto = "película descartada" if n == 1 else "películas descartadas"
+    return (f'<details class="descartes"><summary>{n} {texto}</summary>'
+            f'<ul class="descartes-lista">{filas}</ul></details>')
+
+
+CRITERIO = re.compile(r"<p>(<strong>[^<]+</strong>(?:(?!</?p>).)*)</p>\s*<!-- descartes:([\w-]+) -->", re.S)
+
+
+def criterios_descarte(html):
+    """Une cada criterio («**Nombre.** Definición.») con su lista de películas descartadas."""
+    return CRITERIO.sub(lambda m: (f'<div class="criterio" id="descartes-{m.group(2)}">'
+                                   f'<p>{m.group(1)}</p>{lista_descartes(m.group(2))}</div>'), html)
+
+
 def construir():
     if SALIDA.exists():
         shutil.rmtree(SALIDA)
@@ -379,8 +419,9 @@ def construir():
     for archivo in sorted((RAIZ / "contenido" / "paginas").glob("*.md")):
         meta, cuerpo = leer(archivo)
         seccion = "sagas" if "sagas" in meta["ruta"] else "sobre"
+        html_pagina = criterios_descarte(md_a_html(cuerpo, prefijo(meta["ruta"]), anclas=True))
         escribir(meta["ruta"], "pagina.html", seccion=seccion, meta=meta,
-                 texto=md_a_html(cuerpo, prefijo(meta["ruta"]), anclas=True),
+                 texto=html_pagina,
                  titulo_pagina=f"{meta['titulo']}. Atlas del cine de zombis",
                  descripcion=meta.get("descripcion") or resumen(cuerpo))
 

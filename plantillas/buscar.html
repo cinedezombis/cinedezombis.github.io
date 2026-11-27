@@ -7,9 +7,13 @@
     <label for="q">Palabras que buscar</label>
     <input id="q" name="q" type="search" autocomplete="off" spellcheck="false" placeholder="Por ejemplo, Fulci, vudú o Galicia">
   </form>
-  <p class="buscar-ayuda">Busca en los títulos y en el texto completo de las {{ total }} reseñas, sin importar mayúsculas ni tildes. Con varias palabras salen las reseñas que las contienen todas; entre comillas, la frase exacta.</p>
+  <p class="buscar-ayuda">Busca en los títulos y en el texto completo de las {{ total }} reseñas, y en los títulos de las películas que he descartado, sin importar mayúsculas ni tildes. Con varias palabras salen las reseñas que las contienen todas; entre comillas, la frase exacta.</p>
   <p class="buscar-recuento" aria-live="polite"></p>
   <ol class="buscar-resultados"></ol>
+  <section class="buscar-descartes" aria-labelledby="titulo-descartes" hidden>
+    <h2 id="titulo-descartes">Entre las películas descartadas</h2>
+    <ul class="buscar-descartes-lista"></ul>
+  </section>
   <noscript><p>El buscador necesita JavaScript. Mientras, tienes el <a href="{{ raiz }}p/peliculas-comentadas.html">índice de la A a la Z</a>.</p></noscript>
 </section>
 {% endblock %}
