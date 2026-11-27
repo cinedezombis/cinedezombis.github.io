@@ -6,6 +6,7 @@ Uso:  python3 build.py
 Lee las fichas de contenido/peliculas/*.md y las páginas de contenido/paginas/*.md,
 aplica las plantillas de plantillas/ y copia estatico/ tal cual.
 """
+import json
 import re
 import shutil
 import unicodedata
@@ -162,7 +163,7 @@ entorno = Environment(loader=FileSystemLoader(RAIZ / "plantillas"),
 entorno.filters["fecha"] = fecha_larga
 entorno.filters["fecha_corta"] = fecha_corta
 import hashlib
-VERSION = hashlib.sha1(b"".join((RAIZ / "estatico" / f).read_bytes() for f in ("css/estilo.css", "js/atlas.js"))).hexdigest()[:8]
+VERSION = hashlib.sha1(b"".join((RAIZ / "estatico" / f).read_bytes() for f in ("css/estilo.css", "js/atlas.js", "js/comun.js", "js/buscar.js"))).hexdigest()[:8]
 comunes = {"config": CONFIG, "libro": LIBRO, "total": len(PELICULAS), "version": VERSION,
            "primera": PELICULAS[0], "anio_min": PELICULAS[0]["anio"], "anio_max": ANIO_MAX}
 
@@ -236,6 +237,19 @@ def escribir_canal(cuantas=20):
     (SALIDA / "feed.xml").write_text(xml, encoding="utf-8")
 
 
+def escribir_indice_busqueda():
+    """buscar.json: título, otros títulos y texto plano de cada reseña, para el buscador."""
+    import html as html_mod
+    docs = []
+    for p in PELICULAS:
+        html_texto = re.sub(r"</(p|li|h\d|blockquote)>|<br\s*/?>", " ", md_a_html(p["cuerpo"], ""))
+        plano = re.sub(r"<[^>]+>", "", html_texto)
+        plano = re.sub(r"\s+", " ", html_mod.unescape(plano)).strip()
+        docs.append({"t": p["titulo"], "a": p["anio"], "v": p["valoracion"], "r": p["ruta"].lstrip("/"),
+                     "m": p.get("miniatura") or "", "o": " · ".join(p.get("etiquetas") or []), "x": plano})
+    (SALIDA / "buscar.json").write_text(json.dumps(docs, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+
 def construir():
     if SALIDA.exists():
         shutil.rmtree(SALIDA)
@@ -243,6 +257,7 @@ def construir():
     preparar_imagenes()
     preparar_cubierta()
     escribir_canal()
+    escribir_indice_busqueda()
 
     escribir("index.html", "inicio.html", seccion="atlas", columnas=COLUMNAS, decadas=DECADAS, max_por_anio=MAX_POR_ANIO,
              ultimas=ULTIMAS[:5],
@@ -274,6 +289,10 @@ def construir():
     escribir("/p/las-mejores.html", "mejores.html", seccion="mejores", grupos=grupos,
              titulo_pagina="Mejor valoradas. Atlas del cine de zombis",
              descripcion="Las películas de zombis que he puntuado con 3, 4 o 5 manchas de sangre.")
+
+    escribir("/p/buscar.html", "buscar.html", seccion="buscar",
+             titulo_pagina="Buscar en las reseñas. Atlas del cine de zombis",
+             descripcion="Busca cualquier palabra en las reseñas del atlas: títulos, directores, actores, países o lo que quieras.")
 
     escribir("404.html", "404.html", seccion="", titulo_pagina="Página no encontrada. Atlas del cine de zombis",
              descripcion="", canonica="")

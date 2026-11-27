@@ -94,6 +94,22 @@ cite { font-style: italic; }
 .menu a:hover { color: var(--sangre); }
 .menu a[aria-current="page"] { color: var(--tinta); text-decoration: underline 2px var(--sangre); text-underline-offset: .3em; }
 
+/* Lupa de la cabecera */
+.menu { position: relative; align-items: center; }
+.lupa { position: static; }
+.lupa > summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; color: var(--formol); padding: .15rem; border-radius: 2px; }
+.lupa > summary::-webkit-details-marker { display: none; }
+.lupa > summary:hover, .lupa[open] > summary, .lupa[data-actual] > summary { color: var(--sangre); }
+.lupa svg { width: 1.15rem; height: 1.15rem; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; }
+.lupa-form {
+  position: absolute; right: 0; top: calc(100% + .6rem); z-index: 5; display: flex; gap: .4rem;
+  width: min(22rem, calc(100vw - 2 * var(--margen))); padding: .6rem; background: var(--hueso-claro);
+  box-shadow: 0 0 0 1px var(--liquen), 0 10px 24px -12px rgba(22, 22, 22, .4);
+}
+.lupa-form input { flex: 1; min-width: 0; font: inherit; font-size: 1rem; padding: .4rem .55rem; border: 1px solid var(--liquen); background: var(--hueso); color: var(--tinta); }
+.lupa-form button { font: inherit; font-size: .9rem; padding: .4rem .75rem; border: 0; background: var(--tinta); color: var(--hueso-claro); cursor: pointer; }
+.lupa-form button:hover { background: var(--sangre); }
+
 /* Manchas de sangre (valoración) */
 .manchas { display: inline-flex; gap: 1px; vertical-align: middle; line-height: 0; }
 .manchas svg { width: 1.05rem; height: 1.05rem; }
@@ -292,6 +308,23 @@ main { position: relative; z-index: 0; overflow-x: clip; }
 .ultima-nueva { display: inline-block; margin-right: .35em; padding: 0 .35em; background: var(--sangre); color: var(--hueso-claro); font-size: .75rem; font-weight: 600; letter-spacing: .02em; border-radius: 2px; }
 @media (max-width: 1000px) { .ultimas-lista { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (max-width: 760px) { .ultimas-lista { grid-template-columns: 1fr; gap: .8rem; } }
+
+/* Página de búsqueda */
+.buscar-form label { display: block; font-size: .9rem; color: var(--formol); margin-bottom: .3rem; }
+.buscar-form input { width: 100%; max-width: 36rem; font: inherit; font-size: 1.15rem; padding: .55rem .7rem; border: 1px solid var(--liquen); background: var(--hueso-claro); color: var(--tinta); }
+.buscar-ayuda { max-width: 60ch; font-size: .9rem; color: var(--formol); margin: .6rem 0 1.5rem; }
+.buscar-recuento { font-weight: 600; margin: 0 0 1rem; }
+.buscar-resultados { list-style: none; margin: 0; padding: 0; max-width: 48rem; }
+.resultado + .resultado { border-top: 1px solid var(--musgo); }
+.resultado-enlace { display: grid; grid-template-columns: 40px minmax(0, 1fr); column-gap: .9rem; row-gap: .15rem; padding: .8rem .25rem; text-decoration: none; color: inherit; }
+.resultado-enlace:hover { background: var(--musgo); }
+.resultado-cartel { grid-row: 1 / span 3; display: block; width: 40px; height: 58px; object-fit: cover; background: var(--musgo); }
+.resultado-titulo { font-weight: 600; line-height: 1.3; }
+.resultado-enlace:hover .resultado-titulo { text-decoration: underline 1px var(--sangre); text-underline-offset: .18em; }
+.resultado-meta { display: flex; align-items: center; gap: .6rem; }
+.resultado-anio { font-family: var(--display); font-weight: 700; color: var(--formol); }
+.resultado-fragmento { font-size: .92rem; line-height: 1.5; color: var(--formol); }
+.buscar mark { background: #e6c3bb; color: var(--tinta); padding: 0 .05em; }
 
 /* Pie */
 .pie {

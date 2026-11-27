@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block contenido %}
+<section class="pagina buscar" data-indice="{{ raiz }}buscar.json?v={{ version }}" data-raiz="{{ raiz }}">
+  <h1 class="pagina-titulo">Buscar en las reseñas</h1>
+  <form class="buscar-form" role="search" method="get">
+    <label for="q">Palabras que buscar</label>
+    <input id="q" name="q" type="search" autocomplete="off" spellcheck="false" placeholder="Por ejemplo, Fulci, vudú o Galicia">
+  </form>
+  <p class="buscar-ayuda">Busca en los títulos y en el texto completo de las {{ total }} reseñas, sin importar mayúsculas ni tildes. Con varias palabras salen las reseñas que las contienen todas; entre comillas, la frase exacta.</p>
+  <p class="buscar-recuento" aria-live="polite"></p>
+  <ol class="buscar-resultados"></ol>
+  <noscript><p>El buscador necesita JavaScript. Mientras, tienes el <a href="{{ raiz }}p/peliculas-comentadas.html">índice de la A a la Z</a>.</p></noscript>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ raiz }}js/buscar.js?v={{ version }}" defer></script>{% endblock %}
