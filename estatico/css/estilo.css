@@ -1,5 +1,6 @@
 /* Atlas del cine de zombis
-   Paleta «Celuloide»: grises de película en blanco y negro, con la sangre seca como único color. */
+   Paleta «Celuloide»: grises de película en blanco y negro, con la sangre seca como único color.
+   La escala de valoración (r1–r5) va de rosa sangre a sangre seca: un solo tono, más oscuro cuanto mejor nota. */
 
 @font-face { font-family: "Big Shoulders Display"; font-style: normal; font-weight: 700; font-display: swap;
   src: url(../fuentes/big-shoulders-display-latin-700-normal.woff2) format("woff2");
@@ -34,11 +35,11 @@
   --formol: #575652;
   --tinta: #161616;
   --sangre: #8a1a12;
-  --r1: #c1c0bb;
-  --r2: #94938e;
-  --r3: #b85b4e;
-  --r4: #8a1a12;
-  --r5: #4a0b06;
+  --r1: #c98274;
+  --r2: #b05a49;
+  --r3: #923222;
+  --r4: #6f160d;
+  --r5: #420904;
   --display: "Big Shoulders Display", "Arial Narrow", "Roboto Condensed", sans-serif;
   --texto: "Literata", Georgia, "Times New Roman", serif;
   --medida: 64ch;
@@ -102,6 +103,17 @@ cite { font-style: italic; }
 
 /* Portada */
 .portada { padding-block: clamp(1.5rem, 6vw, 4.5rem) 1rem; }
+/* Mancha de la portada: grande, a la derecha del título y por detrás del texto */
+main { position: relative; z-index: 0; overflow-x: clip; }
+.portada { position: relative; }
+.portada-mancha {
+  position: absolute; z-index: -1; pointer-events: none; fill: var(--sangre);
+  right: calc(var(--margen) - 3rem); top: -3rem; width: clamp(11rem, 32vw, 26rem); height: auto; aspect-ratio: 1;
+  transform: rotate(14deg);
+}
+@media (max-width: 760px) {
+  .portada-mancha { width: 9.5rem; right: -2.25rem; top: -1.5rem; }
+}
 .portada-titulo {
   font-family: var(--display); font-weight: 800;
   font-size: clamp(3.4rem, 11vw, 9rem); line-height: .84; letter-spacing: -.005em;

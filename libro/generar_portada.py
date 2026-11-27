@@ -142,7 +142,8 @@ def html_contraportada(c):
 def colores(paleta=None):
     c = dict(paleta or paleta_web())
     c.setdefault("lista", c["liquen"])
-    c.setdefault("lista-anio", c["r2"])
+    # Los años de la lista de la cubierta van en gris: la escala de valoración de la web ya es toda roja.
+    c.setdefault("lista-anio", "#94938e")
     return c
 
 

@@ -3,17 +3,17 @@ titulo: Sobre el atlas
 ruta: /p/los-zombis.html
 ---
 
-*Este atlas nació del blog ZombisBlog, donde entre 2012 y 2016 se comentaron 299 películas de zombis. Esas reseñas se reproducen aquí como se publicaron, con las erratas corregidas. Lo que sigue es la declaración de principios con la que nació el blog, que fija qué entendemos por zombi y qué películas entran en la revisión.*
+*Este atlas nació en 2012 como el blog ZombisBlog, donde hasta 2016 se comentaron 299 películas de zombis. Aquellas reseñas se conservan como se publicaron, con las erratas corregidas, y desde 2026 el atlas vuelve a crecer con películas nuevas. Lo que sigue son los criterios que deciden qué es una película de zombis y cuáles entran en el atlas.*
 
-<p id="citar" class="cita-libro"><em>Las reseñas están también reunidas en el libro <cite>Atlas del cine de zombis. 299 películas comentadas desde 1932 hasta 2016</cite>, publicado en <a href="https://doi.org/10.5281/zenodo.24590776">Zenodo</a> con la misma licencia libre. Para citarlo:</em><br>Gómez Ruiz, M. Á. (2026). <cite>Atlas del cine de zombis. 299 películas comentadas desde 1932 hasta 2016</cite>. Zenodo. <a href="https://doi.org/10.5281/zenodo.24590776">https://doi.org/10.5281/zenodo.24590776</a></p>
+<p id="citar" class="cita-libro"><em>Las reseñas de esa primera etapa (2012–2016) están reunidas en el libro <cite>Atlas del cine de zombis. 299 películas comentadas desde 1932 hasta 2016</cite>, publicado en <a href="https://doi.org/10.5281/zenodo.24590776">Zenodo</a> con la misma licencia libre. Para citarlo:</em><br>Gómez Ruiz, M. Á. (2026). <cite>Atlas del cine de zombis. 299 películas comentadas desde 1932 hasta 2016</cite>. Zenodo. <a href="https://doi.org/10.5281/zenodo.24590776">https://doi.org/10.5281/zenodo.24590776</a></p>
 
-Un día nos planteamos ver todas las películas de zombis que existieran... ilusos de nosotros creímos que no alcanzarían la centena... nos equivocamos... y de esa equivocación surgió **Zombis Blog**... Pero comencemos por el principio, y es que si vamos a hacer un blog sobre películas de zombis, lo primero será plantearnos:
+Un día nos planteamos ver todas las películas de zombis que existieran... ilusos de nosotros creímos que no alcanzarían la centena... nos equivocamos... y de esa equivocación surgió **ZombisBlog**, el blog del que nace este atlas... Pero comencemos por el principio, y es que si vamos a hablar de películas de zombis, lo primero será plantearse:
 
-## ¿Qué entendemos por zombi?
+## ¿Qué es un zombi para este atlas?
 
 Si consultamos el diccionario encontramos que la palabra "zombi" es una voz originaria de **África occidental** y su significado es "**Persona que se supone muerta y que ha sido reanimada** **por arte de brujería, con el fin de dominar su voluntad**". De esta forma, la palabra zombi vendría a designar originalmente a un **muerto** -o que parece tal- **reanimado** por prácticas relacionadas con el **vudú y la magia negra**, quedando a voluntad del hechicero que le resucita mediante un ritual de brujería.
 
-Sin embargo, parece que con el paso del tiempo el concepto "zombi" se ha ido extendiendo gracias a la literatura y sobre todo al cine, ampliando y diversificando su significado. Actualmente es complicado discernir exactamente qué se entiende como zombi y por lo tanto qué películas deberían ser consideradas como tales. En un intento únicamente de acotar el campo, **desde este blog entendemos al zombi como un muerto viviente**, es decir:
+Sin embargo, parece que con el paso del tiempo el concepto "zombi" se ha ido extendiendo gracias a la literatura y sobre todo al cine, ampliando y diversificando su significado. Actualmente es complicado discernir exactamente qué se entiende como zombi y por lo tanto qué películas deberían ser consideradas como tales. En un intento únicamente de acotar el campo, **en este atlas entiendo al zombi como un muerto viviente**, es decir:
 
 **Una persona muerta que es reanimada por magia negra, experimentos científicos, radiaciones, productos químicos, virus o cualquier otro motivo.**
 
@@ -45,13 +45,13 @@ Ahora los zombis **normalmente contagian** a quienes muerden, provocándoles la 
 
 Dentro de la etapa anterior, hay quienes ya plantean una posible diferenciación a partir de 2002, cuando se estrena **"28 días después"**, una película que quizá no pueda considerarse como de muertos vivientes, pero que viene a marcar un punto de inflexión, sobre todo respecto a las características físicas de una nueva oleada de zombis, pudiendo ser ahora **rápidos, fuertes y ágiles**, rompiendo así con una de las características fundamentales de los muertos vivientes romerianos que se presentan como torpes, lentos y casi siempre con capacidades cognitivas y motrices muy limitadas. Este momento también se considera el inicio del **crecimiento exponencial del interés** por el fenómeno zombi que vivimos en la actualidad tras el bache de los años noventa.
 
-## Entonces... ¿qué películas comentamos aquí?
+## Entonces... ¿qué películas comento aquí?
 
-Pues comentamos películas que consideramos de zombis -¡premio para el caballero!- es decir, historias donde aparecen **muertos que han sido revividos** por uno u otro motivo. Y en este sentido, no importa que sea uno solo o un millón o que sea un muerto reanimado por antojo de un villano o por un virus radiactivo extraterrestre.
+Pues comento películas que considero de zombis -¡premio para el caballero!- es decir, historias donde aparecen **muertos que han sido revividos** por uno u otro motivo. Y en este sentido, no importa que sea uno solo o un millón o que sea un muerto reanimado por antojo de un villano o por un virus radiactivo extraterrestre.
 
-## ¿Y qué otras no comentamos?
+## ¿Y qué otras no comento?
 
-Por tratar de hacer la tarea abarcable y teniendo también en cuenta que en los últimos tiempos han ido apareciendo grabaciones que han ido estirando hasta el infinito lo que se puede considerar como una película de zombis, no comentamos filmaciones que no identifiquemos de muertos vivientes, como pueden ser:
+Por tratar de hacer la tarea abarcable y teniendo también en cuenta que en los últimos tiempos han ido apareciendo grabaciones que han ido estirando hasta el infinito lo que se puede considerar como una película de zombis, no comento filmaciones que no identifique como de muertos vivientes, como pueden ser:
 
 **- Películas de infectados**. Es decir, sobre infecciones víricas o tóxicas que no provocan la muerte, sino transformaciones, por ejemplo: "28 días después", "28 semanas después", "Soy Leyenda", "Infectados", "Zombies tóxicos", "Doghouse", "Severed", "I Zombie: The chronicles of pain", "La casa de la muerte", "Extinction: The G.M.O. Chronicles", "Las uvas de la muerte", "Dead Air", "Evilution", "Bloodlust zombies", "La hora fría", "Vampires vs. Zombies", "Evil (To Kako)", "Siege of the dead", "Dead sushi", "Mulberry Street", "Dulces Criaturas", "The Neighbor Zombie", "Maggie"...
 
@@ -59,16 +59,16 @@ Por tratar de hacer la tarea abarcable y teniendo también en cuenta que en los 
 
 **- Películas de fantasmas**. Es decir, entidades no corpóreas, por ejemplo: "J'accuse", "Roma contra Roma", "El barco de la muerte", "Los abandonados", "La niebla", "Un hombre lobo americano en Londres", "Los inocentes"...
 
-**- Películas de muertos vivientes con imaginario propio**. Con esto nos referimos a otras figuras que pueden considerarse como muertos reanimados, pero que tienen su propia tradición, por ejemplo: vampiros, momias, Frankenstein...
+**- Películas de muertos vivientes con imaginario propio**. Con esto me refiero a otras figuras que pueden considerarse como muertos reanimados, pero que tienen su propia tradición, por ejemplo: vampiros, momias, Frankenstein...
 
 **- Películas de hipnotizados.** Es decir, personas claramente vivas pero con la voluntad anulada, por ejemplo: "El Gabinete del Dr. Caligari", "Teenage Zombies"...
 
-Tampoco tratamos las filmaciones sobre **animales** zombis, sobre **mutantes** vivos, donde únicamente aparecen **esqueletos** o aquellas otras donde solo se sugiere el fenómeno zombi pero donde **no aparece** ningún muerto viviente.
+Tampoco trato las filmaciones sobre **animales** zombis, sobre **mutantes** vivos, donde únicamente aparecen **esqueletos** o aquellas otras donde solo se sugiere el fenómeno zombi pero donde **no aparece** ningún muerto viviente.
 
-No obstante hay que tener en cuenta que esta declaración de principios pretende marcar un umbral, pero de forma **flexible**, ya que existen producciones que son confusas, abiertas a interpretaciones, y que efectivamente podemos considerar introducirlas si existen evidencias razonables de que están protagonizadas por muertos vivientes.
+No obstante hay que tener en cuenta que esta declaración de principios pretende marcar un umbral, pero de forma **flexible**, ya que existen producciones que son confusas, abiertas a interpretaciones, y que efectivamente puedo considerar incluirlas si existen evidencias razonables de que están protagonizadas por muertos vivientes.
 
-Y ya por último, debemos aclarar que en este blog únicamente comentamos películas, por lo que no revisamos series, libros, anuncios, cortos, videojuegos, documentales u obras de animación o musicales sobre la temática zombi.
+Y ya por último, en este atlas solo comento películas, así que no reviso series, libros, anuncios, cortos, videojuegos, documentales u obras de animación o musicales sobre la temática zombi.
 
-**¡Gracias por visitarnos!**
+**¡Gracias por la visita!**
 
-*El equipo de Zombis Blog: Migue y Libi*
+*Miguel Ángel Gómez*

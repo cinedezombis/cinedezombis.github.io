@@ -3,7 +3,7 @@
 {% block contenido %}
 <article class="pagina pagina-ancha">
   <h1 class="pagina-titulo">Índice de la A a la Z</h1>
-  <p class="pagina-entradilla">Las {{ total }} películas por orden alfabético del título con el que las comentamos.</p>
+  <p class="pagina-entradilla">Las {{ total }} películas por orden alfabético del título con el que aparecen en el atlas.</p>
   <nav class="saltos saltos-letras" aria-label="Ir a una letra">
     {% for letra in letras %}<a href="#letra-{{ letra }}">{{ letra }}</a>{% endfor %}
   </nav>

@@ -3,7 +3,8 @@
 {% block contenido %}
 <section class="portada">
   <h1 class="portada-titulo">{{ total }} películas de zombis</h1>
-  <p class="portada-entradilla">Entre 2012 y 2016, en el blog ZombisBlog, nos propusimos ver y comentar todas las películas de muertos vivientes que pudiéramos encontrar, desde <a href="{{ raiz }}{{ primera.ruta.lstrip('/') }}"><cite>{{ primera.titulo }}</cite></a> ({{ primera.anio }}) en adelante. Este atlas las ordena por año de estreno y por la nota que les pusimos, de una a cinco manchas de sangre.</p>
+  <svg class="portada-mancha" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="#mancha"/></svg>
+  <p class="portada-entradilla">Empecé en 2012 con el blog ZombisBlog y, tras una pausa, sigo con la misma idea: ver y comentar todas las películas de muertos vivientes, desde <a href="{{ raiz }}{{ primera.ruta.lstrip('/') }}"><cite>{{ primera.titulo }}</cite></a> ({{ primera.anio }}) hasta las más recientes. Este atlas las ordena por año de estreno y por la nota que les pongo, de una a cinco manchas de sangre.</p>
 </section>
 
 <section class="estratos" aria-labelledby="titulo-estratos">

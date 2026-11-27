@@ -38,7 +38,7 @@
     {% if libro.cubierta %}<a class="pie-cubierta" href="{{ raiz }}libro/{{ libro.pdf or libro.epub }}" tabindex="-1" aria-hidden="true"><img src="{{ raiz }}img/{{ libro.cubierta }}" width="{{ (libro.cubierta_tamano[0] / 2)|int }}" height="{{ (libro.cubierta_tamano[1] / 2)|int }}" alt="" loading="lazy"></a>{% endif %}
     <div>
       <h2 id="pie-libro-titulo">El libro</h2>
-      <p>Las reseñas publicadas en ZombisBlog entre 2012 y 2016 están también en forma de libro, con la misma licencia libre.</p>
+      <p>La primera etapa del atlas, las 299 reseñas publicadas en el blog ZombisBlog entre 2012 y 2016, está también en forma de libro, con la misma licencia libre.</p>
       <p class="pie-descargas">{% if libro.pdf %}<a href="{{ raiz }}libro/{{ libro.pdf }}">Descargar en PDF <span>{{ libro.pdf_mb|string|replace('.', ',') }} MB</span></a>{% endif %}{% if libro.epub %}<a href="{{ raiz }}libro/{{ libro.epub }}">Descargar en EPUB <span>{{ libro.epub_mb|string|replace('.', ',') }} MB</span></a>{% endif %}</p>
       {% if config.libro_doi %}<p class="pie-zenodo">Publicado también en <a href="https://doi.org/{{ config.libro_doi }}">Zenodo</a> con el DOI {{ config.libro_doi }}. <a href="{{ raiz }}p/los-zombis.html#citar">Cómo citarlo</a>.</p>{% endif %}
     </div>
@@ -56,7 +56,7 @@
   </nav>
   <section class="pie-creditos" aria-labelledby="pie-creditos-titulo">
     <h2 id="pie-creditos-titulo">Licencia</h2>
-    <p>Textos de Miguel Ángel Gómez Ruiz, publicados originalmente en el blog ZombisBlog entre 2012 y 2016, con licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" rel="license">CC BY-NC-SA 4.0</a>.</p>
+    <p>Textos de Miguel Ángel Gómez Ruiz con licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" rel="license">CC BY-NC-SA 4.0</a>. Las reseñas de 2012 a 2016 se publicaron primero en el blog ZombisBlog.</p>
     <p>Los carteles pertenecen a sus titulares y se reproducen solo para identificar cada película.</p>
   </section>
 </footer>

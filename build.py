@@ -237,7 +237,7 @@ def construir():
     grupos = [(v, [p for p in PELICULAS if p["valoracion"] == v]) for v in (5, 4, 3)]
     escribir("/p/las-mejores.html", "mejores.html", seccion="mejores", grupos=grupos,
              titulo_pagina="Mejor valoradas. Atlas del cine de zombis",
-             descripcion="Las películas de zombis que puntuamos con 3, 4 o 5 manchas de sangre.")
+             descripcion="Las películas de zombis que he puntuado con 3, 4 o 5 manchas de sangre.")
 
     escribir("404.html", "404.html", seccion="", titulo_pagina="Página no encontrada. Atlas del cine de zombis",
              descripcion="", canonica="")

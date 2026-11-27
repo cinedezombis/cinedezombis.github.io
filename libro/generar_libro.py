@@ -57,7 +57,9 @@ def leer_pagina(nombre):
 
 
 def introduccion():
-    _, cuerpo = leer_pagina("sobre")
+    # El libro conserva la declaración de principios tal como estaba en el blog (2012–2016),
+    # aunque la página «Sobre el atlas» de la web se actualice.
+    _, cuerpo = build.leer(LIBRO / "introduccion.md")
     parrafos = cuerpo.split("\n\n")
     # Fuera la nota del atlas (primer párrafo en cursiva), la cita del libro y el saludo final de la web.
     parrafos = [p for p in parrafos if not p.startswith(("*Este atlas", '<p id="citar"')) and "Gracias por visitarnos" not in p]
