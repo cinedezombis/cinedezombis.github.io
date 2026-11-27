@@ -69,7 +69,7 @@ def sagas():
     return enlaces(cuerpo)
 
 
-NOTA = f"""Este libro reúne las {len(build.PELICULAS)} reseñas que se publicaron en el blog ZombisBlog entre marzo de 2012 y diciembre de 2016. Los textos se reproducen tal y como aparecieron en el blog, con ajustes únicamente tipográficos; se han suprimido los carteles y los vídeos que acompañaban a cada entrada.
+NOTA = f"""Este libro reúne las {len(build.PELICULAS)} reseñas que se publicaron en el blog ZombisBlog entre marzo de 2012 y diciembre de 2016. Los textos se reproducen tal y como aparecieron en el blog, con las erratas ortográficas y gramaticales corregidas y algunos ajustes tipográficos; se han suprimido los carteles y los vídeos que acompañaban a cada entrada. La versión web del atlas, con carteles y tráileres, está en <https://cinedezombis.github.io>.
 
 Las películas se ordenan por año de estreno y se agrupan por décadas; dentro de cada año siguen el orden alfabético. Cada reseña conserva la valoración original, de una a cinco manchas de sangre. La introducción recoge los criterios con los que se decidió qué es una película de zombis y cuáles entraban en la revisión.
 
