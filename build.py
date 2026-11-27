@@ -117,7 +117,9 @@ if carpeta_libro.exists():
 entorno = Environment(loader=FileSystemLoader(RAIZ / "plantillas"),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
 entorno.filters["fecha"] = fecha_larga
-comunes = {"config": CONFIG, "libro": LIBRO, "total": len(PELICULAS),
+import hashlib
+VERSION = hashlib.sha1(b"".join((RAIZ / "estatico" / f).read_bytes() for f in ("css/estilo.css", "js/atlas.js"))).hexdigest()[:8]
+comunes = {"config": CONFIG, "libro": LIBRO, "total": len(PELICULAS), "version": VERSION,
            "primera": PELICULAS[0], "anio_min": PELICULAS[0]["anio"], "anio_max": ANIO_MAX}
 
 

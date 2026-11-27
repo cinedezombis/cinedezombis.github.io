@@ -110,16 +110,19 @@ cite { font-style: italic; }
 .portada-entradilla { font-size: 1.2rem; max-width: 58ch; margin: 0; }
 
 /* Estratos: el gráfico de 299 películas */
-.estratos { padding-block: 1.5rem 3rem; }
+.estratos { padding-block: 1.5rem 3rem; container-type: inline-size; }
 .lectura { min-height: 2.4rem; margin: 0 0 .75rem; display: flex; flex-wrap: wrap; align-items: center; gap: .25rem .75rem; font-size: 1.05rem; }
 .lectura-ayuda { color: var(--formol); }
 .lectura strong { font-weight: 650; }
 .grafico-marco {
   --hueco: 2px;
-  --celda-w: clamp(5px, calc((min(100vw, var(--ancho)) - 2 * var(--margen)) / 87 - 2px - 0.1px), 11px);
+  --celda-w: clamp(5px, calc((min(100vw, var(--ancho)) - 2 * var(--margen) - 20px) / 87 - 2px), 11px);
   --celda-h: var(--celda-w);
   overflow-x: auto; overscroll-behavior-x: contain; padding-bottom: .5rem;
   scrollbar-width: thin; scrollbar-color: var(--liquen) transparent;
+}
+@supports (width: 1cqw) {
+  .grafico-marco { --celda-w: clamp(5px, calc(100cqw / 87 - 2px), 11px); }
 }
 .grafico, .suelo {
   display: grid;
@@ -266,6 +269,7 @@ cite { font-style: italic; }
   body { font-size: 1.0625rem; }
   .filtros { grid-template-columns: 1fr; }
   .grafico-marco { --hueco: 1px; --celda-w: calc((100vw - 2 * var(--margen)) / 87 - 1px); --celda-h: 6px; overflow-x: visible; }
+  @supports (width: 1cqw) { .grafico-marco { --celda-w: calc(100cqw / 87 - 1px); } }
   .suelo span { font-size: .8rem; padding-left: .1rem; }
   .decada { grid-template-columns: 1fr; padding-block: 1.5rem; }
   .decada-num { position: static; font-size: 3.6rem; margin-bottom: .5rem; }
