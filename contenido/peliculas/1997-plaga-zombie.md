@@ -7,6 +7,8 @@ ruta: /2012/04/1997-plaga-zombie.html
 cartel: 1997-plaga-zombie.jpg
 etiquetas: []
 videos:
+- etiqueta: Tráiler
+  youtube: G0azdyrWZJ8
 - etiqueta: Vídeo
   youtube: hUFR2j7PCbk
 - etiqueta: Vídeo

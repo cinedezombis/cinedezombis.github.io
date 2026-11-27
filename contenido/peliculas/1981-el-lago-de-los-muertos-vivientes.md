@@ -7,6 +7,8 @@ ruta: /2012/08/1981-el-lago-de-los-muertos-vivientes.html
 cartel: 1981-el-lago-de-los-muertos-vivientes.jpg
 etiquetas: []
 videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: QBg-esEvE0M
 - etiqueta: Fragmento (en inglés)
   youtube: BKireO7F2WU
 cartel_tamano:

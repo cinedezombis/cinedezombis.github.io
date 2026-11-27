@@ -9,6 +9,8 @@ etiquetas:
 - Creepshow
 - El día del padre
 videos:
+- etiqueta: Tráiler
+  youtube: Pq_UU_ohPw0
 - etiqueta: Resumen "El día del padre"
   youtube: OezJz5TZa7E
 cartel_tamano:

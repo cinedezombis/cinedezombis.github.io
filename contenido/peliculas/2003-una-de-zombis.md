@@ -6,7 +6,9 @@ publicado: '2012-03-31'
 ruta: /2012/03/2003-una-de-zombis.html
 cartel: 2003-una-de-zombis.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler
+  youtube: ADvIg-N0BLE
 cartel_tamano:
 - 497
 - 700

@@ -6,7 +6,9 @@ publicado: '2013-08-25'
 ruta: /2013/08/2005-die-you-zombie-bastards.html
 cartel: 2005-die-you-zombie-bastards.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: fBXvNALBot4
 cartel_tamano:
 - 289
 - 448

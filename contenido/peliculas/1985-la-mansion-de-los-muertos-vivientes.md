@@ -6,7 +6,9 @@ publicado: '2012-12-11'
 ruta: /2012/12/1985-la-mansion-de-los-muertos-vivientes.html
 cartel: 1985-la-mansion-de-los-muertos-vivientes.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler
+  youtube: SKggvFkU8ik
 cartel_tamano:
 - 377
 - 523

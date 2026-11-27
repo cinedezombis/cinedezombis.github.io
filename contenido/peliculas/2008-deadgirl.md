@@ -6,7 +6,9 @@ publicado: '2014-12-14'
 ruta: /2014/12/2008-deadgirl.html
 cartel: 2008-deadgirl.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: -2SSL6Ipnvw
 cartel_tamano:
 - 290
 - 407

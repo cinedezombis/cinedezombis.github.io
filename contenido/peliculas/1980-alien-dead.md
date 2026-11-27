@@ -6,7 +6,9 @@ publicado: '2012-04-27'
 ruta: /2012/04/1980-alien-dead.html
 cartel: 1980-alien-dead.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: MV3v35cQ2mU
 cartel_tamano:
 - 272
 - 384

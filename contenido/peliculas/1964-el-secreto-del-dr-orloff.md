@@ -6,7 +6,9 @@ publicado: '2014-03-27'
 ruta: /2014/03/1964-el-secreto-del-dr-orloff.html
 cartel: 1964-el-secreto-del-dr-orloff.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en italiano)
+  youtube: F30Q9NGHGSM
 cartel_tamano:
 - 548
 - 782

@@ -6,7 +6,9 @@ publicado: '2014-04-01'
 ruta: /2014/04/2010-zombie-driftwood.html
 cartel: 2010-zombie-driftwood.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: IegoUKAEwSk
 cartel_tamano:
 - 434
 - 612

@@ -6,7 +6,9 @@ publicado: '2013-03-03'
 ruta: /2013/03/1961-santo-contra-los-zombies.html
 cartel: 1961-santo-contra-los-zombies.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler
+  youtube: HwxXIzzWdt0
 cartel_tamano:
 - 305
 - 400

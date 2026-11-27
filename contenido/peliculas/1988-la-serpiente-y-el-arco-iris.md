@@ -7,7 +7,7 @@ ruta: /2012/04/1988-la-serpiente-y-el-arco-iris.html
 cartel: 1988-la-serpiente-y-el-arco-iris.jpg
 etiquetas: []
 videos:
-- etiqueta: Vídeo
+- etiqueta: Tráiler (en inglés)
   youtube: EPWTvbTWhZc
 cartel_tamano:
 - 295

@@ -7,6 +7,8 @@ ruta: /2012/10/1980-las-noches-eroticas-de-los-muertos.html
 cartel: 1980-las-noches-eroticas-de-los-muertos.jpg
 etiquetas: []
 videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: kMk1fk1S8kM
 - etiqueta: Escena (en italiano)
   youtube: HD4Wyz2GQOg
 cartel_tamano:

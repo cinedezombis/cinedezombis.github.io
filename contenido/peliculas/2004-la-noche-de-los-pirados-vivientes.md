@@ -6,7 +6,9 @@ publicado: '2013-03-23'
 ruta: /2013/03/2004-la-noche-de-los-pirados-vivientes.html
 cartel: 2004-la-noche-de-los-pirados-vivientes.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en alemán)
+  youtube: BE9PcW_62mA
 cartel_tamano:
 - 285
 - 400

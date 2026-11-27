@@ -6,7 +6,9 @@ publicado: '2014-09-07'
 ruta: /2014/09/2012-dead-season.html
 cartel: 2012-dead-season.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: H176VsPJ5wM
 cartel_tamano:
 - 337
 - 500

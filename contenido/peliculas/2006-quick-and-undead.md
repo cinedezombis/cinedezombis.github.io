@@ -6,7 +6,9 @@ publicado: '2013-10-06'
 ruta: /2013/10/2006-quick-and-undead.html
 cartel: 2006-quick-and-undead.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: 6elXj1PP7QU
 cartel_tamano:
 - 325
 - 461

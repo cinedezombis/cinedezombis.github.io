@@ -6,7 +6,9 @@ publicado: '2015-02-07'
 ruta: /2015/02/1989-la-maldicion-del-templo-azteca.html
 cartel: 1989-la-maldicion-del-templo-azteca.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: CIH2AhcaYO4
 cartel_tamano:
 - 460
 - 725

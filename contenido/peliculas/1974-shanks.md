@@ -7,6 +7,8 @@ ruta: /2014/04/1974-shanks.html
 cartel: 1974-shanks.jpg
 etiquetas: []
 videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: ngFocje2V1I
 - etiqueta: Escena
   youtube: Z7s7RJhvl70
 cartel_tamano:

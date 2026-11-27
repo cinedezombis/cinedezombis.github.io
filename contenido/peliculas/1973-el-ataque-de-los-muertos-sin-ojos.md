@@ -7,6 +7,8 @@ ruta: /2012/11/1973-el-ataque-de-los-muertos-sin-ojos.html
 cartel: 1973-el-ataque-de-los-muertos-sin-ojos.jpg
 etiquetas: []
 videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: KynyReq_ClY
 - etiqueta: Vídeo
   youtube: Kt5xQbJ_w4M
 cartel_tamano:

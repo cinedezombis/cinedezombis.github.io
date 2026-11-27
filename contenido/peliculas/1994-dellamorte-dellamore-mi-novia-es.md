@@ -8,7 +8,9 @@ cartel: 1994-dellamorte-dellamore-mi-novia-es.jpg
 etiquetas:
 - Mi novia es un zombie
 - Dellamorte Dellamore
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: I6o0TJNC77I
 cartel_tamano:
 - 300
 - 455

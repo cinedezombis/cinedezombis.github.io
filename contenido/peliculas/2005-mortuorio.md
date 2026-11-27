@@ -6,7 +6,9 @@ publicado: '2013-01-28'
 ruta: /2013/01/2005-mortuorio.html
 cartel: 2005-mortuorio.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: 4haHIVSOzHQ
 cartel_tamano:
 - 304
 - 450

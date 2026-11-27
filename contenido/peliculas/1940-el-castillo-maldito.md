@@ -7,6 +7,8 @@ ruta: /2012/08/1940-el-castillo-maldito.html
 cartel: 1940-el-castillo-maldito.jpg
 etiquetas: []
 videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: 1Td7YVGfXbc
 - etiqueta: Escena
   youtube: _i8HEW4pb_0
 cartel_tamano:

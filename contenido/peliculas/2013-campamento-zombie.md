@@ -6,7 +6,9 @@ publicado: '2014-12-21'
 ruta: /2014/12/2013-campamento-zombie.html
 cartel: 2013-campamento-zombie.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: ERIWZCviCI0
 cartel_tamano:
 - 240
 - 359

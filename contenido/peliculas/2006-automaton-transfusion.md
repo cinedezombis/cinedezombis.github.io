@@ -6,7 +6,9 @@ publicado: '2015-02-08'
 ruta: /2015/02/2006-automaton-transfusion.html
 cartel: 2006-automaton-transfusion.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: AuUfo7G-lOE
 cartel_tamano:
 - 346
 - 468

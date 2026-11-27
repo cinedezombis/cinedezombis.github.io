@@ -6,7 +6,9 @@ publicado: '2014-12-08'
 ruta: /2014/12/1986-guerreros-del-mas-alla.html
 cartel: 1986-guerreros-del-mas-alla.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: spihLf3qnZU
 cartel_tamano:
 - 300
 - 425

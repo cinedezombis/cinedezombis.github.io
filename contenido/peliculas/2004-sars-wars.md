@@ -6,7 +6,9 @@ publicado: '2015-11-29'
 ruta: /2015/11/2004-sars-wars.html
 cartel: 2004-sars-wars.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler
+  youtube: WZI8nbii_WE
 cartel_tamano:
 - 333
 - 500

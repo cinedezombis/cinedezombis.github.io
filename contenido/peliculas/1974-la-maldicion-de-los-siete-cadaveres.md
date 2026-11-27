@@ -7,6 +7,8 @@ ruta: /2013/01/1974-la-maldicion-de-los-siete-cadaveres.html
 cartel: 1974-la-maldicion-de-los-siete-cadaveres.jpg
 etiquetas: []
 videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: DE-Muzq-puc
 - etiqueta: Comienzo
   youtube: dahJRsNnC94
 cartel_tamano:

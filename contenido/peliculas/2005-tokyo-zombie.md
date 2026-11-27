@@ -6,7 +6,9 @@ publicado: '2013-02-01'
 ruta: /2013/02/2005-tokyo-zombie.html
 cartel: 2005-tokyo-zombie.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en japonés)
+  youtube: dZwqL08RCwM
 cartel_tamano:
 - 307
 - 448

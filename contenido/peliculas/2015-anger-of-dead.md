@@ -6,7 +6,9 @@ publicado: '2016-09-02'
 ruta: /2016/09/2015-anger-of-dead.html
 cartel: 2015-anger-of-dead.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: vtXEF-E74EQ
 cartel_tamano:
 - 560
 - 791

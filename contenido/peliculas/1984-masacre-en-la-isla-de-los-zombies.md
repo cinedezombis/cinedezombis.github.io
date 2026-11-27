@@ -6,7 +6,9 @@ publicado: '2016-12-22'
 ruta: /2016/12/1984-masacre-en-la-isla-de-los-zombies.html
 cartel: 1984-masacre-en-la-isla-de-los-zombies.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: QQ9TKzjy82k
 cartel_tamano:
 - 315
 - 500

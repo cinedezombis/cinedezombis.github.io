@@ -6,7 +6,9 @@ publicado: '2013-09-30'
 ruta: /2013/09/1985-hard-rock-zombies.html
 cartel: 1985-hard-rock-zombies.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: QzLH7DZw3EY
 cartel_tamano:
 - 286
 - 448

@@ -6,7 +6,9 @@ publicado: '2014-04-14'
 ruta: /2014/04/2009-zombie-women-of-satan.html
 cartel: 2009-zombie-women-of-satan.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: 7ncdwkvCHkg
 cartel_tamano:
 - 501
 - 720

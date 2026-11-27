@@ -6,7 +6,9 @@ publicado: '2015-04-05'
 ruta: /2015/04/2011-eaters.html
 cartel: 2011-eaters.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: Iedm9MKXizk
 cartel_tamano:
 - 214
 - 317

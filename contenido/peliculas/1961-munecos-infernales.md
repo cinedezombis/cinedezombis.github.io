@@ -6,7 +6,9 @@ publicado: '2016-02-14'
 ruta: /2016/02/1961-munecos-infernales.html
 cartel: 1961-munecos-infernales.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: fq2_4zTC2VU
 cartel_tamano:
 - 383
 - 521

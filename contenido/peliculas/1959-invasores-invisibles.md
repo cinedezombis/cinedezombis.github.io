@@ -6,7 +6,9 @@ publicado: '2012-05-19'
 ruta: /2012/05/1959-invasores-invisibles.html
 cartel: 1959-invasores-invisibles.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: _c5x_KRq9fc
 cartel_tamano:
 - 423
 - 640

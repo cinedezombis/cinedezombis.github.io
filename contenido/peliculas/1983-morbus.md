@@ -6,7 +6,9 @@ publicado: '2016-07-25'
 ruta: /2016/07/1983-morbus.html
 cartel: 1983-morbus.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Escena
+  youtube: XZ5arUcz5xA
 cartel_tamano:
 - 315
 - 450

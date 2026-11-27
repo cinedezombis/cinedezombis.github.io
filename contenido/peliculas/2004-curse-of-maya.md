@@ -7,6 +7,8 @@ ruta: /2016/07/2004-curse-of-maya.html
 cartel: 2004-curse-of-maya.jpg
 etiquetas: []
 videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: EUB5m1et2Ac
 - etiqueta: Fragmento
   youtube: CfkTJSakl3c
 cartel_tamano:

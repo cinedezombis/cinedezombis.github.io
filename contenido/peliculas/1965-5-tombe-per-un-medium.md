@@ -6,7 +6,9 @@ publicado: '2015-07-24'
 ruta: /2015/07/1965-5-tombe-per-un-medium.html
 cartel: 1965-5-tombe-per-un-medium.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: FOV8wSwqsOM
 cartel_tamano:
 - 300
 - 499

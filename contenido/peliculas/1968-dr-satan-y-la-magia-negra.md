@@ -6,7 +6,9 @@ publicado: '2014-10-03'
 ruta: /2014/10/1968-dr-satan-y-la-magia-negra.html
 cartel: 1968-dr-satan-y-la-magia-negra.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler
+  youtube: MmuU2Z4Aam4
 cartel_tamano:
 - 284
 - 390

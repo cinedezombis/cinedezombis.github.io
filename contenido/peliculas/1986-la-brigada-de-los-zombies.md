@@ -6,7 +6,9 @@ publicado: '2012-06-10'
 ruta: /2012/06/1986-la-brigada-de-los-zombies.html
 cartel: 1986-la-brigada-de-los-zombies.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: zaPznmyOAow
 cartel_tamano:
 - 274
 - 400

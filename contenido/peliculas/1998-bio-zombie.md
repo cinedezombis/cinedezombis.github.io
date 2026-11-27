@@ -6,7 +6,9 @@ publicado: '2012-10-21'
 ruta: /2012/10/1998-bio-zombie.html
 cartel: 1998-bio-zombie.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: sCZTIg6Nm2k
 cartel_tamano:
 - 300
 - 428

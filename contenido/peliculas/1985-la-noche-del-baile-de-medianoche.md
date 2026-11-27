@@ -6,7 +6,9 @@ publicado: '2013-01-02'
 ruta: /2013/01/1985-la-noche-del-baile-de-medianoche.html
 cartel: 1985-la-noche-del-baile-de-medianoche.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: XDo2IZ7D-ek
 cartel_tamano:
 - 300
 - 429

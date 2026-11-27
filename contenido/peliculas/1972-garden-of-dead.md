@@ -6,7 +6,9 @@ publicado: '2015-03-01'
 ruta: /2015/03/1972-garden-of-dead.html
 cartel: 1972-garden-of-dead.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: b8Mqhe585J0
 cartel_tamano:
 - 300
 - 452

@@ -8,7 +8,9 @@ cartel: 2005-all-souls-day-dia-de-los-muertos.jpg
 etiquetas:
 - Día de los muertos
 - All souls day
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: M7-q3Jn5elw
 cartel_tamano:
 - 355
 - 500

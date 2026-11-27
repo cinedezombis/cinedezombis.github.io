@@ -8,7 +8,9 @@ cartel: 1991-battle-girl-living-dead-in-tokyo.jpg
 etiquetas:
 - Battle Girl
 - The living dead in Tokyo Bay
-videos: []
+videos:
+- etiqueta: Tráiler
+  youtube: 9YjiaRJxuQQ
 cartel_tamano:
 - 284
 - 405

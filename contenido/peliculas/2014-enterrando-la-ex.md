@@ -6,7 +6,9 @@ publicado: '2016-01-24'
 ruta: /2016/01/2014-enterrando-la-ex.html
 cartel: 2014-enterrando-la-ex.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: L8gJbE3LYNs
 cartel_tamano:
 - 315
 - 410

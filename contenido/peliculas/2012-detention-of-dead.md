@@ -6,7 +6,9 @@ publicado: '2013-08-23'
 ruta: /2013/08/2012-detention-of-dead.html
 cartel: 2012-detention-of-dead.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: F1O4sZzJSmo
 cartel_tamano:
 - 480
 - 621

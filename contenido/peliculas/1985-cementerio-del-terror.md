@@ -6,7 +6,9 @@ publicado: '2014-04-16'
 ruta: /2014/04/1985-cementerio-del-terror.html
 cartel: 1985-cementerio-del-terror.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Escena
+  youtube: 4X-4FxjoYVQ
 cartel_tamano:
 - 364
 - 500

@@ -8,7 +8,9 @@ cartel: 1991-black-demons-demoni-3.jpg
 etiquetas:
 - Demoni 3
 - Black demons
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: m8yie32VmcM
 cartel_tamano:
 - 305
 - 470

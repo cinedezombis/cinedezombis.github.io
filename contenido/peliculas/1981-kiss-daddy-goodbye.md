@@ -6,7 +6,9 @@ publicado: '2014-04-19'
 ruta: /2014/04/1981-kiss-daddy-goodbye.html
 cartel: 1981-kiss-daddy-goodbye.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: mUn5sopcfVk
 cartel_tamano:
 - 374
 - 498

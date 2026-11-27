@@ -8,7 +8,9 @@ cartel: 1992-braindead-tu-madre-se-ha-comido-mi.jpg
 etiquetas:
 - Braindead
 - Tu madre se ha comido a mi perro
-videos: []
+videos:
+- etiqueta: Tráiler
+  youtube: UNQUiBqePuQ
 cartel_tamano:
 - 560
 - 808

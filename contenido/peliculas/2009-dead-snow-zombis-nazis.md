@@ -8,7 +8,9 @@ cartel: 2009-dead-snow-zombis-nazis.jpg
 etiquetas:
 - Zombis nazis
 - Dead snow
-videos: []
+videos:
+- etiqueta: Tráiler
+  youtube: pE0usRqZvm0
 cartel_tamano:
 - 300
 - 448

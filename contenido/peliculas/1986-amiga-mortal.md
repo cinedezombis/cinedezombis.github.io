@@ -6,7 +6,9 @@ publicado: '2012-06-16'
 ruta: /2012/06/1986-amiga-mortal.html
 cartel: 1986-amiga-mortal.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: EUww3bkN3lY
 cartel_tamano:
 - 500
 - 755

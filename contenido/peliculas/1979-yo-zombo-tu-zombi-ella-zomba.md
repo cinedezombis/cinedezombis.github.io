@@ -9,7 +9,9 @@ etiquetas:
 - tú zombi
 - Yo zombo
 - ella zomba
-videos: []
+videos:
+- etiqueta: Escena
+  youtube: 69q5zKO-T2w
 cartel_tamano:
 - 305
 - 443

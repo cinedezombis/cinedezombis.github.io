@@ -7,6 +7,8 @@ ruta: /2012/09/1989-mondo-zombie.html
 cartel: 1989-mondo-zombie.jpg
 etiquetas: []
 videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: mKJPKZEWL7M
 - etiqueta: Vídeo
   youtube: CmwurdZGnr0
 cartel_tamano:

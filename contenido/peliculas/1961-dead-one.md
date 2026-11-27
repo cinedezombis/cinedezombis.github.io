@@ -6,7 +6,9 @@ publicado: '2015-05-29'
 ruta: /2015/05/1961-dead-one.html
 cartel: 1961-dead-one.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: o8jc1QJT6o8
 cartel_tamano:
 - 400
 - 623

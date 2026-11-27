@@ -6,7 +6,9 @@ publicado: '2012-07-08'
 ruta: /2012/07/2001-los-hijos-de-los-muertos-vivientes.html
 cartel: 2001-los-hijos-de-los-muertos-vivientes.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: qVd6VzoH4c8
 cartel_tamano:
 - 335
 - 475

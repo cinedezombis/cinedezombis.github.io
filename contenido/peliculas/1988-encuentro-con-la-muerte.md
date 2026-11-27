@@ -6,7 +6,9 @@ publicado: '2013-07-25'
 ruta: /2013/07/1988-encuentro-con-la-muerte.html
 cartel: 1988-encuentro-con-la-muerte.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: DF0syKM-P2o
 cartel_tamano:
 - 369
 - 551

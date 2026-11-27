@@ -6,7 +6,9 @@ publicado: '2014-09-06'
 ruta: /2014/09/1980-mas-alla-del-terror.html
 cartel: 1980-mas-alla-del-terror.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: kQdJx_EObNQ
 cartel_tamano:
 - 287
 - 407

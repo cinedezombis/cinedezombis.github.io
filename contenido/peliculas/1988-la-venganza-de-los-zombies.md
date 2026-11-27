@@ -6,7 +6,9 @@ publicado: '2012-08-29'
 ruta: /2012/08/1988-la-venganza-de-los-zombies.html
 cartel: 1988-la-venganza-de-los-zombies.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: OyN4SlNy0SE
 cartel_tamano:
 - 350
 - 500

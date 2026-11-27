@@ -8,7 +8,9 @@ cartel: 2007-wanted-vivos-o-no-muertos.jpg
 etiquetas:
 - Vivos o no muertos
 - Wanted
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: SCNLmBC18_s
 cartel_tamano:
 - 300
 - 409

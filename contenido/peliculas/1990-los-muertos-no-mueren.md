@@ -6,7 +6,9 @@ publicado: '2014-09-08'
 ruta: /2014/09/1990-los-muertos-no-mueren.html
 cartel: 1990-los-muertos-no-mueren.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: AVOvSaqV7VU
 cartel_tamano:
 - 399
 - 582

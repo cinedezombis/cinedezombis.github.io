@@ -8,7 +8,9 @@ cartel: 2004-el-amanecer-de-los-muertos-remake.jpg
 etiquetas:
 - El amanecer de los muertos
 - remake
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: j69OPw9nFHw
 cartel_tamano:
 - 534
 - 755

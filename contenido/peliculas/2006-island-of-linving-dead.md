@@ -6,7 +6,9 @@ publicado: '2013-01-02'
 ruta: /2013/01/2006-island-of-linving-dead.html
 cartel: 2006-island-of-linving-dead.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en inglés)
+  youtube: HDrlAiUH-NM
 cartel_tamano:
 - 350
 - 499

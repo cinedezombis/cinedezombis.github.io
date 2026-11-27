@@ -6,7 +6,9 @@ publicado: '2012-11-12'
 ruta: /2012/11/2006-zombie-self-defense-force.html
 cartel: 2006-zombie-self-defense-force.jpg
 etiquetas: []
-videos: []
+videos:
+- etiqueta: Tráiler (en japonés)
+  youtube: Vw4BYdEONn0
 cartel_tamano:
 - 240
 - 359
