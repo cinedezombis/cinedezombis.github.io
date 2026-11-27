@@ -14,7 +14,7 @@ cartel_tamano:
 - 359
 ---
 
-[Campamento zombie](http://en.wikipedia.org/wiki/Bunks_%28film%29) es una película canadiense destinada al público infantil producida en 2013 y cuyo título original es "Bunks". Fue realizada directamente para televisión, siendo emitida por el Canal Disney.
+[Campamento zombie](https://en.wikipedia.org/wiki/Bunks_%28film%29) es una película canadiense destinada al público infantil producida en 2013 y cuyo título original es "Bunks". Fue realizada directamente para televisión, siendo emitida por el Canal Disney.
 
 Dylan y Dane son dos hermanos adolescentes un poco golfos que se escabullen de ir a un campamento militar para colarse en otro campamento de verano distinto, mucho más agradable y que se desarrolla en una bonita isla. En el campamento "Bushwhack" Dylan y Dane son asignados como responsables de su cabaña que está compuesta por cinco pequeños de distintos y típicos perfiles (el gordo, el listo, el risitas, el gótico y el rico mimado). Pronto empezarán los piques con las otras cabañas y los roces amorosos de nuestros protagonistas.
 

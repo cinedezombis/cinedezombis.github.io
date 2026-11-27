@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[Kung Fu Zombie](http://www.imdb.com/title/tt0199148/) es una película producida en Hong Kong en el año 1982 y protagonizada por Billy Chong que mezcla el género de las artes marciales con el de terror. Su título original es "Wu long tian shi zhao ji gui"*.*
+[Kung Fu Zombie](https://www.imdb.com/title/tt0199148/) es una película producida en Hong Kong en el año 1982 y protagonizada por Billy Chong que mezcla el género de las artes marciales con el de terror. Su título original es "Wu long tian shi zhao ji gui"*.*
 
 Pang -Billy Chong- es un joven al que su padre le somete a un durísimo entrenamiento físico, tal y como dicen, como si de un caballo se tratara. El objetivo de este hombre es preparar a su hijo para una gran batalla que tendrá lugar más pronto que tarde por la venganza de un clan rival. Paralelamente, unos malotes han encontrado a un hechicero que es capaz, mezclando la magia negra, el vudú y conocimiento ancestral oriental de levantar a los muertos. Tres o cuatro cadáveres son reanimados precisamente para tenderle una trampa a Pang de la que, como no podía ser de otra forma, sale victorioso tras una tanda infinita de patadas, puñetazos y florituras varias. Durante esa pelea el malo muere, pero al haberse convertido aquel en un lugar maldito, se queda en forma de fantasma esperando a que el hechicero encuentre una solución y un cuerpo recién muerto donde poder meterse.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 600
 ---
 
-[La invasión de los zombies atómicos](http://en.wikipedia.org/wiki/Nightmare_City) es una producción hispano-italiana de 1980. En inglés es denominada "Nightmare City" o "City of the Walking Dead" y en italiano "Incubo Sulla Città Contaminata". La trama gira en torno a una infección zombi provocada por una fuga nuclear.
+[La invasión de los zombies atómicos](https://en.wikipedia.org/wiki/Nightmare_City) es una producción hispano-italiana de 1980. En inglés es denominada "Nightmare City" o "City of the Walking Dead" y en italiano "Incubo Sulla Città Contaminata". La trama gira en torno a una infección zombi provocada por una fuga nuclear.
 
 Un reportero, que será nuestro protagonista, espera en el aeropuerto a un ilustre científico al que pretende entrevistar en relación a un accidente ocurrido en una central nuclear. Un extraño avión se dirige hasta la pista de aterrizaje, sin embargo, ni se pone en contacto con la torre de control ni responde a las indicaciones, algo que hace saltar las alarmas entre los cuerpos de seguridad.
 

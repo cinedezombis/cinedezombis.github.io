@@ -14,7 +14,7 @@ cartel_tamano:
 - 665
 ---
 
-[Aquella casa al lado del cementerio](http://es.wikipedia.org/wiki/The_House_by_the_Cemetery) es una película de terror italiana dirigida en 1981 por el mítico Lucio Fulci, cuyo título original es "Quella villa accanto al cimitero" y que en inglés es también conocida como "The house by the cemetery".
+[Aquella casa al lado del cementerio](https://es.wikipedia.org/wiki/The_House_by_the_Cemetery) es una película de terror italiana dirigida en 1981 por el mítico Lucio Fulci, cuyo título original es "Quella villa accanto al cimitero" y que en inglés es también conocida como "The house by the cemetery".
 
 Un científico neoyorquino se muda con su mujer y su hijo pequeño a una extraña casa en un apartado pueblo rural. Este hombre es enviado allí, aunque a su familia no se hace ni pizca de gracia, para continuar el trabajo del anterior residente de la mansión, otro científico que fue profesor suyo y que terminó presuntamente descuartizando a su mujer y posteriormente se ahorcó.
 

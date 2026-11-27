@@ -14,7 +14,7 @@ cartel_tamano:
 - 429
 ---
 
-[La noche del baile de media noche](http://en.wikipedia.org/wiki/The_Midnight_Hour), titulada originalmente "The midnight hour", es una comedia de terror juvenil producida en los Estados Unidos en 1985.
+[La noche del baile de media noche](https://en.wikipedia.org/wiki/The_Midnight_Hour), titulada originalmente "The midnight hour", es una comedia de terror juvenil producida en los Estados Unidos en 1985.
 
 La noche de Halloween, un grupo de jóvenes preparan una fiesta de disfraces que pretenden que sea inolvidable. Para ello, van hasta el museo de la brujería de la localidad y roban algunas prendas de vestir y otros objetos de la época de las brujas en esa localidad estadounidense.
 

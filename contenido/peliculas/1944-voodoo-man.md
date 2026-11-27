@@ -14,7 +14,7 @@ cartel_tamano:
 - 416
 ---
 
-[Voodoo man](http://en.wikipedia.org/wiki/Voodoo_Man) es una película estadounidense de 1944 protagonizada por el gran Bela Lugosi. También participan John Carradine y George Zucco. En español se le conoce igualmente como "El brujo".
+[Voodoo man](https://en.wikipedia.org/wiki/Voodoo_Man) es una película estadounidense de 1944 protagonizada por el gran Bela Lugosi. También participan John Carradine y George Zucco. En español se le conoce igualmente como "El brujo".
 
 El doctor Marlowe (Bela Lugosi) es un médico obsesionado por volver a la vida a su mujer muerta más de 20 años atrás. Con la ayuda de varios cómplices, tiende trampas a mujeres solitarias que viajan en coche para asaltarlas, hipnotizarlas y tratar de traspasar la vitalidad de ellas a su fallecida mujer errante.
 

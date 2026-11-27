@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Die you zombie bastards!](http://en.wikipedia.org/wiki/Die_You_Zombie_Bastards!) es una peculiar y gamberra película estadounidense filmada en 2005 con un aspecto que recuerda a las producciones de Troma.
+[Die you zombie bastards!](https://en.wikipedia.org/wiki/Die_You_Zombie_Bastards!) es una peculiar y gamberra película estadounidense filmada en 2005 con un aspecto que recuerda a las producciones de Troma.
 
 Nuestro protagonista es un desproporcionado asesino en serie tremendamente enamorado de su mujer. Los dos vivían felices matando personas para luego comérselas mientras se bañaban en litros de sangre. Pero algo se cruzó en su destino: el malvado Nefarious.
 

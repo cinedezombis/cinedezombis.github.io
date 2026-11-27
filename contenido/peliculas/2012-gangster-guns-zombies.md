@@ -17,7 +17,7 @@ cartel_tamano:
 - 576
 ---
 
-[Gangster, Guns & Zombies](http://www.imdb.com/title/tt2151633/) es una filmación producida en Gran Bretaña y estrenada en el año 2012 sobre un grupo de mafiosos que se ven en mitad de un apocalipsis zombi.
+[Gangster, Guns & Zombies](https://www.imdb.com/title/tt2151633/) es una filmación producida en Gran Bretaña y estrenada en el año 2012 sobre un grupo de mafiosos que se ven en mitad de un apocalipsis zombi.
 
 Una banda de ladrones de banco acaba de dar un importante golpe y huyen en furgoneta con mucho dinero y con uno de ellos herido de bala, cuando de repente comienzan a encontrarse por el camino a extrañas y violentas personas. Los medios informan de una nueva pandemia de la que poco se sabe, tan solo que se debe disparar a la cabeza a estas personas que son extremadamente peligrosas. Los mafiosos pronto se percatan que los muertos están caminando de nuevo en la tierra como si de una catastrófica profecía se tratara.
 

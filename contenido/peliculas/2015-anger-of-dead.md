@@ -14,7 +14,7 @@ cartel_tamano:
 - 791
 ---
 
-[Anger of the dead](http://www.imdb.com/title/tt3950908/) es una película de zombis ambientada en un mundo postapocalíptico que fue coproducida en 2015 entre Italia y Canadá.
+[Anger of the dead](https://www.imdb.com/title/tt3950908/) es una película de zombis ambientada en un mundo postapocalíptico que fue coproducida en 2015 entre Italia y Canadá.
 
 Nos situamos en un contexto social muy agitado con diversas revueltas y manifestaciones. Nuestra protagonista, Alice, es consciente de que está embarazada mientras su marido le avisa por teléfono de que la situación fuera es extrema, que no se le ocurra salir. Aunque ya es demasiado tarde, pues los que entran son unos zombis en su casa que asesinan a su hija pequeña... la epidemia no ha hecho nada más que comenzar. Alice escapa de su hogar y en mitad de la calle se encuentra con un desconocido, Stephen, que la ayuda a salir de allí.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[Trailer Park of Terror](http://es.wikipedia.org/wiki/Trailer_Park_of_Terror) es una película estadounidense filmada en 2008 y basada en una historia homónima de Imperium Comics.
+[Trailer Park of Terror](https://es.wikipedia.org/wiki/Trailer_Park_of_Terror) es una película estadounidense filmada en 2008 y basada en una historia homónima de Imperium Comics.
 
 Norma es una chica joven y guapa que vive en una especie de campamento levantado alrededor de una estación de servicios para camiones y remolques. Harta de vivir allí y rodeada de gentuza que le hace la existencia imposible, nuestra protagonista está deseando poder escapar de aquel lugar caótico e inhumano donde la controlan, la maltratan y le amargan la vida.
 

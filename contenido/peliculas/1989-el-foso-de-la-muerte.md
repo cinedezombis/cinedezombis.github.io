@@ -14,7 +14,7 @@ cartel_tamano:
 - 600
 ---
 
-[El foso de la muerte](http://en.wikipedia.org/wiki/The_Dead_Pit) es una película estadounidense de 1989, cuyo título original es "The Dead Pit", que gira en torno a un "Mad Doctor", es decir, un médico loco que investiga sin escrúpulos sobre la vida y la muerte.
+[El foso de la muerte](https://en.wikipedia.org/wiki/The_Dead_Pit) es una película estadounidense de 1989, cuyo título original es "The Dead Pit", que gira en torno a un "Mad Doctor", es decir, un médico loco que investiga sin escrúpulos sobre la vida y la muerte.
 
 La historia comienza en una institución psiquiátrica, donde uno de sus principales cirujanos está realizando oscuros experimentos. Un compañero descubre sus maléficas intenciones y después de un forcejeo termina disparándole en la cabeza mientras el doctor loco le amenaza de que no podrá matarlo. El lugar donde ocurre todo, el tétrico foso de la muerte, es tapiado.
 

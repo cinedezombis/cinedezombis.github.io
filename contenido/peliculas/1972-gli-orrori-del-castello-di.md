@@ -16,7 +16,7 @@ cartel_tamano:
 - 607
 ---
 
-[Gli orrori del castello di Norimberga](http://en.wikipedia.org/wiki/Baron_Blood_%28film%29) es una producción italiana de 1972 dirigida por el mítico Mario Bava. La traducción literal del título sería "Los horrores del castillo de Nuremberg", no obstante, se le conoce en inglés como "Baron Blood", en francés como "Baron Vampire" y en español como "El Barón Sangriento" o "El Barón Sanguinario".
+[Gli orrori del castello di Norimberga](https://en.wikipedia.org/wiki/Baron_Blood_%28film%29) es una producción italiana de 1972 dirigida por el mítico Mario Bava. La traducción literal del título sería "Los horrores del castillo de Nuremberg", no obstante, se le conoce en inglés como "Baron Blood", en francés como "Baron Vampire" y en español como "El Barón Sangriento" o "El Barón Sanguinario".
 
 Peter Kleist es un joven americano que llega hasta Austria para conocer la historia familiar, concretamente le interesa el temible Barón Von Kleist del que es su único descendiente directo. El tío de Peter, el profesor Hummel que lo recibe y acoge en su casa, le muestra el antiguo castillo del barón al que realizan trabajos de rehabilitación. El Barón Von Kleist -o Barón Sanguinario como era popularmente conocido- fue un cruel aristócrata todavía recordado en la zona por sus torturas y asesinatos y al que una bruja le lanzó un maleficio, muriendo él mismo también torturado y quemado.
 

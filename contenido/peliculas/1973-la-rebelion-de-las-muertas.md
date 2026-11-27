@@ -14,7 +14,7 @@ cartel_tamano:
 - 650
 ---
 
-[La rebelión de las muertas](http://es.wikipedia.org/wiki/La_rebeli%C3%B3n_de_las_muertas) es una producción española de 1973 escrita y protagonizada por Paul Naschy -haciendo de nuevo varios papeles como en "[El espanto surge de la tumba](zb:/2012/12/1972-el-espanto-surge-de-la-tumba.html)" del año anterior- y dirigida por Leon Klimovsky. En inglés se la conoce como "Vengeance of the zombies" y es una mezcla de vudú, satanismo, venganza y muertas vivientes.
+[La rebelión de las muertas](https://es.wikipedia.org/wiki/La_rebeli%C3%B3n_de_las_muertas) es una producción española de 1973 escrita y protagonizada por Paul Naschy -haciendo de nuevo varios papeles como en "[El espanto surge de la tumba](zb:/2012/12/1972-el-espanto-surge-de-la-tumba.html)" del año anterior- y dirigida por Leon Klimovsky. En inglés se la conoce como "Vengeance of the zombies" y es una mezcla de vudú, satanismo, venganza y muertas vivientes.
 
 En las escenas iniciales presenciamos como unos ladrones de tumbas son asesinados por una muerta que vuelve a la vida por los ritos vudú de un enmascarado. A continuación la acción se centra en una especie de gurú de la India, un iluminado, un mesías. Precisamente una de sus seguidoras sufre el acoso de la muerta viviente de la que puede escapar, no así su padre. Afligida por el dolor, va a buscar ayuda espiritual en el gurú que se ha mudado a un pueblo rural a las afueras de Londres -donde se sitúa la acción-.
 

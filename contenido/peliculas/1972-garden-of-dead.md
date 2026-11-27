@@ -14,7 +14,7 @@ cartel_tamano:
 - 452
 ---
 
-[Garden of the dead](http://en.wikipedia.org/wiki/Garden_of_the_Dead) es una película estadounidense producida por Troma en 1972. También se le conoce bajo el título de "The tomb of the undead".
+[Garden of the dead](https://en.wikipedia.org/wiki/Garden_of_the_Dead) es una película estadounidense producida por Troma en 1972. También se le conoce bajo el título de "The tomb of the undead".
 
 En un campo de prisioneros, un grupo de presos realizan trabajos forzados mientras son vigilados por varios policías carcelarios. Un pequeño grupo descubre que los formaldehídos experimentales con los que trabajan se pueden utilizar como una droga y no dudan en aspirar los vapores del químico. Ese mismo grupo de ocho prisioneros han preparado un plan para escaparse de aquel recinto y esperan a que caiga la noche para ejecutarlo y fugarse.
 

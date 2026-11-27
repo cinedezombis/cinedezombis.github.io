@@ -12,7 +12,7 @@ cartel_tamano:
 - 380
 ---
 
-[Las desnudas contra los muertos vivientes](http://www.imdb.com/title/tt0471385/) es una lamentable producción japonesa de 2003 cuyo título original es "Shin Kaidan Zangyaku Hidô: Onna Keiji to Ratai Kaibôki" y en inglés es conocida como "The naked and the living dead".
+[Las desnudas contra los muertos vivientes](https://www.imdb.com/title/tt0471385/) es una lamentable producción japonesa de 2003 cuyo título original es "Shin Kaidan Zangyaku Hidô: Onna Keiji to Ratai Kaibôki" y en inglés es conocida como "The naked and the living dead".
 
 En esta historia tenemos un científico loco y pervertido que ha logrado saber cómo reanimar a los muertos y utiliza a los zombis a su antojo. De hecho, está usando a uno de sus muertos esclavos para cometer asesinatos y secuestrar a jovencitas con las que experimentar.
 

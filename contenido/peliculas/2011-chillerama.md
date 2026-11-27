@@ -14,7 +14,7 @@ cartel_tamano:
 - 463
 ---
 
-[Chillerama](http://es.wikipedia.org/wiki/Chillerama) es una comedia estadounidense estrenada en 2011 que está compuesta por cuatro historias que son parodias de distingos géneros de terror.
+[Chillerama](https://es.wikipedia.org/wiki/Chillerama) es una comedia estadounidense estrenada en 2011 que está compuesta por cuatro historias que son parodias de distingos géneros de terror.
 
 La filmación comienza con un joven que destierra la tumba de su esposa para regodearse de su muerte. De repente, la mujer muerta despierta y le arranca el pene de un mordisco. Poco después le llaman al teléfono móvil y como puede, se dirige hacia su puesto de trabajo como ayudante en un autocine. Precisamente en ese cine de verano se disponen a pasar aquella noche la que será su última sesión por la venta del negocio. Será con la excusa de esta sesión inédita nocturna como se irán mostrando en forma de películas las distintas historias cortas que componen esta grabación:
 

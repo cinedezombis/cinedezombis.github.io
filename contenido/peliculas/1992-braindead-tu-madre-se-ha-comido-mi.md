@@ -16,7 +16,7 @@ cartel_tamano:
 - 808
 ---
 
-[Braindead](http://es.wikipedia.org/wiki/Braindead), literalmente "Muerte cerebral", aunque en España es conocida como "Tu madre se ha comido a mi perro" y en EE.UU. como "Dead Alive".
+[Braindead](https://es.wikipedia.org/wiki/Braindead), literalmente "Muerte cerebral", aunque en España es conocida como "Tu madre se ha comido a mi perro" y en EE.UU. como "Dead Alive".
 
 Podemos decir que esta película de zombis, dirigida por Peter Jackson, se ha convertido en una película de culto del género zombie y gore, no en vano es considerada como una de las películas más sangrienta de la historia.
 

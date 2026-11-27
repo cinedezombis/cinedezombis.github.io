@@ -16,7 +16,7 @@ cartel_tamano:
 - 500
 ---
 
-[All souls day: Día de los muertos](http://en.wikipedia.org/wiki/All_Souls_Day_%28film%29) es una producción estadounidense de 2005 que gira en torno a la festividad celebrada el 1 de noviembre en México. Muy importante que no se confunda "[El día de los muertos](zb:/2012/04/1985-el-dia-de-los-muertos.html)" del director George A. Romero con la que no guarda ninguna relación.
+[All souls day: Día de los muertos](https://en.wikipedia.org/wiki/All_Souls_Day_%28film%29) es una producción estadounidense de 2005 que gira en torno a la festividad celebrada el 1 de noviembre en México. Muy importante que no se confunda "[El día de los muertos](zb:/2012/04/1985-el-dia-de-los-muertos.html)" del director George A. Romero con la que no guarda ninguna relación.
 
 La película comienza con imágenes del año 1892 cuando Vargas, un malvado terrateniente, descubre un templo azteca en una mina. Como sacrificio Vargas encierra a todos los habitantes del pequeño pueblo cercano en la mina y los encierra allí para siempre, a cambio de ello, recibe la vida eterna. Posteriormente aparece una escena de los años 50 donde una familia estadounidense que hace un viaje en coche realiza una parada en la misma localidad mexicana, viviendo un auténtico infierno entre visiones y muertos vivientes que terminará con toda la familia muerta en el hotel del pueblo.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 305
 ---
 
-[The Astro-Zombies](http://en.wikipedia.org/wiki/The_Astro-Zombies) es una producción estadounidense realizada en 1968 y protagonizada por los míticos John Carradine y Tura Satana.
+[The Astro-Zombies](https://en.wikipedia.org/wiki/The_Astro-Zombies) es una producción estadounidense realizada en 1968 y protagonizada por los míticos John Carradine y Tura Satana.
 
 El Dr. DeMarco (Carradine) es un científico resentido que trabajaba en la Agencia Espacial y que ahora continúa sus experimentos en secretos con la ayuda de un oscuro y mudo personaje, Franchot. Las investigaciones que llevaba a cabo originalmente pretendían conseguir un "Astroman", un superhombre con partes eléctricas que pueda realizar incursiones espaciales. En la actualidad DeMarco experimenta con los muertos, implantándoles chips y fuentes de energía para que puedan tener autonomía y estén para cumplir sus deseos.
 

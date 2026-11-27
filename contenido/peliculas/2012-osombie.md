@@ -36,4 +36,4 @@ Como curiosidades nos preguntamos qué hace una marine con una katana en mitad d
 
 Lo peor, una historia nula, con cierto interés al comienzo y al final, unos personajes que aportan muy poco para mantener la atención y unos efectos digitales montados en ordenador que, aunque en ocasiones encajan bastante bien, no les suele hacer un gran favor al realismo de las escenas.
 
-En definitiva, una película recomendable como curiosidad, aunque sin duda, es bastante mejor el corto o falso trailer creado al parecer por el mismo director de esta grabación y denominado "[Zombinladen. The axis of evil dead](http://youtu.be/O_qml0Fi8Ts)".
+En definitiva, una película recomendable como curiosidad, aunque sin duda, es bastante mejor el corto o falso trailer creado al parecer por el mismo director de esta grabación y denominado "[Zombinladen. The axis of evil dead](https://youtu.be/O_qml0Fi8Ts)".

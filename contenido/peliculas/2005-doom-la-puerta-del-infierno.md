@@ -16,7 +16,7 @@ cartel_tamano:
 - 443
 ---
 
-[Doom: La puerta del infierno](http://es.wikipedia.org/wiki/Doom:_la_puerta_del_infierno) es una producción estadounidense de 2005 -en colaboración con la República Checa, Reino Unido y Alemania- basada en la saga de videojuegos homónima y protagonizada por "The Rock".
+[Doom: La puerta del infierno](https://es.wikipedia.org/wiki/Doom:_la_puerta_del_infierno) es una producción estadounidense de 2005 -en colaboración con la República Checa, Reino Unido y Alemania- basada en la saga de videojuegos homónima y protagonizada por "The Rock".
 
 Nos situamos en el futuro, año 2046, en una estación científica situada en Marte se desata una terrible y desconocida amenaza que hace saltar todas las alarmas en la tierra. Un grupo de ocho marines son avisados para eliminar cualquier peligro y recuperar la información de los misteriosos estudios genéticos que allí se realizaban.
 

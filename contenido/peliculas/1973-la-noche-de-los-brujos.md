@@ -14,7 +14,7 @@ cartel_tamano:
 - 640
 ---
 
-[La noche de los brujos](http://en.wikipedia.org/wiki/The_Night_of_the_Witches) es una película española filmada en 1973 y dirigida por Amando de Ossorio. En inglés es conocida como "The night of the witches" y también como "The nigh of the sorcerers".
+[La noche de los brujos](https://en.wikipedia.org/wiki/The_Night_of_the_Witches) es una película española filmada en 1973 y dirigida por Amando de Ossorio. En inglés es conocida como "The night of the witches" y también como "The nigh of the sorcerers".
 
 La historia comienza con una tribu africana realizando una ceremonia con diversos bailes y música de tambor. El ritual, que incluye la decapitación de una joven blanca sacrificada -Bárbara Rey-, es interrumpido por un grupo de colonizadores que asesinan a todos los componentes de aquella tribu disparándoles a quemarropa.
 

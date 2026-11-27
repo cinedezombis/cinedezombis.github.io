@@ -16,7 +16,7 @@ cartel_tamano:
 - 600
 ---
 
-[Zombi 2](http://en.wikipedia.org/wiki/Zombi_2) es el título original de una película italiana rodada en 1979 por Lucio Fulci. El título es debido al intento de parecer una secuela de "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)", película de George Romero grabada en 1978 que en España e Italia se le dio el título de "Zombi" o "Zombie" y con la cual no tiene absolutamente ninguna relación. Zombie 2 es también conocida en Estados Unidos como "Zombie" y en España como "Nueva York bajo el terror de los zombies".
+[Zombi 2](https://en.wikipedia.org/wiki/Zombi_2) es el título original de una película italiana rodada en 1979 por Lucio Fulci. El título es debido al intento de parecer una secuela de "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)", película de George Romero grabada en 1978 que en España e Italia se le dio el título de "Zombi" o "Zombie" y con la cual no tiene absolutamente ninguna relación. Zombie 2 es también conocida en Estados Unidos como "Zombie" y en España como "Nueva York bajo el terror de los zombies".
 
 La película comienza con un barco que va a la deriva por la bahía de Nueva York. Una pareja de guardacostas lo registran y descubren a un extraño ser que les ataca, mordiendo y matando (al menos aparentemente) a uno de ellos.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 764
 ---
 
-[Zombie nightmare](http://es.wikipedia.org/wiki/Zombie_Nightmare), que se podría traducir como "Pesadilla zombi", es una película canadiense de 1986 que gira en torno a la venganza de un muerto que vuelve a la vida por mediación de la magia negra.
+[Zombie nightmare](https://es.wikipedia.org/wiki/Zombie_Nightmare), que se podría traducir como "Pesadilla zombi", es una película canadiense de 1986 que gira en torno a la venganza de un muerto que vuelve a la vida por mediación de la magia negra.
 
 La película comienza narrando la muerte del padre del protagonista que, tras salir en defensa de una mujer amenazada, recibió una puñalada mortal. Nuestro protagonista es un joven deportista con pinta de Conan el Bárbaro. El joven, con gran sentido del bien, también defiende a un tendero de unos atracadores, saliendo ileso, pero justo después, es atropellado mortalmente por una pandilla de jóvenes con ansias de mal.
 

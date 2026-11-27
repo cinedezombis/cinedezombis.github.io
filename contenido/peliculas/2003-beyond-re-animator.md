@@ -14,7 +14,7 @@ cartel_tamano:
 - 755
 ---
 
-[Beyond Re-Animator](http://en.wikipedia.org/wiki/Beyond_Re-Animator) es una producción española, aunque grabada originalmente en inglés, del año 2003. Supone la tercera película de esta saga basada en la obra de H.P. Lovecraft, después de "[Re-Animator](zb:/2012/04/1985-re-animator.html)" rodada en 1985 y "[La novia de Re-Animator](zb:/2012/05/1990-la-novia-de-re-animator.html)" de 1990.
+[Beyond Re-Animator](https://en.wikipedia.org/wiki/Beyond_Re-Animator) es una producción española, aunque grabada originalmente en inglés, del año 2003. Supone la tercera película de esta saga basada en la obra de H.P. Lovecraft, después de "[Re-Animator](zb:/2012/04/1985-re-animator.html)" rodada en 1985 y "[La novia de Re-Animator](zb:/2012/05/1990-la-novia-de-re-animator.html)" de 1990.
 
 La película comienza con unas escenas antiguas, presumiblemente de 1990, donde un muerto revivido por el Dr. West asesina a una joven en su casa, entonces la policía llega para llevarse a West y el hermano de la muchacha muerta encuentra una de las famosas jeringuillas verdes con suero reanimador.
 

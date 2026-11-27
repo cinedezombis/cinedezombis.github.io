@@ -14,7 +14,7 @@ cartel_tamano:
 - 461
 ---
 
-[Tiburón zombie](http://www.imdb.com/title/tt4704918/) es una película estadounidense filmada en 2015 directamente para televisión. Está producida por el canal "Syfy" y su título original es "Zombie Shark".
+[Tiburón zombie](https://www.imdb.com/title/tt4704918/) es una película estadounidense filmada en 2015 directamente para televisión. Está producida por el canal "Syfy" y su título original es "Zombie Shark".
 
 Amber es una joven camarera a la que su novio le regala un fin de semana en una residencia situada en una pequeña isla del literal estadounidense. Para que el viaje les salga más económico, Amber también invita a su hermana Sophie y a una compañera de trabajo para que vayan con la pareja. Casualmente el lugar al que se dirigen los cuatro jóvenes había sido una base de investigaciones armamentísticas secretas del ejército que se realizaban en una estación acuática.
 

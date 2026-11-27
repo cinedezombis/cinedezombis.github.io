@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[The walking dead](http://es.wikipedia.org/wiki/Los_muertos_andan), también conocida en España como "Los muertos andan", es una producción estadounidense del año 1936 y una de las primeras películas en tratar el tema de la resurrección de los muertos sin intermediación de la magia negra.
+[The walking dead](https://es.wikipedia.org/wiki/Los_muertos_andan), también conocida en España como "Los muertos andan", es una producción estadounidense del año 1936 y una de las primeras películas en tratar el tema de la resurrección de los muertos sin intermediación de la magia negra.
 
 Protagonizada brillantemente por Boris Karloff, la película narra la historia de un músico expresidiario al que le tienden una trampa una mafia local para que cargue con la culpa del asesinato de un juez. Una pareja de jóvenes que trabaja en un laboratorio han sido testigos de la muerte, pero por miedo no se atreven a hablar hasta el último momento, cuando ya es demasiado tarde y el inocente músico es ejecutado en la silla eléctrica.
 

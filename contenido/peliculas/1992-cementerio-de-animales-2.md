@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[Cementerio de animales 2](http://es.wikipedia.org/wiki/Pet_Sematary_2) es una película estadounidense grabada en 1992, secuela de la mítica "[Cementerio de animales](zb:/2012/05/1989-cementerio-de-animales.html)" de 1989 y basada en una historia de Stephen King. El título original de la grabación es "Pet Sematary 2" y en español también se le conoce como "El cementerio viviente 2" o "Cementerio de mascotas 2".
+[Cementerio de animales 2](https://es.wikipedia.org/wiki/Pet_Sematary_2) es una película estadounidense grabada en 1992, secuela de la mítica "[Cementerio de animales](zb:/2012/05/1989-cementerio-de-animales.html)" de 1989 y basada en una historia de Stephen King. El título original de la grabación es "Pet Sematary 2" y en español también se le conoce como "El cementerio viviente 2" o "Cementerio de mascotas 2".
 
 En esta ocasión, la historia se centra en un adolescente que acaba de perder a su madre, actriz de profesión, en un accidente durante un rodaje. Junto con su padre (un veterinario que estaba separado de su madre) entierran a la mujer en su pueblo de origen -el mismo en el que ocurrió los sucesos narrados en la primera entrega, aunque realmente no lo parezca- y se quedan a vivir allí.
 

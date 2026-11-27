@@ -14,7 +14,7 @@ cartel_tamano:
 - 400
 ---
 
-[Santo contra los zombies](http://en.wikipedia.org/wiki/Santo_Contra_los_Zombis) es una producción mexicana de 1961 protagonizada por el famoso luchador real y superhéroe de ficción El Santo, "El Enmascarado de Plata".
+[Santo contra los zombies](https://en.wikipedia.org/wiki/Santo_Contra_los_Zombis) es una producción mexicana de 1961 protagonizada por el famoso luchador real y superhéroe de ficción El Santo, "El Enmascarado de Plata".
 
 La película comienza con imágenes de El Santo en un par de combates, para irnos situando. Posteriormente ya por fin comienza la trama. Resulta que un profesor que acababa de escribir un libro sobre los zombis de Haití ha desaparecido. Preocupada, su hija se pone en contacto con unos jóvenes detectives para que vayan tras su rastro.
 

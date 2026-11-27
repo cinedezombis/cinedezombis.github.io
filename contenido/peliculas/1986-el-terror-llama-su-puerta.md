@@ -14,7 +14,7 @@ cartel_tamano:
 - 591
 ---
 
-[El terror llama a su puerta](http://es.wikipedia.org/wiki/El_terror_llama_a_su_puerta), cuyo título original es "Night of the creeps", es una película estadounidense grabada en 1986 sobre unos parásitos extraterrestres que utilizan a las personas para reproducirse.
+[El terror llama a su puerta](https://es.wikipedia.org/wiki/El_terror_llama_a_su_puerta), cuyo título original es "Night of the creeps", es una película estadounidense grabada en 1986 sobre unos parásitos extraterrestres que utilizan a las personas para reproducirse.
 
 La historia comienza narrándonos un episodio sucedido a finales de los años 50. Un extraño objeto viene del espacio exterior y dos jóvenes son testigos de su impacto con la tierra en las afueras de una ciudad estadounidense. El muchacho va a ver de qué se trata mientras su pareja se queda en el coche. Algo sale de aquel objeto extraterrestre y se le mete al curioso chico por la boca, al mismo tiempo que su novia está siendo descuartizada en el coche por un loco que se ha escapado del psiquiátrico.
 

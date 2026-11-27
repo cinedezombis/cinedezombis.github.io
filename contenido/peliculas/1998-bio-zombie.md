@@ -14,7 +14,7 @@ cartel_tamano:
 - 428
 ---
 
-[Bio Zombie](http://en.wikipedia.org/wiki/Bio_Zombie) es una comedia de zombis producida en el año 1998 en Hong Kong y cuyo título original en mandarín es "Shēng Huà Shòu Shī".
+[Bio Zombie](https://en.wikipedia.org/wiki/Bio_Zombie) es una comedia de zombis producida en el año 1998 en Hong Kong y cuyo título original en mandarín es "Shēng Huà Shòu Shī".
 
 Nos situamos en un centro comercial de Hong Kong donde dos peculiares rufianes apodados Woody el Invencible y Abeja Loca se buscan la vida, además de trabajar en una cutre tienda de videos en el propio centro. Precisamente el dueño de la tienda los envía a recoger su coche del mecánico. De vuelta, atropellan involuntariamente a un militar que venía de hacer una oscura transacción para utilizar un extraño mejunje como arma biológica. Nuestros protagonistas no tienen otra ocurrencia que darle de beber del líquido tóxico al militar moribundo y luego lo meten en el maletero del coche tras morir.
 

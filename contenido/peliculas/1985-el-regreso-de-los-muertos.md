@@ -14,7 +14,7 @@ cartel_tamano:
 - 755
 ---
 
-[El regreso de los muertos vivientes](http://es.wikipedia.org/wiki/The_Return_of_the_Living_Dead) es una película estadounidense rodada en 1985 cuyo título original es "The return of the linving dead" y es considerada como un clásico por su originalidad y reinvención de la época del género zombi.
+[El regreso de los muertos vivientes](https://es.wikipedia.org/wiki/The_Return_of_the_Living_Dead) es una película estadounidense rodada en 1985 cuyo título original es "The return of the linving dead" y es considerada como un clásico por su originalidad y reinvención de la época del género zombi.
 
 La película comienza con un joven que entra de aprendiz en una fábrica de compuestos médicos. El encargado de la empresa le explica que la película "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" narra una historia que ocurrió de verdad, solo que lo que provocó que los muertos volvieran a la vida era un producto químico. Precisamente, le dice, que tienen allí guardado varios cadáveres que por error habían sido enviados por el ejército a aquella empresa.
 

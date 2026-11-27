@@ -14,7 +14,7 @@ cartel_tamano:
 - 475
 ---
 
-[Los hijos de los muertos vivientes](http://en.wikipedia.org/wiki/Children_of_the_Living_Dead), titulada originalmente "Children of the living dead" es una película estadounidenses grabada directamente para distribución en DVD en 2001.
+[Los hijos de los muertos vivientes](https://en.wikipedia.org/wiki/Children_of_the_Living_Dead), titulada originalmente "Children of the living dead" es una película estadounidenses grabada directamente para distribución en DVD en 2001.
 
 La película comienza con imágenes de 1986, cuando en un pueblo del corazón de los Estados Unidos las autoridades y vecinos controlan una extraña epidemia de zombis en la localidad. En este momento destaca un asesino de muertos vivientes, experto en supervivencia y que es encarnado por Tom Savini. En una granja, el zombi de un asesino en serie llamado Abbott Hayes, mantiene a unos niños encerrados -se ve que aquí no les gusta la carne infantil a los revividos-, el experto en supervivencia junto con el sheriff local los rescatan y al primero le muerde Abbott, por lo que el sheriff dispara en la cabeza a su compañero y deja "con vida" al cadáver andante del asesino.
 

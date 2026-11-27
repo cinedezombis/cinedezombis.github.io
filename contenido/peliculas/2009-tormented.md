@@ -14,7 +14,7 @@ cartel_tamano:
 - 244
 ---
 
-[Tormented](http://en.wikipedia.org/wiki/Tormented_%282009_British_film%29) es una película producida en el Reino Unido y estrenada en 2009. Está dentro de lo conocido como cine *slasher* con un muerto que vuelve a la vida para vengarse de todos aquellos que le hicieron daño.
+[Tormented](https://en.wikipedia.org/wiki/Tormented_%282009_British_film%29) es una película producida en el Reino Unido y estrenada en 2009. Está dentro de lo conocido como cine *slasher* con un muerto que vuelve a la vida para vengarse de todos aquellos que le hicieron daño.
 
 La historia comienza en el funeral de Darren Mullet, un joven obeso que terminó suicidándose por el acoso al que le sometían una pandilla de amigos de su instituto privado inglés. Esos chicos y chicas guays y populares deciden dar una fiesta sin ningún tipo de remordimiento por haber arrojado a la muerte al impopular Darren que esa misma noche comenzará a cobrarse venganza con uno de los chicos de la fiesta que se fue hasta el cementerio y estaba orinando en su tumba.
 

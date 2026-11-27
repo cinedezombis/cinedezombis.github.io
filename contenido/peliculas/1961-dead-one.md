@@ -14,7 +14,7 @@ cartel_tamano:
 - 623
 ---
 
-[The Dead One](http://en.wikipedia.org/wiki/The_Dead_One_%281961_film%29), también conocida como "Blood of the Zombie", es una película estadounidense sobre vudú estrenada en 1961.
+[The Dead One](https://en.wikipedia.org/wiki/The_Dead_One_%281961_film%29), también conocida como "Blood of the Zombie", es una película estadounidense sobre vudú estrenada en 1961.
 
 La película comienza con imágenes de una mujer (Linda) realizando un rito de vudú con un par de muñecos y el constante ruido de un tambor de fondo. La sacerdotisa hace que su hermano fallecido (Jonas) vuelva a la vida y abandone su tumba para dirigirse junto a ella atraído por el sonido del tambor.
 

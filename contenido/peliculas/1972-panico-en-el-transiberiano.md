@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Pánico en el Transiberiano](http://en.wikipedia.org/wiki/Horror_Express), conocida también como "Horror Express" o "Panic on the Trans-Siberian Express" es una película de terror de producción española grabada en 1972 en la que participan, entre otro, Christopher Lee, Peter Cushing o Telly Savalas (conocido como "Kojak").
+[Pánico en el Transiberiano](https://en.wikipedia.org/wiki/Horror_Express), conocida también como "Horror Express" o "Panic on the Trans-Siberian Express" es una película de terror de producción española grabada en 1972 en la que participan, entre otro, Christopher Lee, Peter Cushing o Telly Savalas (conocido como "Kojak").
 
 Nos situamos en China, en 1906. Allí, el profesor Saxton, un científico inglés, ha encontrado congelado una especie de homínido primitivo que podría suponer un gran avance en el campo de la evolución humana. Para trasladar el (aparentemente) fósil hasta Rusia, utiliza el tren Transiberiano para realizar un viaje, de todo menos tranquilo. En el propio tren -donde se desarrollará prácticamente toda la película- se encuentra con el Dr. Wells, un científico rival que por las circunstancias terminarán colaborando.
 

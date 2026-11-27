@@ -16,7 +16,7 @@ cartel_tamano:
 - 455
 ---
 
-[Dellamorte Dellamore](http://en.wikipedia.org/wiki/Cemetery_Man) es una comedia de zombis de producción conjunta entre Italia, Francia y Alemania, cuyo título original es un juego de palabras en italiano con el apellido del protagonista que se podría traducir como "La muerte del amor". En inglés es conocida como "Cemetery man" y en español como "Mi novia es un zombie".
+[Dellamorte Dellamore](https://en.wikipedia.org/wiki/Cemetery_Man) es una comedia de zombis de producción conjunta entre Italia, Francia y Alemania, cuyo título original es un juego de palabras en italiano con el apellido del protagonista que se podría traducir como "La muerte del amor". En inglés es conocida como "Cemetery man" y en español como "Mi novia es un zombie".
 
 El protagonista de esta peculiar historia será Francisco de la Muerte, un joven vigilante del cementerio de un pueblo italiano y muy aficionado a las guías telefónicas. No se sabe muy bien por qué, pero desde hace algún tiempo existe una epidemia por la cual, después de una semana enterrados, los muertos vuelven a la vida, Francisco los llama "los reaparecidos", un fenómeno que él personalmente se encarga de mantener a raya y en secreto.
 

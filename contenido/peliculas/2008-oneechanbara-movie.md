@@ -14,7 +14,7 @@ cartel_tamano:
 - 557
 ---
 
-[Oneechanbara: The movie](http://www.imdb.com/title/tt1192613/) es una película japonesa de zombis grabada en 2008 basada en un videojuego homónimo. También se le conoce como "OneChambara: The Movie" y "Chanbara Beauty". Es una película que no ha tenido distribución en Europa por lo que es, en general, poco conocida en estos lares.
+[Oneechanbara: The movie](https://www.imdb.com/title/tt1192613/) es una película japonesa de zombis grabada en 2008 basada en un videojuego homónimo. También se le conoce como "OneChambara: The Movie" y "Chanbara Beauty". Es una película que no ha tenido distribución en Europa por lo que es, en general, poco conocida en estos lares.
 
 Nos encontramos en un Japón desolado por los zombis, un apocalipsis provocado por las descontroladas investigaciones de un doctor sin escrúpulos de la compañía D3 (compañía que realmente es la creadora del videojuego). En este mundo, una atractiva luchadora nipona -vestida de forma peculiar, como se puede observar en el cartel del film- que domina increíblemente la katana, sobrevive a espadazos ante unos muertos vivientes que también luchan que es un gusto.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 473
 ---
 
-[La novia de Re-Animator](http://en.wikipedia.org/wiki/Bride_of_Re-Animator) es una película estadounidense filmada en el año 1990, cuyo título original es "Bride of Re-Animator", siendo la segunda parte de la grabación de 1985 "[Re-Animator](zb:/2012/04/1985-re-animator.html)", y basada, al igual que su antecesora, en la obra del afamado autor H.P. Lovecraft "Herbert West: Re-Animator".
+[La novia de Re-Animator](https://en.wikipedia.org/wiki/Bride_of_Re-Animator) es una película estadounidense filmada en el año 1990, cuyo título original es "Bride of Re-Animator", siendo la segunda parte de la grabación de 1985 "[Re-Animator](zb:/2012/04/1985-re-animator.html)", y basada, al igual que su antecesora, en la obra del afamado autor H.P. Lovecraft "Herbert West: Re-Animator".
 
 En esta ocasión nos situamos ocho meses después de la masacre sucedida en el hospital de Miskatonic y que fue narrada en la primera parte de esta secuela. El doctor West, junto con su compañero, el Dr. Cain, sigue en la búsqueda de la composición química perfecta que pueda reanimar a los muertos.
 

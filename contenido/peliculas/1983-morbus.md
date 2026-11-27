@@ -14,7 +14,7 @@ cartel_tamano:
 - 450
 ---
 
-[Morbus](http://www.imdb.com/title/tt0084355/), cuyo título completo es "Morbus (o bon profit)" -traducido sería "Morbus (o buen provecho)"- es una película grabada originalmente en catalán en 1983, dirigida por Ignasi P. Ferré y escrita por Isabel Coixet en el que fue uno de sus primeros guiones llevados a la gran pantalla.
+[Morbus](https://www.imdb.com/title/tt0084355/), cuyo título completo es "Morbus (o bon profit)" -traducido sería "Morbus (o buen provecho)"- es una película grabada originalmente en catalán en 1983, dirigida por Ignasi P. Ferré y escrita por Isabel Coixet en el que fue uno de sus primeros guiones llevados a la gran pantalla.
 
 Un farmacéutico está experimentando con distintos productos químicos intentando buscar el mejor reconstituyente del mundo. Para probar su fórmula secreta, el científico junto con su ayudante -poco espabilada, digamos-, se dirigen hasta un depósito de cadáveres. Una vez allí, el farmacéutico inyecta a uno de los fallecidos el líquido que parece que funciona, sin embargo provoca que el muerto reviva como un zombi peligroso y a partir de ahí se desate un contagio.
 

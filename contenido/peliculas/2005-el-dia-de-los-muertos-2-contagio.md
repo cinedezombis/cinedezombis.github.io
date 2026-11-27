@@ -16,7 +16,7 @@ cartel_tamano:
 - 500
 ---
 
-[El día de los muertos 2: Contagio](http://en.wikipedia.org/wiki/Day_of_the_Dead_2:_Contagium), titulada originalmente "Day of the dead 2: Contagium" es una película grabada en los Estados Unidos y lanzada directamente en DVD en 2005. Se trata de una secuela no oficial de la película dirigida en 1985 por George A. Romero ["El día de los muertos"](zb:/2012/04/1985-el-dia-de-los-muertos.html).
+[El día de los muertos 2: Contagio](https://en.wikipedia.org/wiki/Day_of_the_Dead_2:_Contagium), titulada originalmente "Day of the dead 2: Contagium" es una película grabada en los Estados Unidos y lanzada directamente en DVD en 2005. Se trata de una secuela no oficial de la película dirigida en 1985 por George A. Romero ["El día de los muertos"](zb:/2012/04/1985-el-dia-de-los-muertos.html).
 
 La historia comienza en 1968, cuando en un hospital militar se declara una extraña epidemia provocada por un soldado ruso infectado. Pronto llegan los militares dispuestos a acabar con todo y con todos para impedir un contagio masivo. Sin embargo, uno de los recipientes con una muestra del peligroso virus ha sido robada por uno de los trabajadores del recinto que intenta huir en vano.
 

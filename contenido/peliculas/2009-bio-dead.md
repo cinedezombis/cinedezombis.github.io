@@ -14,7 +14,7 @@ cartel_tamano:
 - 442
 ---
 
-[Bio-Dead](http://www.imdb.com/title/tt1337094/) es una película estadounidense de terror producida en 2009 directamente para la televisión.
+[Bio-Dead](https://www.imdb.com/title/tt1337094/) es una película estadounidense de terror producida en 2009 directamente para la televisión.
 
 Según nos dicen los letreros del comienzo, un ataque bioterrorista con una toxina experimental en la atmósfera del sur de California ha causado casi doce millones de muertos y ha contaminado un área total de 4061 millas cuadradas, un espacio que ahora se le conoce como "La zona".
 

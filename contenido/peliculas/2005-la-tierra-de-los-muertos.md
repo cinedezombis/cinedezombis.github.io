@@ -14,7 +14,7 @@ cartel_tamano:
 - 755
 ---
 
-[La tierra de los muertos](http://es.wikipedia.org/wiki/Land_of_the_dead), originalmente denominada "Land of the dead", es una película de producción conjunta entre EE.UU., Canadá y Francia, dirigida por el célebre director George A. Romero en 2005. "La tierra de los muertos" es la cuarta grabación de la saga de Romero tras la clásica "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" de 1968 y su secuela "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)" de 1978 y "[El día de los muertos](zb:/2012/04/1985-el-dia-de-los-muertos.html)" de 1985.
+[La tierra de los muertos](https://es.wikipedia.org/wiki/Land_of_the_dead), originalmente denominada "Land of the dead", es una película de producción conjunta entre EE.UU., Canadá y Francia, dirigida por el célebre director George A. Romero en 2005. "La tierra de los muertos" es la cuarta grabación de la saga de Romero tras la clásica "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" de 1968 y su secuela "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)" de 1978 y "[El día de los muertos](zb:/2012/04/1985-el-dia-de-los-muertos.html)" de 1985.
 
 Nos situamos en un mundo apocalíptico, donde hace tiempo comenzó la infección zombi y prácticamente todo y todos han desaparecido de una tierra dominada por los muertos vivientes.
 

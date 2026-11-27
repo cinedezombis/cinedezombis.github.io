@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[La venganza de los zombies vivientes](http://en.wikipedia.org/wiki/Flesheater) es una película estadounidense de 1988, titulada originalmente "Flesheater" (algo así como el "comecarne") y también conocida como "Revenge of the living zombies". Fue escrita, producida, dirigida y protagonizada por Bill Hinzman, popular por encarnar al primer zombi que aparece en el inicio de "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)", el clásico de 1968 de George Romero.
+[La venganza de los zombies vivientes](https://en.wikipedia.org/wiki/Flesheater) es una película estadounidense de 1988, titulada originalmente "Flesheater" (algo así como el "comecarne") y también conocida como "Revenge of the living zombies". Fue escrita, producida, dirigida y protagonizada por Bill Hinzman, popular por encarnar al primer zombi que aparece en el inicio de "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)", el clásico de 1968 de George Romero.
 
 Un grupo de jóvenes decide pasar la noche de Halloween en un bosque de su pequeña localidad entre cervezas y relatos de terror. Un campesino del lugar encuentra en sus tierras un ataúd a poca profundidad y allí encuentra un cadáver que sin más, abre los ojos y ataca al hombre mordiéndolo y contagiándolo. Este será el muerto viviente protagonista -Flesheater- iniciador del terror.
 

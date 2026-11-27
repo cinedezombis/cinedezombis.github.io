@@ -14,7 +14,7 @@ cartel_tamano:
 - 400
 ---
 
-[El más allá](http://es.wikipedia.org/wiki/El_m%C3%A1s_all%C3%A1_%28pel%C3%ADcula_de_1981%29) es una película italiana filmada en 1981 por el director Lucio Fulci, completando, junto con "[Miedo en la ciudad de los muertos vivientes](zb:/2012/09/1980-miedo-en-la-ciudad-de-los-muertos.html)" y "[Aquella casa al lado del cementerio](zb:/2012/12/1981-aquella-casa-al-lado-del-cementerio.html)" su famosa trilogía de terror de comienzos de los ochenta. El título original es "...E tu vivrai nel terrore! L'aldilà" y en inglés es conocida como "The beyond".
+[El más allá](https://es.wikipedia.org/wiki/El_m%C3%A1s_all%C3%A1_%28pel%C3%ADcula_de_1981%29) es una película italiana filmada en 1981 por el director Lucio Fulci, completando, junto con "[Miedo en la ciudad de los muertos vivientes](zb:/2012/09/1980-miedo-en-la-ciudad-de-los-muertos.html)" y "[Aquella casa al lado del cementerio](zb:/2012/12/1981-aquella-casa-al-lado-del-cementerio.html)" su famosa trilogía de terror de comienzos de los ochenta. El título original es "...E tu vivrai nel terrore! L'aldilà" y en inglés es conocida como "The beyond".
 
 La grabación comienza con imágenes de un hotel de Louisiana en el año 1927 cuando un pintor que se alojaba allí es ajusticiado por una muchedumbre que lo acusaba de brujería y haber traído el mal a aquella ciudad. A ese hombre lo crucifican y lo matan echándole ácido.
 

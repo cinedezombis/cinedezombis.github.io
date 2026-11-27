@@ -16,7 +16,7 @@ cartel_tamano:
 - 600
 ---
 
-[Planet Terror](http://es.wikipedia.org/wiki/Planet_Terror) es una película estadounidense de Robert Rodríguez estrenada en 2007 y que forma parte del proyecto de Rodríguez y Quentin Tarantino denominado "Grindhouse".
+[Planet Terror](https://es.wikipedia.org/wiki/Planet_Terror) es una película estadounidense de Robert Rodríguez estrenada en 2007 y que forma parte del proyecto de Rodríguez y Quentin Tarantino denominado "Grindhouse".
 
 Esta peculiar película comienza con un trailer de "Machete", a continuación ya empieza la historia en sí.
 

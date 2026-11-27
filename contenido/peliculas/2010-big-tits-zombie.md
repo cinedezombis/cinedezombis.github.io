@@ -14,7 +14,7 @@ cartel_tamano:
 - 331
 ---
 
-[Big Tits Zombie](http://en.wikipedia.org/wiki/Big_Tits_Zombie) es una película japonesa producida en 2010. Su título original es "Kyonyū doragon: Onsen zonbi vs sutorippaa 5" y está basada en el manga denominado "Kyonyū doragon".
+[Big Tits Zombie](https://en.wikipedia.org/wiki/Big_Tits_Zombie) es una película japonesa producida en 2010. Su título original es "Kyonyū doragon: Onsen zonbi vs sutorippaa 5" y está basada en el manga denominado "Kyonyū doragon".
 
 La filmación comienza con unas muchachas rodeadas de zombis que luchan contra ellos con una katana y una sierra eléctrica. Poco después empiezan a narrarnos cómo han llegado hasta esa situación. Nos remontamos varios días antes, un grupo de bailarinas en mala situación laboral necesitan dinero urgentemente y un promotor que tiene deudas con las strippers les ofrece un trabajo en un spa en un pueblo perdido.
 

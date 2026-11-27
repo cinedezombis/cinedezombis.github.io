@@ -14,7 +14,7 @@ cartel_tamano:
 - 419
 ---
 
-[Zombie Honeymoon](http://en.wikipedia.org/wiki/Zombie_Honeymoon), también conocida como "Luna de miel zombi" es una producción independiente de los Estados Unidos rodada en 2004 y promocionada como la primera película de zombis romántica.
+[Zombie Honeymoon](https://en.wikipedia.org/wiki/Zombie_Honeymoon), también conocida como "Luna de miel zombi" es una producción independiente de los Estados Unidos rodada en 2004 y promocionada como la primera película de zombis romántica.
 
 La película comienza con la original boda de una pareja de jóvenes estadounidenses que deciden pasar su luna de miel en una casa de un familiar cerca de la costa. Tras idílicas situaciones de recién casados, están en la playa, de repente, surge del agua un extraño ser que ataca al hombre recién casado, vomitándole en la cara una un asqueroso líquido sanguinolento. El joven enferma y su mujer decide llevarlo rápidamente al hospital.
 

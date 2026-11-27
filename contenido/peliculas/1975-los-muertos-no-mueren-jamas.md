@@ -14,7 +14,7 @@ cartel_tamano:
 - 359
 ---
 
-[Los muertos no mueren jamás](http://en.wikipedia.org/wiki/The_Dead_Don%27t_Die), titulada originalmente "The dead don't die" es una película estadounidense con zombis del vudú rodada directamente para televisión en 1975.
+[Los muertos no mueren jamás](https://en.wikipedia.org/wiki/The_Dead_Don%27t_Die), titulada originalmente "The dead don't die" es una película estadounidense con zombis del vudú rodada directamente para televisión en 1975.
 
 Ralph Drake es un hombre que va a ser ejecutado en la silla eléctrica acusado del asesinato de su esposa. En los instantes antes de su muerte, Ralph le pide a su hermano Don que limpie su nombre y que busque al verdadero culpable. De esta forma, Don se traslada a Chicago para intentar aclarar qué fue lo que realmente sucedió. Comienza buscando en el local de maratones de baile donde ocurrió el crimen y que era frecuentado por Ralph. Allí conoce a Moss, un oscuro hombre de negocios que dice que lo ayudará en su búsqueda de la verdad.
 

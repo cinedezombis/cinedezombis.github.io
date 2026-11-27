@@ -14,7 +14,7 @@ cartel_tamano:
 - 487
 ---
 
-[The zombie diaries](http://en.wikipedia.org/wiki/The_Zombie_Diaries) es una producción británica independiente grabada en 2006 y que nada tiene que ver -a excepción de la coincidencia en el nombre- con la película de George Romero "[El diario de los muertos](zb:/2012/05/2007-el-diario-de-los-muertos.html)" filmada tan solo un año después.
+[The zombie diaries](https://en.wikipedia.org/wiki/The_Zombie_Diaries) es una producción británica independiente grabada en 2006 y que nada tiene que ver -a excepción de la coincidencia en el nombre- con la película de George Romero "[El diario de los muertos](zb:/2012/05/2007-el-diario-de-los-muertos.html)" filmada tan solo un año después.
 
 La película está rodada en primera persona, con cámara al hombro a lo REC, y se compone de tres partes en forma de video diarios, tituladas: "El brote", "Los carroñeros" y "Los supervivientes". La primera parte está centrada en el inicio de una extraña pandemia vírica relacionada con los animales, aparentemente similar a la gripe aviar o la enfermedad de las vacas locas. Un equipo de televisión se dirige hacia una granja en las afueras de Londres para recoger las impresiones de su encargado sobre lo que estaba sucediendo. Sin embargo, cuando llegan los cuatro componentes del equipo, se encuentran con que no hay nadie en el lugar, al menos nadie vivo, porque pronto se encuentran con unos desagradables y sangrientos muertos vivientes que intentarán comérselos sin piedad ninguna en el contexto de una plaga que parece ya incontenible.
 

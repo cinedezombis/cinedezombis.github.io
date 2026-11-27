@@ -16,7 +16,7 @@ cartel_tamano:
 - 448
 ---
 
-[The zombie diaries 2: World of the dead](http://en.wikipedia.org/wiki/World_of_the_Dead:_The_Zombie_Diaries) es una película británica grabada en 2011 que continúa la historia iniciada cinco años más atrás con "[The zombie diaries](zb:/2012/07/2006-zombie-diaries.html)" de 2006.
+[The zombie diaries 2: World of the dead](https://en.wikipedia.org/wiki/World_of_the_Dead:_The_Zombie_Diaries) es una película británica grabada en 2011 que continúa la historia iniciada cinco años más atrás con "[The zombie diaries](zb:/2012/07/2006-zombie-diaries.html)" de 2006.
 
 Las imágenes nos sitúan tres meses después de que comenzara la epidemia que nos narra la primera parte. El mundo está destruido y desolado, los muertos campan a sus anchas por todos los lugares y solo unos pocos supervivientes logran resistir en pequeños grupos.
 

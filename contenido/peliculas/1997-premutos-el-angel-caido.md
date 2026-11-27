@@ -16,7 +16,7 @@ cartel_tamano:
 - 500
 ---
 
-[Premutos, el ángel caído](http://es.wikipedia.org/wiki/Premutos) es una película gore alemana filmada en 1997 dirigida y protagonizada por Olaf Ittenbach. Su título original es "Premutos - Der gefallene Engel" y en inglés se le conoce como "Premutos: The Fallen Angel".
+[Premutos, el ángel caído](https://es.wikipedia.org/wiki/Premutos) es una película gore alemana filmada en 1997 dirigida y protagonizada por Olaf Ittenbach. Su título original es "Premutos - Der gefallene Engel" y en inglés se le conoce como "Premutos: The Fallen Angel".
 
 La filmación comienza explicándonos que Premutos es el primer y más antiguo ángel caído, un demonio cuya presencia sigue inalterada en casi cualquier época de la historia. De hecho, las primeras imágenes no sitúan en la India, en el año 1231 a.C., cuando en una batalla Premutos se hace presente para aniquilar a cuantos se pongan por delante. Posteriormente nos situamos en los años cuarenta del Siglo XX, cuando en plena Alemania nazi un vecino de un pequeño pueblo ha encontrado el revelador libro de Premutos donde aparece la fórmula para hacer revivir a los muertos. Y así, este campesino logra hacer una poción amarillenta con la que comienza a despertar a los cadáveres del pueblo. No obstante, sus vecinos pretenden poner fin a sus macabros experimentos vía muchedumbre cabreada. Antes de ser ajusticiado, el hombre logra guardar bajo tierra el libro de Premutos y la poción.
 

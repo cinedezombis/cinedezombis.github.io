@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[Dead season](http://www.imdb.com/title/tt1650042/) es una película estadounidense de muertos vivientes filmada en 2012 donde sus protagonistas, además de luchar contra los zombis, tendrán que tomar decisiones extremas para sobrevivir.
+[Dead season](https://www.imdb.com/title/tt1650042/) es una película estadounidense de muertos vivientes filmada en 2012 donde sus protagonistas, además de luchar contra los zombis, tendrán que tomar decisiones extremas para sobrevivir.
 
 Nos situamos en un mundo apocalíptico. Hace aproximadamente un año comenzó una epidemia zombi provocada por un virus que ha mermado la humanidad y ha hundido la sociedad tal y como la conocemos. En este contexto, la historia se centra en Elvis, un médico de urgencias que después de perder a su familia decide probar suerte yendo hasta una isla que le ha recomendado un amigo.
 

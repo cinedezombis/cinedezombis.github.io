@@ -14,7 +14,7 @@ cartel_tamano:
 - 359
 ---
 
-[Zombie apocalypse](http://en.wikipedia.org/wiki/Zombie_Apocalypse_%28film%29) es una producción estadounidense de The Asylum estrenada directamente en televisión en 2011.
+[Zombie apocalypse](https://en.wikipedia.org/wiki/Zombie_Apocalypse_%28film%29) es una producción estadounidense de The Asylum estrenada directamente en televisión en 2011.
 
 La película comienza con los inicios de una terrible infección vírica, en junio de 2011 el VM2 comienza a hacer estragos y pocas semanas después la infección ya se ha expandido por el mundo, acompañado de un caos global. Europa primero, luego Japón y posteriormente los Estados Unidos van cayendo en la oscuridad apocalíptica de un virus que mata y revive rápidamente, convirtiendo a la mayoría de la población en zombis sedientos de sangre. Parece que se intenta hacer todo lo posible para enfrentarse a este panorama, cerrando vías de comunicación, cortando los puntos energéticos... pero parece que nada funciona.
 

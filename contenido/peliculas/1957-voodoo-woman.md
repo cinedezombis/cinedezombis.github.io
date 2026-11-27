@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[Voodoo woman](http://es.wikipedia.org/wiki/Voodoo_Woman) o "La mujer vudú" es una película de terror estadounidense filmada en 1957 y cuyo argumento gira en torno a la unión de magia negra y ciencia para crear una nueva especie indestructible.
+[Voodoo woman](https://es.wikipedia.org/wiki/Voodoo_Woman) o "La mujer vudú" es una película de terror estadounidense filmada en 1957 y cuyo argumento gira en torno a la unión de magia negra y ciencia para crear una nueva especie indestructible.
 
 La acción del film nos sitúa en el corazón del África negra, allí un loco y sanguinario médico estadounidense realiza avanzados experimentos científicos a partir de la tradición popular de la magia negra y el vudú, para lo que cuenta con la ayuda del jefe o chamán de la tribu local. Con el doctor vive su mujer, consciente de lo peligroso que es su marido y con muchas ganas de escapar de allí.
 

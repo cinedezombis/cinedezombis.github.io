@@ -16,7 +16,7 @@ cartel_tamano:
 - 450
 ---
 
-[Tales from the crypt](http://en.wikipedia.org/wiki/Tales_from_the_Crypt_%28film%29), conocida en español como "Condenados de ultratumba", es una película producida en el Reino Unido en 1972 y basada en los cómics con esa misma denominación que sería traducida posteriormente para la serie televisiva con bastante más acierto como "Historias de la cripta".
+[Tales from the crypt](https://en.wikipedia.org/wiki/Tales_from_the_Crypt_%28film%29), conocida en español como "Condenados de ultratumba", es una película producida en el Reino Unido en 1972 y basada en los cómics con esa misma denominación que sería traducida posteriormente para la serie televisiva con bastante más acierto como "Historias de la cripta".
 
 La película comienza con lo que aparentemente parece un simple grupo de turistas visitando unas catacumbas. Al desplazarse por los laberínticos pasillos del lugar, cinco personas se despistan del grupo y terminan entrando en una cripta donde su misterioso guardián les dice que no están ahí por casualidad y les ofrece una revelación a cada uno de ellos que compondrán las cinco historias cortas que compone esta filmación:
 

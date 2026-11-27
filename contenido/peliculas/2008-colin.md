@@ -14,7 +14,7 @@ cartel_tamano:
 - 425
 ---
 
-[Colin](http://en.wikipedia.org/wiki/Colin_%28film%29) es una película rodada en el Reino Unido en 2008 que nos narra la historia de un joven zombi desde su propio punto de vista.
+[Colin](https://en.wikipedia.org/wiki/Colin_%28film%29) es una película rodada en el Reino Unido en 2008 que nos narra la historia de un joven zombi desde su propio punto de vista.
 
 La historia comienza con el protagonista, Colin, llegando a casa de un amigo. El joven ya ha sido mordido en el brazo, aun así, el amigo zombi le vuelve a morder en el cuello. Colin logra matar a su amigo y se refugia en una habitación, entre recuerdos, esperando a morir.
 

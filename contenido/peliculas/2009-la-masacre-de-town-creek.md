@@ -14,7 +14,7 @@ cartel_tamano:
 - 599
 ---
 
-[La masacre de Town Creek](http://en.wikipedia.org/wiki/Blood_Creek), originalmente conocida como "Blood Creek" o simplemente "Town Creek", es una película estadounidense filmada en 2009 donde se vuelven a relacionar los nazis con el levantamiento de los muertos.
+[La masacre de Town Creek](https://en.wikipedia.org/wiki/Blood_Creek), originalmente conocida como "Blood Creek" o simplemente "Town Creek", es una película estadounidense filmada en 2009 donde se vuelven a relacionar los nazis con el levantamiento de los muertos.
 
 La historia comienza en 1936. Una familia alemana asentada en una granja en el corazón de Estados Unidos recibe una carta pidiéndoles colaboración en una investigación. La familia acepta con algunas dudas básicamente por el dinero que les ofrecían. Al poco tiempo llega un extraño profesor, un investigador nazi que pretende profundizar en los poderes ocultos de una runa vikinga encontrada por estos granjeros germanos en su propiedad, una enorme piedra que pronto sabremos que dará al investigador el poder de revivir a los muertos.
 

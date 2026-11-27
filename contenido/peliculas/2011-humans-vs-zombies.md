@@ -14,7 +14,7 @@ cartel_tamano:
 - 471
 ---
 
-[Humans vs. zombies](http://en.wikipedia.org/wiki/Humans_vs._Zombies#Film-adaption) es una película estadounidense grabada en el año 2011 directamente en DVD e inspirada en un juego de rol en vivo con la misma denominación.
+[Humans vs. zombies](https://en.wikipedia.org/wiki/Humans_vs._Zombies#Film-adaption) es una película estadounidense grabada en el año 2011 directamente en DVD e inspirada en un juego de rol en vivo con la misma denominación.
 
 La historia comienza con una fuga de un peligroso virus de un laboratorio científico. Como es previsible, este denominado "virus zombi", hace que la gente enferme y se convierta posteriormente en peligrosos y sanguinarios zombis.
 

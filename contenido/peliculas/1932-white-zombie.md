@@ -14,7 +14,7 @@ cartel_tamano:
 - 600
 ---
 
-[White Zombie](http://es.wikipedia.org/wiki/White_Zombie_%28pel%C3%ADcula%29) (zombi blanco) es una producción estadounidense de 1932, también conocida en España como "La legión de los hombres sin alma", célebre por considerarse la primera película de la historia donde se incluyen zombis y cuya trama gira alrededor de este fenómeno.
+[White Zombie](https://es.wikipedia.org/wiki/White_Zombie_%28pel%C3%ADcula%29) (zombi blanco) es una producción estadounidense de 1932, también conocida en España como "La legión de los hombres sin alma", célebre por considerarse la primera película de la historia donde se incluyen zombis y cuya trama gira alrededor de este fenómeno.
 
 La película, basada en la novela de 1929 "La Isla Mágica" de W.B. Seabrook, nos sitúa en Haití. Hasta allí llega una pareja de enamorados que deciden casarse en una casa colonial de aquella isla. Pronto tienen su primer encuentro con los zombis, en principio, muertos que han sido levantados por medio de brujería para realizar los trabajos del campo.
 

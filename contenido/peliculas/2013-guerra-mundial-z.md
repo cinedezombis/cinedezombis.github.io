@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Guerra Mundial Z](http://es.wikipedia.org/wiki/Guerra_mundial_Z_%28pel%C3%ADcula%29), titulada originalmente "World War Z", es una esperada película de Hollywood sobre zombis, financiada con dinero de los Estados Unidos y Malta, protagonizada por Brad Pitt y basada en la novela homónima escrita por Max Brooks.
+[Guerra Mundial Z](https://es.wikipedia.org/wiki/Guerra_mundial_Z_%28pel%C3%ADcula%29), titulada originalmente "World War Z", es una esperada película de Hollywood sobre zombis, financiada con dinero de los Estados Unidos y Malta, protagonizada por Brad Pitt y basada en la novela homónima escrita por Max Brooks.
 
 Parece que comienza un día cualquiera en la familia Lane en la ciudad de Filadelfia. Por la televisión se pueden ver noticias sobre una extraña enfermedad que parece sacudir violentamente a todo el mundo. Ajena a todo esto, la familia inicia su día con el típico atasco en una gran ciudad. Gerry (Brad Pitt) es el cabeza de familia, padre de dos hijas e investigador retirado de Naciones Unidas. Las primeras informaciones apuntan a un brote de rabia proveniente de Taiwán, pero lo cierto es que de repente Gerry y su familia se ven sumidos en mitad de un caos creciente intentando escapar de los cada vez más numerosos no muertos que son extremadamente rápidos y violentos. De hecho, en la ciudad parecen que cazan a las personas como si de leones y gacelas se trataran.
 

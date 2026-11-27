@@ -14,7 +14,7 @@ cartel_tamano:
 - 400
 ---
 
-[Zombi: La creazione](http://it.wikipedia.org/wiki/Zombi:_La_creazione) es una película de 2007 de producción italiana, conocida en inglés como "Zombies: The beginning" y que es la segunda parte del film [Island of the living dead](zb:/2013/01/2006-island-of-linving-dead.html) rodada un año antes. Este fue el último trabajo dirigido por el reconocido director Bruno Mattei.
+[Zombi: La creazione](https://it.wikipedia.org/wiki/Zombi:_La_creazione) es una película de 2007 de producción italiana, conocida en inglés como "Zombies: The beginning" y que es la segunda parte del film [Island of the living dead](zb:/2013/01/2006-island-of-linving-dead.html) rodada un año antes. Este fue el último trabajo dirigido por el reconocido director Bruno Mattei.
 
 La película comienza con la única superviviente de la anterior entrega flotando en una madera en mitad del océano. Un helicóptero logra rescatarla y es llevada hasta un hospital para que se recupere. Esta mujer de nombre Sharon, cuenta lo que le pasó, que su barco fue atraído hasta una misteriosa isla donde sus tripulantes fueron devorados por muertos vivientes. No obstante, nadie cree su historia, considerando que es fruto de los delirios de una persona traumatizada.
 

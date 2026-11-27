@@ -16,7 +16,7 @@ cartel_tamano:
 - 444
 ---
 
-Zombies, también conocida como [Wicked little things](http://en.wikipedia.org/wiki/Wicked_Little_Things) es una película estadounidense producida en 2006.
+Zombies, también conocida como [Wicked little things](https://en.wikipedia.org/wiki/Wicked_Little_Things) es una película estadounidense producida en 2006.
 
 La historia comienza con los trágicos acontecimientos que acompañaron a un grupo de niños explotados en una mina de un pueblo de Pennsylvania en 1913. Una trágica explosión acabó con sus vidas por culpa del dueño de las minas, el señor Carlton.
 

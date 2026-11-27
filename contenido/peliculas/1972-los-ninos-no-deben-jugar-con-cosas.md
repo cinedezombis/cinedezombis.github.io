@@ -14,7 +14,7 @@ cartel_tamano:
 - 436
 ---
 
-[Los niños no deben jugar con cosas muertas](http://en.wikipedia.org/wiki/Children_Shouldn%27t_Play_with_Dead_Things) es una película estadounidense de 1972 titulada originalmente "Children shouldn't play with dead things". De forma absurda y con fines únicamente publicitarios, también se distribuyó en España con el nombre de "La noche de los muertos vivientes 2" aunque nada tiene que ver ni con Romero ni con el propio argumento de la mítica "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" grabada en 1968.
+[Los niños no deben jugar con cosas muertas](https://en.wikipedia.org/wiki/Children_Shouldn%27t_Play_with_Dead_Things) es una película estadounidense de 1972 titulada originalmente "Children shouldn't play with dead things". De forma absurda y con fines únicamente publicitarios, también se distribuyó en España con el nombre de "La noche de los muertos vivientes 2" aunque nada tiene que ver ni con Romero ni con el propio argumento de la mítica "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" grabada en 1968.
 
 La película se centra en un grupo de jóvenes actores que forman una compañía de teatro liderada por Alan, un director déspota, loco y un poco tonto que llama constantemente a los actores "niños", de ahí el título de la película. Alan ha preparado un viaje especial para su compañía con la intención de realizar macabros juegos.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 350
 ---
 
-[Dead men walking](http://en.wikipedia.org/wiki/Dead_Men_Walking_%28film%29), que en español sería algo así como "Hombres muertos caminando", es una producción estadounidense de 2005 que gira en torno a una infección zombi en una cárcel de alta seguridad.
+[Dead men walking](https://en.wikipedia.org/wiki/Dead_Men_Walking_%28film%29), que en español sería algo así como "Hombres muertos caminando", es una producción estadounidense de 2005 que gira en torno a una infección zombi en una cárcel de alta seguridad.
 
 La película comienza con un hombre matando a tiros a diversas personas que parecen zombis, acaba con ellas, pero un salpicón de sangre le alcanza en la boca. Este hombre es detenido tras un intento fallido de suicidio y a pesar de que él mismo anuncia que está infectado por una extraña biotoxina, el Centro de Control de Enfermedades (CDC) autoriza su ingreso en prisión.
 

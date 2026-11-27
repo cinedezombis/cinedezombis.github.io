@@ -16,7 +16,7 @@ cartel_tamano:
 - 409
 ---
 
-[Wanted: Vivos o no muertos](http://en.wikipedia.org/wiki/Undead_or_Alive) es una comedia de zombis, producida en Estados Unidos en 2007, y ambientada en la época del salvaje oeste americano. Su título original es "Undead or alive... a Zombedy".
+[Wanted: Vivos o no muertos](https://en.wikipedia.org/wiki/Undead_or_Alive) es una comedia de zombis, producida en Estados Unidos en 2007, y ambientada en la época del salvaje oeste americano. Su título original es "Undead or alive... a Zombedy".
 
 Según nos cuentan en la película, debido a una maldición del jefe apache Gerónimo al morir, los muertos de los blancos se levantarán con ganas de cerebros. En este contexto, un par de vaqueros -unidos por una trifulca en el Saloon- terminan encarcelados por el malvado y corrupto Sheriff del pueblo. En los calabozos coinciden con un muerto viviente acusado de matar a su familia. Nuestra peculiar y simpática pareja protagonista logra escapar, sin embargo, el Sheriff (ya infectado por el zombi reo) pronto sale a su busca.
 

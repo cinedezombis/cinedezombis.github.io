@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[The earth dies screaming](http://en.wikipedia.org/wiki/The_Earth_Dies_Screaming) es una película de ciencia ficción filmada en el Reino Unido en 1964, aunque también es fechada en 1965. Su traducción podría ser algo así como "La tierra muere gritando" y gira en torno a un mundo apocalíptico provocado por una invasión de máquinas extraterrestres.
+[The earth dies screaming](https://en.wikipedia.org/wiki/The_Earth_Dies_Screaming) es una película de ciencia ficción filmada en el Reino Unido en 1964, aunque también es fechada en 1965. Su traducción podría ser algo así como "La tierra muere gritando" y gira en torno a un mundo apocalíptico provocado por una invasión de máquinas extraterrestres.
 
 Lo primero que vemos, incluso antes que los créditos aparezcan, es como las personas empiezan a desplomarse muertas de buenas a primeras. Los coches chocan, los trenes descarrilan, los aviones se estrellan... parece que el mundo se detiene de repente y la humanidad se apaga. No todos están muertos. La historia se centra en un piloto de pruebas estadounidense que se encuentra en Inglaterra desarrollando un proyecto común y que busca supervivientes en su coche. Por fin logra encontrar a más personas y se refugian en un hotel de aquella villa. El pequeño grupo de supervivientes lo forman, además de nuestro protagonista, un hombre que hará de personaje antagónico, su -falsa- esposa, una pareja acomodada algo mayor y otra pareja más joven cuya mujer está a punto de dar a luz.
 

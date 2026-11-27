@@ -15,7 +15,7 @@ cartel_tamano:
 - 359
 ---
 
-[¡Qué muerto de novio!](http://en.wikipedia.org/wiki/My_Boyfriend%27s_Back_%28film%29), titulada originalmente "My boyfriend's back", es una comedia estadounidense de zombis filmada en 1993.
+[¡Qué muerto de novio!](https://en.wikipedia.org/wiki/My_Boyfriend%27s_Back_%28film%29), titulada originalmente "My boyfriend's back", es una comedia estadounidense de zombis filmada en 1993.
 
 La película nos cuenta la historia de Johnny Dingle, un muchacho que desde pequeño ha estado enamorado platónicamente de Missy, aunque su relación con ella siempre ha estado marcada por la cobardía del joven para decirle lo que sentía. Ya más creciditos, en el instituto, Johnny es un chaval corriente, más bien de los "pringaos", mientras que Missy se ha convertido en una popular joven a la que le ronda el típico chulo guapito.
 

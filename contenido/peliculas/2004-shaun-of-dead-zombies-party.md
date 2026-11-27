@@ -16,7 +16,7 @@ cartel_tamano:
 - 450
 ---
 
-[Shaun of the dead](http://es.wikipedia.org/wiki/Shaun_of_the_Dead) es una comedia de zombis rodada en 2004 en el Reino Unido. En España también se le conoce, en una nueva muestra de lo absurdo de cambiar los títulos como: "Zombies party (una noche... de muerte)". El título "Shaun of the dead" (Shaun de los muertos) es una clara alusión a las películas de la saga de George Romero (al que según parece le gusta bastante este film), todas ellas con la expresión "... of the dead" en el título.
+[Shaun of the dead](https://es.wikipedia.org/wiki/Shaun_of_the_Dead) es una comedia de zombis rodada en 2004 en el Reino Unido. En España también se le conoce, en una nueva muestra de lo absurdo de cambiar los títulos como: "Zombies party (una noche... de muerte)". El título "Shaun of the dead" (Shaun de los muertos) es una clara alusión a las películas de la saga de George Romero (al que según parece le gusta bastante este film), todas ellas con la expresión "... of the dead" en el título.
 
 Nuestro protagonista es Shaun, un tío de 29 años que vive con su colega del alma Ed -un vago de cuidado- con el que se pasa el día jugando a la Play Station. La vida de Shaun se mueve entre un trabajo sin futuro, una relación en la que parece que no dar la talla, una madre a la que apenas ve y un padrastro con el que nunca se ha llevado demasiado bien.
 

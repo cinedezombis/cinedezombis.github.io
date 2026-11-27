@@ -14,7 +14,7 @@ cartel_tamano:
 - 422
 ---
 
-[Dance of the dead](http://en.wikipedia.org/wiki/Dance_of_the_Dead_%28film%29) es una comedia de zombis estadounidense producida en 2008 que gira en torno a un típico baile americano de graduación.
+[Dance of the dead](https://en.wikipedia.org/wiki/Dance_of_the_Dead_%28film%29) es una comedia de zombis estadounidense producida en 2008 que gira en torno a un típico baile americano de graduación.
 
 La película comienza con imágenes del trabajador del cementerio de un pueblo cortando algunos brazos y cabezas de muertos que están volviendo a la vida. Todo indica que este levantamiento lo están provocando los residuos de una central eléctrica cercana.
 

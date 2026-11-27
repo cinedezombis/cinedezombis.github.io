@@ -14,7 +14,7 @@ cartel_tamano:
 - 487
 ---
 
-[Ondas de choque](http://en.wikipedia.org/wiki/Shock_Waves_%28film%29) es una película estadounidense de zombis nazis submarinos, rodada en 1977 y cuyo título original es "Shock waves". En español también se le conoce con la descriptiva denominación "La isla de los zombies submarinos".
+[Ondas de choque](https://en.wikipedia.org/wiki/Shock_Waves_%28film%29) es una película estadounidense de zombis nazis submarinos, rodada en 1977 y cuyo título original es "Shock waves". En español también se le conoce con la descriptiva denominación "La isla de los zombies submarinos".
 
 La película comienza por el final, así que evidentemente se le da más importancia a la trama que al propio desenlace. Una chica está flotando en un bote en mitad del océano, cuando es rescatada por un barco y empieza a narrar cómo llegó hasta allí.
 

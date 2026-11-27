@@ -14,7 +14,7 @@ cartel_tamano:
 - 755
 ---
 
-[Zombies on Broadway](http://en.wikipedia.org/wiki/Zombies_on_Broadway) es un largometraje cómico de zombis filmado en Estados Unidos en 1945 y también conocido como "Loonies on Broadway".
+[Zombies on Broadway](https://en.wikipedia.org/wiki/Zombies_on_Broadway) es un largometraje cómico de zombis filmado en Estados Unidos en 1945 y también conocido como "Loonies on Broadway".
 
 Una simpática pareja de rufianes buscavidas se han comprometido en llevar a un auténtico zombi a la inauguración de un night club de un empresario bastante mafioso. Su primera idea es que alguien se hiciera pasar por un zombi, sin embargo, el empresario obliga a esta pareja a encontrar un zombi de verdad cueste lo que cueste.
 

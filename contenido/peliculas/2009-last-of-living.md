@@ -14,7 +14,7 @@ cartel_tamano:
 - 454
 ---
 
-[Last of the living](http://en.wikipedia.org/wiki/Last_of_the_Living) es una comedia de zombis producida en Nueva Zelanda en el año 2009.
+[Last of the living](https://en.wikipedia.org/wiki/Last_of_the_Living) es una comedia de zombis producida en Nueva Zelanda en el año 2009.
 
 Nos situamos en un mundo postapocalíptico donde un contagioso virus ha exterminado a la gran mayoría de la población y los que quedan se han convertido en muertos vivientes. En este contexto desolador nos centramos en un pequeño grupo de tres supervivientes compuesto por dos hermanos (Morgan y Ash) y un peculiar amigo obsesionado con la música (Johnny). Este grupo de gamberretes viven es este mundo destruido -pero sorprendentemente limpio con casi todas las calles despejadas- desplazándose de casa en casa en los barrios residenciales y cuando necesitan algo, pues van al centro comercial y lo cogen, logrando hasta ahora haber evitado eficazmente a los zombis que les rodean.
 

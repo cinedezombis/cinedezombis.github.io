@@ -14,7 +14,7 @@ cartel_tamano:
 - 565
 ---
 
-[Miedo en la ciudad de los muertos](http://en.wikipedia.org/wiki/City_of_the_Living_Dead) es una película italiana de 1980, titulada originalmente "Paura nella città dei morti viventi", conocida en inglés como "City of the living dead" y dirigida por el mítico Lucio Fulci, aunque con unos registros alejados de otras películas de zombis de su autoría como "[Zombi 2. Nueva York bajo el terror de los zombies](zb:/2012/05/1979-zombi-2-nueva-york-bajo-el-terror.html)" o "[Zombi 3](zb:/2012/06/1988-zombi-3.html)".
+[Miedo en la ciudad de los muertos](https://en.wikipedia.org/wiki/City_of_the_Living_Dead) es una película italiana de 1980, titulada originalmente "Paura nella città dei morti viventi", conocida en inglés como "City of the living dead" y dirigida por el mítico Lucio Fulci, aunque con unos registros alejados de otras películas de zombis de su autoría como "[Zombi 2. Nueva York bajo el terror de los zombies](zb:/2012/05/1979-zombi-2-nueva-york-bajo-el-terror.html)" o "[Zombi 3](zb:/2012/06/1988-zombi-3.html)".
 
 Mientras realizaba una sesión de espiritismo, una joven sufre una terrible revelación y queda prácticamente muerta. Tanto es así, que la entierran viva, salvándola un policía que investigaba su presunto asesinato. Cuando se repone, la muchacha cuenta que en su visión vio lo que identifica como "la ciudad de los muertos", donde algo terrible ha pasado y donde se deben cerrar de nuevo las puertas del mal o todos los muertos caminará sobre la tierra.
 

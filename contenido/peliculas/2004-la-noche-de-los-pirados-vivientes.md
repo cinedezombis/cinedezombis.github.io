@@ -14,7 +14,7 @@ cartel_tamano:
 - 400
 ---
 
-[La noche de los pirados vivientes](http://en.wikipedia.org/wiki/Die_Nacht_der_lebenden_Loser) es una parodia de zombis alemana, titulada originalmente "Die nacht der lebenden loser" grabada en el año 2004. También se le conoce con la denominación "Night of the living dorks".
+[La noche de los pirados vivientes](https://en.wikipedia.org/wiki/Die_Nacht_der_lebenden_Loser) es una parodia de zombis alemana, titulada originalmente "Die nacht der lebenden loser" grabada en el año 2004. También se le conoce con la denominación "Night of the living dorks".
 
 La película comienza con imágenes de Haití, donde un zombi se cuela en la casa de su familia y es quemado con un lanzallamas, guardando sus cenizas en una urna que será robada y que irá de mano en mano hasta llegar a Alemania.
 

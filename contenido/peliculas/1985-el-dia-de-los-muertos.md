@@ -14,7 +14,7 @@ cartel_tamano:
 - 543
 ---
 
-[El día de los muertos](http://es.wikipedia.org/wiki/Day_of_the_dead) es una película estadounidense dirigida por George A. Romero en 1985. Su título original es "Day of the dead" y es la tercera de las películas de la saga de Romero después de "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" de 1968 y "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)" de 1978.
+[El día de los muertos](https://es.wikipedia.org/wiki/Day_of_the_dead) es una película estadounidense dirigida por George A. Romero en 1985. Su título original es "Day of the dead" y es la tercera de las películas de la saga de Romero después de "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" de 1968 y "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)" de 1978.
 
 En esta película la trama se ambienta en un búnker militar subterráneo donde se está desarrollando un proyecto científico para investigar la naturaleza de los zombis y cómo poder combatirlos. El grupo de supervivientes que habita en las amplias instalaciones está formado por tres científicos, un piloto, un especialista electrónico y media docena de militares capitaneados por un malvado y despiadado mando. La protagonista central es Sarah, miembro del equipo científico.
 

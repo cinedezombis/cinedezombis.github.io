@@ -14,7 +14,7 @@ cartel_tamano:
 - 800
 ---
 
-[Retornados](http://en.wikipedia.org/wiki/The_Returned_%282013_film%29) o "The Returned" es una producción hispano-canadiense estrenada en 2013 y dirigida por Manuel Carballo.
+[Retornados](https://en.wikipedia.org/wiki/The_Returned_%282013_film%29) o "The Returned" es una producción hispano-canadiense estrenada en 2013 y dirigida por Manuel Carballo.
 
 En los años ochenta del pasado siglo una epidemia zombi asoló el mundo. Kate era entonces solo una niña cuando tuvo que disparar a sus padres en la cabeza, un recuerdo que, lógicamente, nunca le abandonará. En la actualidad Kate es una médica que trabaja precisamente en una unidad hospitalaria de "Retornados", es decir, personas que han sido infectadas por el virus zombi pero que al ser tratadas a tiempo sus efectos son controlados y pueden hacer una vida normal siempre que se inyecten una vez al día una dosis del suero curativo.
 

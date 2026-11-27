@@ -16,7 +16,7 @@ cartel_tamano:
 - 481
 ---
 
-[Undead](http://en.wikipedia.org/wiki/Undead_%28film%29) es una película australiana de 2003 que mezcla zombis y extraterrestres, también es conocida en español con el título de "Los no muertos".
+[Undead](https://en.wikipedia.org/wiki/Undead_%28film%29) es una película australiana de 2003 que mezcla zombis y extraterrestres, también es conocida en español con el título de "Los no muertos".
 
 En el pueblo australiano de Berkeley comienzan a suceder extraños sucesos: caen meteoritos, la lluvia se ha convertido en lluvia ácida, tubos de luz aparecen desde el cielo y lo que es peor, los muertos reviven con muchas ganas de carne humana. Todo parece obra de un supuesto intento de conquista extraterrestre.
 

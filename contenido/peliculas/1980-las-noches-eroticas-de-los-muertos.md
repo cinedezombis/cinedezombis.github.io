@@ -16,7 +16,7 @@ cartel_tamano:
 - 438
 ---
 
-[Las noches eróticas de los muertos vivientes](http://en.wikipedia.org/wiki/Erotic_Nights_of_the_Living_Dead) es una película italiana, dirigida en 1980 por Joe D'Amato donde se mezcla una floja historia de zombis con continuos desnudos y un par de escenas de sexo explícito. Originalmente se titula "Le notti erotiche dei morti viventi" y es conocida en inglés con la denominación "Erotic nights of the living dead".
+[Las noches eróticas de los muertos vivientes](https://en.wikipedia.org/wiki/Erotic_Nights_of_the_Living_Dead) es una película italiana, dirigida en 1980 por Joe D'Amato donde se mezcla una floja historia de zombis con continuos desnudos y un par de escenas de sexo explícito. Originalmente se titula "Le notti erotiche dei morti viventi" y es conocida en inglés con la denominación "Erotic nights of the living dead".
 
 Un alto cargo de una empresa se hace con una isla tropical salpicada por las leyendas de brujería con el objetivo de construir un gran hotel allí. Para llegar hasta ella contrata los servicios de un marinero y su barco. Hasta aquí, básicamente, el argumento de la primera hora de película, eso sí, salpicada con múltiples escenas sexuales.
 

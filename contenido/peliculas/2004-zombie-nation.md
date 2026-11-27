@@ -14,7 +14,7 @@ cartel_tamano:
 - 479
 ---
 
-[Zombie nation](http://es.wikipedia.org/wiki/Zombie_Nation_%28pel%C3%ADcula%29) es una película rodada en 2004 en Estados Unidos, popular por ser una de las grabaciones con peores críticas y valoraciones en la historia del cine, con toda la razón del mundo además.
+[Zombie nation](https://es.wikipedia.org/wiki/Zombie_Nation_%28pel%C3%ADcula%29) es una película rodada en 2004 en Estados Unidos, popular por ser una de las grabaciones con peores críticas y valoraciones en la historia del cine, con toda la razón del mundo además.
 
 La historia nos narra la obsesión enfermiza de un policía que arresta a muchachas jóvenes sin motivo aparente, las lleva a un almacén de muebles y las asesina. Esto lo hace con total impunidad de sus superiores, antiguos compañeros del ejército. Este asesino en serie, gravemente trastornado por una infancia y una madre que le maltrataba y que le ha dejado totalmente traumatizado, siempre utiliza el mismo "modus operandi", a saber, para a una joven que vaya conduciendo, la detiene, la lleva al almacén donde les inyecta sustancias mortales, para posteriormente meterla en una funda y enterrarla donde puede.
 

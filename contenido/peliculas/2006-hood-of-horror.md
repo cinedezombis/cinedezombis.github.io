@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Hood of horror](http://en.wikipedia.org/wiki/Hood_of_Horror) es una película estadounidense filmada en 2006 que está compuesta por tres historias cortas de terror narradas por el rapero Snoop Dogg, por ello también es conocida con el título de "Snoop Dogg's Hood of Horror".
+[Hood of horror](https://en.wikipedia.org/wiki/Hood_of_Horror) es una película estadounidense filmada en 2006 que está compuesta por tres historias cortas de terror narradas por el rapero Snoop Dogg, por ello también es conocida con el título de "Snoop Dogg's Hood of Horror".
 
 Enlazando las historias con interesantes animaciones -protagonizadas también por Snoop Dogg que aparece hasta en la sopa-, las tres narraciones que componen esta antología son las siguientes:
 

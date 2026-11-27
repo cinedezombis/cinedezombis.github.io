@@ -17,7 +17,7 @@ cartel_tamano:
 - 400
 ---
 
-[Waxwork II: Lost in time](http://en.wikipedia.org/wiki/Waxwork_II:_Lost_in_Time), conocida en español como "Museo de cera 2: El misterio de los agujeros negros" -el porqué de esta traducción, como de otras tantas, nunca lo sabremos- es un largometraje estadounidense grabado en 1992 que supone la segunda entrega de la saga comenzada en 1988 con "[Waxwork](zb:/2013/07/1988-waxwork-museo-de-cera.html)".
+[Waxwork II: Lost in time](https://en.wikipedia.org/wiki/Waxwork_II:_Lost_in_Time), conocida en español como "Museo de cera 2: El misterio de los agujeros negros" -el porqué de esta traducción, como de otras tantas, nunca lo sabremos- es un largometraje estadounidense grabado en 1992 que supone la segunda entrega de la saga comenzada en 1988 con "[Waxwork](zb:/2013/07/1988-waxwork-museo-de-cera.html)".
 
 La filmación comienza justo en el lugar donde acabó la primera parte, con el museo de cera en llamas y una mano "superviviente" que ha logrado salir de aquel lugar. Esta mano sigue a la muchacha hasta su casa y provoca la muerte de su padrastro. Como era de esperar, nadie cree la historia de la joven y la policía la detiene acusada del asesinato de este hombre y ya de paso como la responsable de la destrucción del museo de cera y sus más de 200 muertos.
 
@@ -31,4 +31,4 @@ Los actores no están del todo mal. En este sentido destacamos que la actriz que
 
 Respecto a los zombis, como comentábamos más arriba, aparecen exclusivamente durante un periodo muy corto de tiempo en el loco final de la película. El homenaje que se brinda a la que quizá es la mejor película de zombis de todos los tiempos, "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)", justifica el comentario de este trabajo, aunque sin duda, si lo que buscas es una producción donde los zombis pinten algo, esta filmación no es la tuya.
 
-En definitiva, segunda entrega de "[Waxwork](http://en.wikipedia.org/wiki/Waxwork_II:_Lost_in_Time)" continuando la historia por donde la dejó la original de cuatro años atrás, una película que explota la idea de ir saltando de una a otra historia de terror, con mucho más humor, aunque obviamente menos sorprendente y algo menos fresca y original. Una acertada película de comedia y terror con aires ochenteros y muy poca presencia de zombis.
+En definitiva, segunda entrega de "[Waxwork](https://en.wikipedia.org/wiki/Waxwork_II:_Lost_in_Time)" continuando la historia por donde la dejó la original de cuatro años atrás, una película que explota la idea de ir saltando de una a otra historia de terror, con mucho más humor, aunque obviamente menos sorprendente y algo menos fresca y original. Una acertada película de comedia y terror con aires ochenteros y muy poca presencia de zombis.

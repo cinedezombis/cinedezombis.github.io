@@ -14,7 +14,7 @@ cartel_tamano:
 - 425
 ---
 
-[Stacy](http://en.wikipedia.org/wiki/Stacy_%28film%29) es una comedia japonesa de zombis estrenada en 2001 y basada en una novela de Kenji Ohtsuki. Es conocida igualmente como "Stacy: Attack of the schoolgirl zombies".
+[Stacy](https://en.wikipedia.org/wiki/Stacy_%28film%29) es una comedia japonesa de zombis estrenada en 2001 y basada en una novela de Kenji Ohtsuki. Es conocida igualmente como "Stacy: Attack of the schoolgirl zombies".
 
 A comienzos del siglo XXI y sin ningún motivo aparente, las muchachas adolescentes de entre 15 y 17 años comienzan a morir repentinamente, reviviendo al poco tiempo convertidas en peligrosas zombis hambrientas de carne humana, con la peculiaridad de que antes de morir, las jóvenes entran en un estado de inmensa alegría y felicidad. A estas muchachas muertas vivientes se les conoce en el mundo entero como Stacies. La vida en este contexto parece que se lleva con cierta normalidad, aunque la población mundial ha descendido hasta la mitad.
 

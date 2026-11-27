@@ -14,7 +14,7 @@ cartel_tamano:
 - 480
 ---
 
-[La muerte os sienta tan bien](http://es.wikipedia.org/wiki/Death_Becomes_Her) es el título español de la película de humor negro realizada en 1992 en Estados Unidos denominada originalmente "Death becomes her", dirigida por Robert Zemeckis y protagonizada por Meryl Streep, Bruce Willis y Goldie Hawn que obtuvo el Óscar a los mejores efectos visuales.
+[La muerte os sienta tan bien](https://es.wikipedia.org/wiki/Death_Becomes_Her) es el título español de la película de humor negro realizada en 1992 en Estados Unidos denominada originalmente "Death becomes her", dirigida por Robert Zemeckis y protagonizada por Meryl Streep, Bruce Willis y Goldie Hawn que obtuvo el Óscar a los mejores efectos visuales.
 
 Helen (Goldie Hawn) es una escritora comprometida con un cirujano plástico llamado Ernest (Bruce Willis) que decide ir a ver una obra de teatro de su "amiga" actriz Madeline (Meryl Streep) con la que mantiene una rivalidad vital con el objetivo de presentarle al que será su marido. No obstante, como parece que ya ocurriera con anterioridad, Madeline acaba arrebatándole el novio a Helen y termina casándose con él. Helen cae en una profunda depresión que le hace perder su casa, engordar muchísimo y terminar internada en un hospital psiquiátrico. La mujer llega a la conclusión de que la única forma de superar este trauma será acabar con la existencia de su rival Madeline.
 

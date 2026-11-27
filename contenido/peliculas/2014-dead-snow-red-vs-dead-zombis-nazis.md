@@ -16,7 +16,7 @@ cartel_tamano:
 - 320
 ---
 
-[Dead Snow: Red vs. Dead](http://en.wikipedia.org/wiki/Dead_Snow:_Red_vs._Dead), conocida en español como "Zombis nazis 2" y cuyo título original es "Død snø 2" es una película de zombis de producción noruega y estrenada en 2014 que es la continuación de la historia iniciada con la filmación "[Zombis nazis](zb:/2012/05/2009-dead-snow-zombis-nazis.html)" cinco años atrás.
+[Dead Snow: Red vs. Dead](https://en.wikipedia.org/wiki/Dead_Snow:_Red_vs._Dead), conocida en español como "Zombis nazis 2" y cuyo título original es "Død snø 2" es una película de zombis de producción noruega y estrenada en 2014 que es la continuación de la historia iniciada con la filmación "[Zombis nazis](zb:/2012/05/2009-dead-snow-zombis-nazis.html)" cinco años atrás.
 
 La película comienza haciendo un recordatorio de la primera entrega y continúa exactamente en el lugar donde la dejó. Martin, el único joven superviviente, se lleva sin querer una de las monedas del oro nazi que despertó a los zombis. A pesar de no tener uno de sus brazos, el joven logra deshacerse del líder nazi -denominado coronel Herzog- y emprende su huida en coche aunque al poco tiempo tiene un accidente. A pesar de haber recuperado la totalidad del tesoro, los zombis deciden completar la misión encomendada antes de su muerte: destruir una población cercana, para lo que necesitarán reclutar más efectivos.
 

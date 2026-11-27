@@ -14,7 +14,7 @@ cartel_tamano:
 - 468
 ---
 
-[Automaton transfusión](http://en.wikipedia.org/wiki/Automaton_Transfusion) es una película de zombis estadounidense de bajo presupuesto que fue estrenada en 2006 y que se plantea como la primera de una trilogía de filmaciones. En español también se la conoce como "Muertos Revividos".
+[Automaton transfusión](https://en.wikipedia.org/wiki/Automaton_Transfusion) es una película de zombis estadounidense de bajo presupuesto que fue estrenada en 2006 y que se plantea como la primera de una trilogía de filmaciones. En español también se la conoce como "Muertos Revividos".
 
 La historia nos sitúa en una pequeña localidad de los Estados Unidos donde comienzan a ocurrir extraños acontecimientos. Nos centramos en tres amigos adolescentes que van al instituto juntos y que no gozan de demasiada popularidad. Ya en su propio instituto han sido testigos de un altercado donde un joven aparentemente trastornado ha atacado y mordido a un profesor.
 

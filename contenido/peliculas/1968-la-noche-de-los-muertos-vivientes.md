@@ -14,7 +14,7 @@ cartel_tamano:
 - 450
 ---
 
-[La noche de los muertos vivientes](http://es.wikipedia.org/wiki/La_noche_de_los_muertos_vivientes), cuyo título original es "Night of the living dead" es, sin duda, la película referente del género zombi por excelencia, rodada en Estados Unidos en 1968 por el célebre guionista y director George A. Romero.
+[La noche de los muertos vivientes](https://es.wikipedia.org/wiki/La_noche_de_los_muertos_vivientes), cuyo título original es "Night of the living dead" es, sin duda, la película referente del género zombi por excelencia, rodada en Estados Unidos en 1968 por el célebre guionista y director George A. Romero.
 
 Es una película grabada en blanco y negro cuya línea argumental supone una auténtica revolución para las películas de terror basadas en los muertos vivientes hasta la época. De esta manera, es considerada como la primera película donde se comienza a forjar el arquetipo moderno del zombi y el concepto de apocalipsis zombi.
 

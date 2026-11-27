@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Resident Evil 2: Apocalipsis](http://es.wikipedia.org/wiki/Resident_Evil:_Apocalypse) es una película filmada el 2004 que supone la segunda parte de esta saga basada en el videojuego del mismo nombre tras "[Resident Evil](zb:/2014/02/2002-resident-evil.html)" grabada dos años atrás. Su título original es "Resident Evil: Apocalypse" y se trata de una coproducción entre Alemania, Francia, Reino Unido, Canadá y Estados Unidos.
+[Resident Evil 2: Apocalipsis](https://es.wikipedia.org/wiki/Resident_Evil:_Apocalypse) es una película filmada el 2004 que supone la segunda parte de esta saga basada en el videojuego del mismo nombre tras "[Resident Evil](zb:/2014/02/2002-resident-evil.html)" grabada dos años atrás. Su título original es "Resident Evil: Apocalypse" y se trata de una coproducción entre Alemania, Francia, Reino Unido, Canadá y Estados Unidos.
 
 El comienzo de esta segunda entrega está totalmente enlazado con el final del título original, pero aportando algunos detalles más. Tras la salida de Alice y Matt de La Colmena, un nuevo grupo de Umbrella reabrió el edificio para comprobar qué había ocurrido, sin embargo, esto causó que muy pronto llegara la infección del virus T a la superficie. Los zombis comienzan a invadir cada rincón de Raccoon City. En un intento desesperado tras conocer la fuga, la corporación Umbrella comienza la evacuación del lugar, sin embargo, la hija de un importante científico de la empresa se queda allí atrapada por un desafortunado accidente de tráfico. Los ciudadanos que pueden escapan de Raccoon City, pero cuando la infección llega a las puertas de la ciudad, Cain -el malo, responsable de Umbrella- decide cerrarlas y preparar un plan de destrucción total.
 

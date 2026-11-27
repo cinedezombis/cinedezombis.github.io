@@ -14,7 +14,7 @@ cartel_tamano:
 - 582
 ---
 
-[Los muertos no mueren](http://www.imdb.com/title/tt0099374/), es una comedia estadounidense con zombis del vudú filmada en 1990. Su título original es "Dead men don't die"
+[Los muertos no mueren](https://www.imdb.com/title/tt0099374/), es una comedia estadounidense con zombis del vudú filmada en 1990. Su título original es "Dead men don't die"
 
 Barry Baron es un afamado presentador de noticias. Cuando se dirige al aparcamiento del canal de televisión donde trabaja se percata de extraños movimientos que le hacen comenzar a investigar por su cuenta. El presentador descubre que en un almacén de ese edificio se están guardando grandes cantidades de cocaína. Sin embargo y desafortunadamente para él, los traficantes lo descubren cuando estaba metiendo las narices en sus asuntos y lo matan a tiros. La primera persona que ve el cadáver es una periodista, compañera de Barry del noticiario, pero mientras coge su cámara de vídeo y avisa a la policía, una limpiadora del canal lo encuentra, limpiadora que precisamente tiene conocimientos de magia negra y lo revive haciendo un rito de vudú.
 

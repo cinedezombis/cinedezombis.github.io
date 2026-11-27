@@ -14,7 +14,7 @@ cartel_tamano:
 - 425
 ---
 
-[El pantano de los cuervos](http://www.imdb.com/title/tt0070508/) en una coproducción hispano ecuatoriana rodada en 1974 que nos narra los oscuros experimentos de un médico que considera que la muerte es un proceso reversible.
+[El pantano de los cuervos](https://www.imdb.com/title/tt0070508/) en una coproducción hispano ecuatoriana rodada en 1974 que nos narra los oscuros experimentos de un médico que considera que la muerte es un proceso reversible.
 
 El Dr. Frosta es un médico sin escrúpulos que ya ha sido expulsado de varios hospitales europeos al descubrir que realizaba investigaciones para devolver a la vida a los cadáveres recientes. El doctor se asienta ahora en un lugar pantanoso de la selva de Ecuador acompañado por uno de los pocos muertos que ha podido revivir con su suero rojizo que hace las veces de zombi-esclavo-sirviente-ayudante.
 

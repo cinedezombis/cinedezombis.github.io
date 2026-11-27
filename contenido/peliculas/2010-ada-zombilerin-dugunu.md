@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Ada: Zombilerin Düğünü](http://en.wikipedia.org/wiki/Island:_Wedding_of_the_Zombies) es una película de zombis grabada en Turquía en 2010 como un falso documental. En inglés es conocida por su traducción literal "Island: Wedding of the Zombies", es decir, algo así como "Isla: Boda de los zombis".
+[Ada: Zombilerin Düğünü](https://en.wikipedia.org/wiki/Island:_Wedding_of_the_Zombies) es una película de zombis grabada en Turquía en 2010 como un falso documental. En inglés es conocida por su traducción literal "Island: Wedding of the Zombies", es decir, algo así como "Isla: Boda de los zombis".
 
 Un grupo de viejos amigos se dirigen hacia una isla cercana donde se celebrará la boda de un compañero. Durante toda la filmación veremos la historia mediante la cámara de uno de ellos, que está grabando para el recuerdo todos aquellos momentos. El barco por fin atraca en la isla y los amigos se dirigen hacia el lugar donde se realizará la ceremonia nupcial.
 

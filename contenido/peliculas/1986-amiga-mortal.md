@@ -14,7 +14,7 @@ cartel_tamano:
 - 755
 ---
 
-[Amiga mortal](http://en.wikipedia.org/wiki/Deadly_Friend) es una película estadounidense de 1986 distribuida por Warner Bros., cuyo título original es "Deadly friend", y que está basada en una novela de Diana Henstell.
+[Amiga mortal](https://en.wikipedia.org/wiki/Deadly_Friend) es una película estadounidense de 1986 distribuida por Warner Bros., cuyo título original es "Deadly friend", y que está basada en una novela de Diana Henstell.
 
 Paul es un joven genio de la cibernética y la inteligencia artificial que se muda a un pequeño pueblo del corazón de Estados Unidos junto con su madre y su robot inteligente llamado BB (/bibi/). Paul pronto hará amistades con otro joven del barrio y se fijará en Samantha, su vecina de enfrente.
 

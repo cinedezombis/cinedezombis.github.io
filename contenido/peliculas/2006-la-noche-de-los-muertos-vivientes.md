@@ -14,7 +14,7 @@ cartel_tamano:
 - 599
 ---
 
-[La noche de los muertos vivientes 3D](http://en.wikipedia.org/wiki/Night_of_the_Living_Dead_3D), titulada originalmente "Night of the Living Dead 3D", es una película estadounidense filmada en 3D en 2006 que supone el segundo remake de la clásica "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" de 1968, tras [la versión de 1990](zb:/2012/04/1990-la-noche-de-los-muertos-vivientes.html) dirigida por Tom Savini.
+[La noche de los muertos vivientes 3D](https://en.wikipedia.org/wiki/Night_of_the_Living_Dead_3D), titulada originalmente "Night of the Living Dead 3D", es una película estadounidense filmada en 3D en 2006 que supone el segundo remake de la clásica "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" de 1968, tras [la versión de 1990](zb:/2012/04/1990-la-noche-de-los-muertos-vivientes.html) dirigida por Tom Savini.
 
 La historia comienza de forma bastante parecida a la original, aunque pronto descubriremos que será una de las pocas cosas que mantenga. Barbara y su hermano Johnny van en coche hasta un cementerio y allí se encuentran con varios zombis, sin embargo en esta ocasión el hermano se marcha en el coche y Barb -como le gusta que le llamen- intenta refugiarse en las propias instalaciones del cementerio, donde conoce al dueño de la funeraria, posteriormente se va corriendo campo a través de aquel lugar infestado de muertos vivientes.
 

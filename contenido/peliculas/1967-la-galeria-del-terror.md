@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[La galería del terror](http://en.wikipedia.org/wiki/Dr._Terror%27s_Gallery_of_Horrors), conocida en inglés como "Dr. Terror's Gallery of Horrors" o simplemente como "Gallery of Horrors", es una película estrenada en 1967 con producción estadounidense compuesta por cinco historias cortas narradas por el mítico John Carradine.
+[La galería del terror](https://en.wikipedia.org/wiki/Dr._Terror%27s_Gallery_of_Horrors), conocida en inglés como "Dr. Terror's Gallery of Horrors" o simplemente como "Gallery of Horrors", es una película estrenada en 1967 con producción estadounidense compuesta por cinco historias cortas narradas por el mítico John Carradine.
 
 La primera historia se denomina "El reloj de la bruja" y trata sobre un joven matrimonio que se muda a una antigua mansión y ponen en marcha un reloj que encuentran en el desván provocando la aparición de un misterioso hombre que vendría a cumplir los negros presagios que sobre este objeto circulan.
 

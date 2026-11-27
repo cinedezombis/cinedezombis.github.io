@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Zeder](http://en.wikipedia.org/wiki/Zeder) es una película italiana de misterio y terror filmada en 1983. También es conocida en inglés como "Revenge of the dead".
+[Zeder](https://en.wikipedia.org/wiki/Zeder) es una película italiana de misterio y terror filmada en 1983. También es conocida en inglés como "Revenge of the dead".
 
 La historia comienza con una introducción situada en Francia, en el año 1956, cuando se cometen una serie de extraños asesinatos y una joven con poderes psíquicos descubre la tumba de Paolo Zeder, un científico que estudiaba las propiedades de las "Tierras K", zonas consideradas mágicas por otras civilizaciones y que podrían volver los muertos a la vida.
 

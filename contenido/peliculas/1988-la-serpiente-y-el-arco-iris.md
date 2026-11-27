@@ -14,7 +14,7 @@ cartel_tamano:
 - 443
 ---
 
-[La serpiente y el arco iris](http://en.wikipedia.org/wiki/The_Serpent_and_the_Rainbow_%28film%29) es una película rodada en Estados Unidos en 1988 cuyo título original es "The serpent and the rainbow". Se trata de un largometraje basado en el testimonio del investigador Wade Davis en su búsqueda de las drogas utilizadas en Haití para las prácticas del vudú.
+[La serpiente y el arco iris](https://en.wikipedia.org/wiki/The_Serpent_and_the_Rainbow_%28film%29) es una película rodada en Estados Unidos en 1988 cuyo título original es "The serpent and the rainbow". Se trata de un largometraje basado en el testimonio del investigador Wade Davis en su búsqueda de las drogas utilizadas en Haití para las prácticas del vudú.
 
 El doctor Dennis Alan es un antropólogo y etnobotánico con experiencia en la investigación en el Amazonas. El científico es enviado a Haití por una corporación farmacéutica para indagar sobre los productos utilizados en el proceso de zombificación durante los ritos de vudú con el fin de utilizarlos como fuertes anestésicos.
 

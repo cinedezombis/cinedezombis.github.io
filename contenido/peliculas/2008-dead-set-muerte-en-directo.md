@@ -16,7 +16,7 @@ cartel_tamano:
 - 576
 ---
 
-[Dead set](http://es.wikipedia.org/wiki/Dead_Set) es originalmente una miniserie producida en 2008 en el Reino Unido y que consta de 5 episodios. Posteriormente, se realizó una versión en largometraje que es la que aquí vamos a comentar. En el contexto español se le conoce como "Dead set: Muerte en directo" y es una reconocida historia de zombis ambientada en el célebre reality "Gran Hermano".
+[Dead set](https://es.wikipedia.org/wiki/Dead_Set) es originalmente una miniserie producida en 2008 en el Reino Unido y que consta de 5 episodios. Posteriormente, se realizó una versión en largometraje que es la que aquí vamos a comentar. En el contexto español se le conoce como "Dead set: Muerte en directo" y es una reconocida historia de zombis ambientada en el célebre reality "Gran Hermano".
 
 La trama comienza centrada en Kelly, nuestra protagonista, que trabaja como auxiliar de producción en el programa "Gran Hermano". Es noche de expulsiones y la tensión del directo se confunde con la agitación de múltiples incidentes que se están produciendo por todas partes. El programa continúa su emisión con normalidad hasta que, de forma irremediable, la infección de un extraño contagio que está levantando a los muertos llega hasta las mismas instalaciones de la televisión. Paralelamente, el novio de Kelly -al que le puso los cuernos la noche anterior- intenta reunirse con su pareja después de quedarse tirado a decenas de kilómetros de allí.
 

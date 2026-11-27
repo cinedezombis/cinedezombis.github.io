@@ -12,7 +12,7 @@ cartel_tamano:
 - 492
 ---
 
-[Blue Demon y Zovek en La invasión de los muertos](http://www.imdb.com/title/tt0263475/) o simplemente "La invasión de los muertos" es una película mexicana de bajo presupuesto estrenada en 1973 que fue protagonizada por el luchador enmascarado Blue Demon y el escapista Zovek quien no pudo ver el estreno de la filmación al morir en 1972 tras caer de un helicóptero cuando iba a realizar una de sus demostraciones.
+[Blue Demon y Zovek en La invasión de los muertos](https://www.imdb.com/title/tt0263475/) o simplemente "La invasión de los muertos" es una película mexicana de bajo presupuesto estrenada en 1973 que fue protagonizada por el luchador enmascarado Blue Demon y el escapista Zovek quien no pudo ver el estreno de la filmación al morir en 1972 tras caer de un helicóptero cuando iba a realizar una de sus demostraciones.
 
 Una misteriosa fuerza extraterrestre parece amenazar a la humanidad. El piloto de un vuelo comercial se ha encontrado en el aire con un objeto no identificado y va a consultar con Blue Demon sobre su extraño avistamiento. Por su parte el Profesor Zovek ha encontrado varios policías muertos en extrañas circunstancias. A todo esto, un investigador llamado Profesor Volpi y su hija Erika, son informados del descubrimiento de unas pinturas rupestres poco comunes y no dudan en consultar a Zovek, especialista en artes marciales, la cultura oriental y con poderes mentales.
 

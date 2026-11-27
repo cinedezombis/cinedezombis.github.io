@@ -14,7 +14,7 @@ cartel_tamano:
 - 434
 ---
 
-[Valley of the zombies](http://www.imdb.com/title/tt0039076/) (en español, "El valle de los zombis") es una película estadounidense de misterio y terror producida en 1946 por Republic Picture.
+[Valley of the zombies](https://www.imdb.com/title/tt0039076/) (en español, "El valle de los zombis") es una película estadounidense de misterio y terror producida en 1946 por Republic Picture.
 
 El Dr. Maynard, un psiquiatra que regenta una clínica privada, se ha percatado que alguien está robando sangre de su laboratorio. Una noche, un extraño hombre visita al médico. Se llama Ormand Murks y había sido un antiguo paciente del Dr. Maynard que murió en la mesa de operaciones de un psiquiátrico cinco años atrás. Murks creía que las transfusiones de sangre le darían la inmortalidad y por eso acabó internado. Según le cuenta el propio hombre, después de morir y que le dieran el cuerpo a su hermano, pudo regresar a la vida gracias al vudú y a las pociones diabólicas del Valle de los Zombis, convirtiendo su obsesión en realidad, ya que necesita de constantes transfusiones de sangre para continuar con vida.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 755
 ---
 
-[I sell the dead](http://en.wikipedia.org/wiki/I_Sell_the_Dead) es una comedia de terror producida en 2008 en los Estados Unidos que nos narra las andanzas de dos peculiares ladrones de tumbas.
+[I sell the dead](https://en.wikipedia.org/wiki/I_Sell_the_Dead) es una comedia de terror producida en 2008 en los Estados Unidos que nos narra las andanzas de dos peculiares ladrones de tumbas.
 
 La filmación está ambientada en la época victoriana. Comienza con la ejecución pública de un hombre en la guillotina. Posteriormente un sacerdote va a visitar a Arthur Blake, el socio del hombre ajusticiado y que igualmente espera su momento para morir acusado de robar muertos y de asesinato. El religioso dice haber venido para oír al reo y anotar sus últimas palabras antes de ser ejecutado, así pues, el joven Blake nos narra cómo ha llegado hasta allí.
 

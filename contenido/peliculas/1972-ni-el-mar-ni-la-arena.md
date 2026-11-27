@@ -14,7 +14,7 @@ cartel_tamano:
 - 611
 ---
 
-[Ni el mar ni la arena](http://www.imdb.com/title/tt0068996/) es una película producida en el Reino Unido en 1972. Su título original es "Neither the sea nor the sand", basada en la novela homónima, también fue conocida en los Estados Unidos con la denominación "The exorcism of Hugh".
+[Ni el mar ni la arena](https://www.imdb.com/title/tt0068996/) es una película producida en el Reino Unido en 1972. Su título original es "Neither the sea nor the sand", basada en la novela homónima, también fue conocida en los Estados Unidos con la denominación "The exorcism of Hugh".
 
 Anna es una mujer casada que está pasando unos días de vacaciones sola en la isla de Jersey, en el Canal de la Mancha. En aquel lugar conoce a Hugh, un habitante de toda la vida de aquel lugar con el que pasa unos días inolvidables. Tanto es así, que Anna decide abandonar a su marido en la distancia y quedarse a vivir su historia de amor con Hugh. Como parte de su idílica relación, la pareja de enamorados decide ir a visitar Escocia, sin embargo, lo que debía ser un viaje de placer termina convirtiéndose en una pesadilla ya que Hugh sufre un repentino ataque al corazón mientras jugueteaba con Anna por la playa y muere de forma prácticamente instantánea.
 

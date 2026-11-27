@@ -14,7 +14,7 @@ cartel_tamano:
 - 425
 ---
 
-[Ghost Lake](http://en.wikipedia.org/wiki/Ghost_Lake_%28film%29) es una producción estadounidense de terror (al menos eso pretende) grabada en 2004.
+[Ghost Lake](https://www.imdb.com/title/tt0382011/) es una producción estadounidense de terror (al menos eso pretende) grabada en 2004.
 
 La protagonista de la filmación es Rebecca, una joven que durante el desarrollo de la película parece estar a medio camino entre la locura y la conexión sobrenatural. Tras un desafortunado accidente con el gas, la joven pierde de forma traumática a sus padres. Atormentada por la culpa y los recuerdos, Rebecca decide marcharse para despejarse a un pueblo donde solía ir con sus padres durante las vacaciones cuando era pequeña.
 

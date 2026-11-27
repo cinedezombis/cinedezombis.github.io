@@ -14,7 +14,7 @@ cartel_tamano:
 - 440
 ---
 
-[Zombie strippers](http://en.wikipedia.org/wiki/Zombie_Strippers) es una película estadounidense grabada en 2008 y protagonizada por Robert Englund (Freddy Krueger) y la actriz porno Jenna Jameson.
+[Zombie strippers](https://en.wikipedia.org/wiki/Zombie_Strippers) es una película estadounidense grabada en 2008 y protagonizada por Robert Englund (Freddy Krueger) y la actriz porno Jenna Jameson.
 
 La historia nos sitúa en un futuro no muy lejano, un futuro donde existe una especie de dictadura en Estados Unidos de George W. Bush, país además que se encuentra en guerra con Francia, Irak, Afganistán, Irán, Pakistán, Siria, Venezuela, Canadá y Alaska. En este contexto bélico, existe una compañía, también perteneciente a Bush y denominada "W", que se dedica al desarrollo armamentístico. En dicha compañía están investigando un virus que reanime los tejidos muertos con el fin de crear una nueva raza de supersoldados.
 

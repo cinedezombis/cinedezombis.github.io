@@ -16,7 +16,7 @@ cartel_tamano:
 - 461
 ---
 
-[El lago de los muertos vivientes](http://en.wikipedia.org/wiki/Zombie_Lake), titulada originalmente "Le lac des morts vivants" y también conocida en el ámbito anglosajón como "Zombie lake" es una producción francesa de 1981 sobre zombis nazis que habitan el fondo de un lago.
+[El lago de los muertos vivientes](https://en.wikipedia.org/wiki/Zombie_Lake), titulada originalmente "Le lac des morts vivants" y también conocida en el ámbito anglosajón como "Zombie lake" es una producción francesa de 1981 sobre zombis nazis que habitan el fondo de un lago.
 
 En un pequeño pueblo francés están sucediendo extraños acontecimientos, como la desaparición y los asesinatos de jóvenes muchachas en torno al conocido en la zona como "El lago maldito". Efectivamente, los responsables son un peculiar grupo de muertos vivientes nazis que residen allí. Precisamente una periodista se acerca hasta el pueblo para realizar un reportaje sobre dicho lago maldito.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 300
 ---
 
-[Psicomanía](http://en.wikipedia.org/wiki/Psychomania) u originalmente "Psychomania", es una película británica estrenada en 1973 en la que unos moteros vuelven a la vida tras suicidarse. También es conocida como "The Death Wheelers" en Estados Unidos y como "Death Wheelers Are... Psycho Maniacs" en Australia.
+[Psicomanía](https://en.wikipedia.org/wiki/Psychomania) u originalmente "Psychomania", es una película británica estrenada en 1973 en la que unos moteros vuelven a la vida tras suicidarse. También es conocida como "The Death Wheelers" en Estados Unidos y como "Death Wheelers Are... Psycho Maniacs" en Australia.
 
 Tom es un motorista sin escrúpulos que lidera a una banda denominada "The Living Dead". Este grupo, formado por ocho personas en total, se dedica a molestar a los vecinos del lugar con sus fechorías. Tom, que está obsesionado con suicidarse, visita a su madre que es médium para preguntarle por qué sus muertos vuelven a la vida. En el cuarto donde murió su padre, Tom conoce la verdad y es que su madre ha realizado un pacto con las fuerzas ocultas -encarnadas en un sapo- para aumentar su poder y dominar la muerte. Nuestro protagonista descubre que si al morir se desea fuertemente volver, se puede retornar a la vida y ya nada lo podría destruir.
 

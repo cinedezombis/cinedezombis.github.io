@@ -14,7 +14,7 @@ cartel_tamano:
 - 450
 ---
 
-[Chopper chicks in zombietown](http://en.wikipedia.org/wiki/Chopper_Chicks_in_Zombietown) es una película estadounidense producida por Troma en 1989. Aunque lo habitual es denominarla por su título original, también se la conoce en español como "La ciudad de los zombies hambrientos".
+[Chopper chicks in zombietown](https://en.wikipedia.org/wiki/Chopper_Chicks_in_Zombietown) es una película estadounidense producida por Troma en 1989. Aunque lo habitual es denominarla por su título original, también se la conoce en español como "La ciudad de los zombies hambrientos".
 
 La acción se centra en un grupo de moteras malotas, denominado "Las zorras" -originalmente Cycle Sluts-. La pandilla llega hasta un pequeño pueblo de algo más de cien habitantes para descansar, comer algo, cazar a algún hombre y liarla un poco.
 

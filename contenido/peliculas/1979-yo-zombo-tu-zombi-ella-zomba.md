@@ -17,7 +17,7 @@ cartel_tamano:
 - 443
 ---
 
-[Yo zombo, tú zombi, ella zomba](http://it.wikipedia.org/wiki/Io_zombo,_tu_zombi,_lei_zomba) es una comedia italiana de zombis rodada en 1979 cuyo título original es "Io zombo, tu zombi, lei zomba". En el ámbito español es conocida también como "Los muertos son muy vivos" en clara referencia al ambiente pícaro que caracteriza esta filmación, por otra parte extremadamente desconocida en estos lares.
+[Yo zombo, tú zombi, ella zomba](https://it.wikipedia.org/wiki/Io_zombo,_tu_zombi,_lei_zomba) es una comedia italiana de zombis rodada en 1979 cuyo título original es "Io zombo, tu zombi, lei zomba". En el ámbito español es conocida también como "Los muertos son muy vivos" en clara referencia al ambiente pícaro que caracteriza esta filmación, por otra parte extremadamente desconocida en estos lares.
 
 Un accidente de coche cercano a un cementerio de un pueblo italiano se salda con tres muertos. Aprovechando la cercanía, los muertos se quedan esperando a ser velados en el cementerio, vigilados por el sepulturero quien precisamente está leyendo un libro sobre zombis y vudú. Este hombre recita en voz alta un ridículo hechizo que, efectivamente devuelve a los tres muertos a la vida. Al verlos, le da un ataque al corazón al sepulturero y los zombis leen el hechizo y lo reviven también, quedando creado este peculiar grupo de cuatro muertos vivientes que se intentarán buscar la vida como puedan.
 

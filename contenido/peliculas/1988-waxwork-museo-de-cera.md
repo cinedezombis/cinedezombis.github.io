@@ -16,7 +16,7 @@ cartel_tamano:
 - 466
 ---
 
-[Museo de cera](http://en.wikipedia.org/wiki/Waxwork_%281988_film%29), o "Waxwork" en su versión original, es una película estadounidense de terror filmada en 1988.
+[Museo de cera](https://en.wikipedia.org/wiki/Waxwork_%281988_film%29), o "Waxwork" en su versión original, es una película estadounidense de terror filmada en 1988.
 
 Un grupo de jóvenes son invitados a una muestra privada nocturna en un extraño museo de cera. Nada más llegar perciben malas sensaciones en aquel lugar, unos malos augurios que pronto se harán realidad. Resulta que en aquella casa regentada por oscuros personajes, se recrean las más diversas escenas del imaginario de terror, pero cuando alguien traspasa la línea de la muestra en una escena, se introduce automáticamente en su mundo, en otra dimensión.
 

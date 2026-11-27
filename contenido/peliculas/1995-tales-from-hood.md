@@ -14,7 +14,7 @@ cartel_tamano:
 - 515
 ---
 
-[Tales from the hood](http://en.wikipedia.org/wiki/Tales_from_the_Hood) es una película estadounidense de terror estrenada en 1995 y compuesta por cinco historias cortas. Esta antología, también conocida en español como "Historias del barrio negro" fue producida por Spike Lee.
+[Tales from the hood](https://en.wikipedia.org/wiki/Tales_from_the_Hood) es una película estadounidense de terror estrenada en 1995 y compuesta por cinco historias cortas. Esta antología, también conocida en español como "Historias del barrio negro" fue producida por Spike Lee.
 
 Tres pandilleros se dirigen hasta una funeraria donde son recibidos por su estrambótico dueño. Estos conflictivos jóvenes van buscando la droga que el hombre recogió por casualidad en un callejón. Mientras le enseña su negocio y los muertos que en él esperan su sepultura, el funerario les cuenta varias historias:
 

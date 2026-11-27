@@ -16,7 +16,7 @@ cartel_tamano:
 - 448
 ---
 
-[Outpost: Black Sun](http://en.wikipedia.org/wiki/Outpost_%28film%29), es una película producida en el Reino Unido en 2012 que se corresponde con la segunda parte de la filmación "[Outpost](zb:/2012/08/2008-outpost-el-bunker.html)" de 2008, por ello también es conocida como "Outpost 2". Siguiendo la traducción de la primera película, este trabajo se puede encontrar en español como "El búnker 2".
+[Outpost: Black Sun](https://en.wikipedia.org/wiki/Outpost_%28film%29), es una película producida en el Reino Unido en 2012 que se corresponde con la segunda parte de la filmación "[Outpost](zb:/2012/08/2008-outpost-el-bunker.html)" de 2008, por ello también es conocida como "Outpost 2". Siguiendo la traducción de la primera película, este trabajo se puede encontrar en español como "El búnker 2".
 
 La historia comienza con Helena, una cazanazis que va a visitar a una residencia de ancianos a un antiguo oficial nazi con el fin de buscar información sobre Klausener, un sanguinario científico que continúa trabajando en las sombras para conseguir la llegada del III Reich. Un mapa muy concreto lleva a nuestra protagonista hasta un apartado lugar de Europa del Este. Una vez allí Helena se encuentra con Wallace, un conocido suyo que le cuenta que en esa zona se están cometiendo terribles asesinatos a cargo de soldados que fueron sometidos a los experimentos de los científicos nazis.
 

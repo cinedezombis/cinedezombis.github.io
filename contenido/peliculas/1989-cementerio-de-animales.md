@@ -14,7 +14,7 @@ cartel_tamano:
 - 453
 ---
 
-[Cementerio de animales](http://es.wikipedia.org/wiki/Pet_Sematary_%28pel%C3%ADcula%29) es una película estadounidense de 1989 basada en la novela homónima del escritor Stephen King. Aunque su título es el mismo, tanto en la novela, como en la película en su versión original: "Pet Sematary", en español la novela sí se conoce como "Cementerio de animales" pero la película suele ser denominada "El cementerio viviente" o "Cementerio de mascotas".
+[Cementerio de animales](https://es.wikipedia.org/wiki/Pet_Sematary_%28pel%C3%ADcula%29) es una película estadounidense de 1989 basada en la novela homónima del escritor Stephen King. Aunque su título es el mismo, tanto en la novela, como en la película en su versión original: "Pet Sematary", en español la novela sí se conoce como "Cementerio de animales" pero la película suele ser denominada "El cementerio viviente" o "Cementerio de mascotas".
 
 La película comienza con la mudanza del doctor Louis Creed a una casa a las afueras de un pequeño pueblo estadounidense. La casa tiene la peculiaridad de estar muy próxima a una peligrosa carretera con gran afluencia de camiones. El doctor se ha mudado al pequeño pueblo junto con su mujer, su hija mayor, su hijo menor y la mascota -un gato- de la familia.
 

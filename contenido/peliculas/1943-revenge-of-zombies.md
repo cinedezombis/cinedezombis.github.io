@@ -14,7 +14,7 @@ cartel_tamano:
 - 793
 ---
 
-[Revenge of the zombies](http://en.wikipedia.org/wiki/Revenge_of_the_Zombies), también conocida en el mundo hispano como "La venganza de los muertos vivos", es una película estadounidense filmada en 1943 y considerada como una "semisecuela" de "[El rey de los zombies](zb:/2012/04/1941-el-rey-de-los-zombies.html)" grabada dos años antes. De hecho, tanto la trama como los personajes se desarrollan de forma similar a la película predecesora.
+[Revenge of the zombies](https://en.wikipedia.org/wiki/Revenge_of_the_Zombies), también conocida en el mundo hispano como "La venganza de los muertos vivos", es una película estadounidense filmada en 1943 y considerada como una "semisecuela" de "[El rey de los zombies](zb:/2012/04/1941-el-rey-de-los-zombies.html)" grabada dos años antes. De hecho, tanto la trama como los personajes se desarrollan de forma similar a la película predecesora.
 
 En esa ocasión, tres hombres se desplazan hasta una misteriosa mansión para el funeral de la hermana de uno de ellos. Sin embargo, pronto descubren que la joven mujer ha sido convertida en una muerta viviente y desaparece. Todas las sospechas se ciernen, obviamente, sobre su marido, un científico frío y sin escrúpulos con una decena de sirvientes zombis.
 

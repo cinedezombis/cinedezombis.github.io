@@ -16,7 +16,7 @@ cartel_tamano:
 - 720
 ---
 
-[Meteletsa: El invierno de los muertos](http://www.imdb.com/title/tt1731775/) es una película de zombis estrenada en 2012 y que suele ser conocida como la primera producción rusa de esta temática. Su título original es "Zima mertvetsov. Metelitsa" y en el ámbito anglosajón es conocida como: “Winter of the Dead: Meteletsa”.
+[Meteletsa: El invierno de los muertos](https://www.imdb.com/title/tt1731775/) es una película de zombis estrenada en 2012 y que suele ser conocida como la primera producción rusa de esta temática. Su título original es "Zima mertvetsov. Metelitsa" y en el ámbito anglosajón es conocida como: “Winter of the Dead: Meteletsa”.
 
 Un periodista -Konstantin- y su camarógrafo se desplazan desde Moscú hasta una localidad cercana para cubrir una manifestación. Es pleno verano en Rusia, pero repentinamente comienza una extraña tormenta de nieve. Los compañeros han quedado en la propia manifestación, sin embargo, su encuentro queda aplazado pues la tormenta parece que ha provocado el ataque de unos muertos vivientes que pronto inundarán las calles del pueblo moscovita.
 

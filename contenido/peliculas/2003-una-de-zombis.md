@@ -14,7 +14,7 @@ cartel_tamano:
 - 700
 ---
 
-[Una de Zombis](http://en.wikipedia.org/wiki/Una_de_Zombis) es una comedia española, producida por Santiago Segura en el año 2003. Realmente, y a pesar del título, no es una película de zombis tal cual, sino más bien es simplemente una comedia (o intento), donde de vez en cuando sale algún zombi.
+[Una de Zombis](https://en.wikipedia.org/wiki/Una_de_Zombis) es una comedia española, producida por Santiago Segura en el año 2003. Realmente, y a pesar del título, no es una película de zombis tal cual, sino más bien es simplemente una comedia (o intento), donde de vez en cuando sale algún zombi.
 
 La historia trata de dos amigos, dos jóvenes fracasados de barrio, que se embarcan en el proyecto de realizar una película aunque no disponen ni de dinero, ni de contactos y ni siquiera de historia. Para sacar su película adelante cuentan con la ayuda de una mujer de negocios que inesperadamente apuesta por ellos.
 

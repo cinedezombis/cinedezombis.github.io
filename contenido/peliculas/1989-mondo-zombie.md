@@ -16,7 +16,7 @@ cartel_tamano:
 - 500
 ---
 
-[Mondo zombie](http://en.wikipedia.org/wiki/The_Dead_Next_Door), titulada originalmente "The dead next door" es una película estadounidense producida parcialmente por Sam Raimi en el año 1989 y basada en la expansión de una epidemia zombi por el mundo.
+[Mondo zombie](https://en.wikipedia.org/wiki/The_Dead_Next_Door), titulada originalmente "The dead next door" es una película estadounidense producida parcialmente por Sam Raimi en el año 1989 y basada en la expansión de una epidemia zombi por el mundo.
 
 La historia comienza con imágenes del que parece ser el día en el que empezó la infección, nos situamos en un pequeño pueblo de los Estados Unidos, donde un científico ha llevado unas investigaciones que no han salido del todo bien. Cinco años después, el mundo está sumergido de lleno en todo un apocalipsis zombi. En este contexto, el gobierno ha creado patrulla de cazadores zombis, centrándose la acción en una de ellas.
 

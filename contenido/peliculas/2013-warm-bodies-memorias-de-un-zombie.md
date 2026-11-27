@@ -16,7 +16,7 @@ cartel_tamano:
 - 448
 ---
 
-[Warm bodies](http://es.wikipedia.org/wiki/Warm_Bodies_%28pel%C3%ADcula%29) es una película estadounidense filmada en 2013 basada en la novela del mismo nombre escrita por Isaac Marion. Aunque la traducción literal sería algo así como "cuerpos calientes", en español se la conoce como "Memorias de un zombie adolescente" y "Mi novio es un zombie", en lo que parece un nuevo esfuerzo por traducir de la forma más paranoica posible los títulos originales de las películas.
+[Warm bodies](https://es.wikipedia.org/wiki/Warm_Bodies_%28pel%C3%ADcula%29) es una película estadounidense filmada en 2013 basada en la novela del mismo nombre escrita por Isaac Marion. Aunque la traducción literal sería algo así como "cuerpos calientes", en español se la conoce como "Memorias de un zombie adolescente" y "Mi novio es un zombie", en lo que parece un nuevo esfuerzo por traducir de la forma más paranoica posible los títulos originales de las películas.
 
 La filmación nos cuenta la historia de R, un zombi con mucha vida interior que además de protagonista es el narrador. R es un melómano romántico que duerme en un avión lleno de objetos que va recogiendo y que pasa los días deambulando en un aeropuerto con otros centenares de muertos vivientes. Nos situamos en un mundo apocalíptico, donde por causas desconocidas los muertos han vuelto a la vida para comerse a todo vivo que pase por su lado. En este contexto, solo sobreviven un grupo de personas atrincheradas en medio de la ciudad en una improvisada fortaleza rodeada de grandes muros metálicos.
 

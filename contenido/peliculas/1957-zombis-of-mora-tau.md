@@ -14,7 +14,7 @@ cartel_tamano:
 - 840
 ---
 
-[Zombies of Mora Tau](http://en.wikipedia.org/wiki/Zombies_of_Mora_Tau) es una producción estadounidense de 1957 que probablemente destaque por ser una de las primeras películas de la historia protagonizada por zombis submarinos, como en "[Ondas de choque](zb:/2012/06/1977-ondas-de-choque.html)" de 1977 y "[El lago de los muertos vivientes](zb:/2012/08/1981-el-lago-de-los-muertos-vivientes.html)" de 1981, entre otras, aunque lo más extraño es que en esta ocasión todavía se tratan de zombis influenciados por la magia negra y el vudú.
+[Zombies of Mora Tau](https://en.wikipedia.org/wiki/Zombies_of_Mora_Tau) es una producción estadounidense de 1957 que probablemente destaque por ser una de las primeras películas de la historia protagonizada por zombis submarinos, como en "[Ondas de choque](zb:/2012/06/1977-ondas-de-choque.html)" de 1977 y "[El lago de los muertos vivientes](zb:/2012/08/1981-el-lago-de-los-muertos-vivientes.html)" de 1981, entre otras, aunque lo más extraño es que en esta ocasión todavía se tratan de zombis influenciados por la magia negra y el vudú.
 
 Un grupo de cazadores de tesoros llega a una isla africana con la intención de encontrar unos diamantes perdidos en el fondo del mar, cuando el barco que los transportaba se hundió misteriosamente. En esta isla se encuentran con una anciana, mujer de uno de los marineros que murió en el barco, y su nieta, también recién llegada al lugar.
 

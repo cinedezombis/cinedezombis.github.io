@@ -14,7 +14,7 @@ cartel_tamano:
 - 482
 ---
 
-[Zone of the dead](http://en.wikipedia.org/wiki/Zone_of_the_Dead) es una película filmada en 2009 y producida entre Serbia, Italia y España. También recibe la denominación de "Apocalypse of the dead" y su título original en serbio es "Zona Mrtvih". Es una grabación conocida por estar protagonizada por Ken Foree, actor que participara en la mítica "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)" dirigida por George A. Romero en 1978.
+[Zone of the dead](https://en.wikipedia.org/wiki/Zone_of_the_Dead) es una película filmada en 2009 y producida entre Serbia, Italia y España. También recibe la denominación de "Apocalypse of the dead" y su título original en serbio es "Zona Mrtvih". Es una grabación conocida por estar protagonizada por Ken Foree, actor que participara en la mítica "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)" dirigida por George A. Romero en 1978.
 
 La filmación comienza con unas imágenes introductorias situadas en 1985 en la localidad yugoslava de Pancevo. En aquel lugar se habían encontrado unos misteriosos esqueletos, un investigador que los manipulaba se cortó y sorprendentemente acabó muerto y luego reviviendo como un zombi furioso. Posteriormente nos trasladamos a nuestros días en aquella misma localidad, esta vez formando parte de la actual Serbia, donde se están realizando unos ejercicios militares de alto secreto. Un desgraciado accidente en la estación de trenes provoca un escape de gas tóxico de un vagón cisterna del ejército que mata a las personas y les devuelve a la vida como peligrosos muertos vivientes.
 

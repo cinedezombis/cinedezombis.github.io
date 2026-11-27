@@ -14,7 +14,7 @@ cartel_tamano:
 - 599
 ---
 
-[Plan 9 del espacio exterior](http://es.wikipedia.org/wiki/Plan_9_del_espacio_exterior), en inglés "Plan 9 from outer space" es una película estadounidense de 1959, considerada de culto por los aficionados al cine de terror y denominada originalmente "Grave robbers from outer space", es decir, "Ladrones de tumbas del espacio exterior". En esta ocasión serán los seres extraterrestres los que devuelvan a la vida a los muertos mediante sus avanzadas técnicas científicas.
+[Plan 9 del espacio exterior](https://es.wikipedia.org/wiki/Plan_9_del_espacio_exterior), en inglés "Plan 9 from outer space" es una película estadounidense de 1959, considerada de culto por los aficionados al cine de terror y denominada originalmente "Grave robbers from outer space", es decir, "Ladrones de tumbas del espacio exterior". En esta ocasión serán los seres extraterrestres los que devuelvan a la vida a los muertos mediante sus avanzadas técnicas científicas.
 
 La película nos sitúa en San Fernando (California) donde comienzan a ocurrir extraños acontecimientos. Los avistamientos de platillos se suceden y lo que es más inquietante, algunos muertos han revivido y deambulan por el cementerio y sus alrededores. El gobierno y los militares niegan oficialmente ningún contacto con los extraterrestres, pero sin duda parece que ambos acontecimientos están relacionados.
 

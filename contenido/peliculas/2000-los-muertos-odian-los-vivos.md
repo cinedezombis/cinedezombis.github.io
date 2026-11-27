@@ -14,7 +14,7 @@ cartel_tamano:
 - 475
 ---
 
-[Los muertos odian a los vivos](http://en.wikipedia.org/wiki/The_Dead_Hate_the_Living!) u originalmente "The dead hate the living!" es una película estadounidense rodada en el año 2000.
+[Los muertos odian a los vivos](https://en.wikipedia.org/wiki/The_Dead_Hate_the_Living!) u originalmente "The dead hate the living!" es una película estadounidense rodada en el año 2000.
 
 La historia gira en torno a un grupo de jóvenes que ruedan su primera película de zombis en un hospital abandonado en el que se han colado para dar mayor realismo a su relato. Según podemos ir atisbando, en ese mismo lugar se habían realizado terribles experimentos a cargo de un loco obsesionado por la muerte de su amada, uniendo es sus estudios la ciencia y las fuerzas oscuras del mundo de los muertos.
 

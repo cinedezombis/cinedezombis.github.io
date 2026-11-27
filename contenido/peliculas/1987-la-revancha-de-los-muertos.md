@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[La revancha de los muertos vivientes](http://fr.wikipedia.org/wiki/La_Revanche_des_mortes_vivantes), también denominada "Gritos de ultratumba", cuyo título original es "La revanche des mortes vivantes" es una película de 1987 de producción francesa y que es conocida en el ámbito anglosajón como "The revenge of the living dead girls".
+[La revancha de los muertos vivientes](https://fr.wikipedia.org/wiki/La_Revanche_des_mortes_vivantes), también denominada "Gritos de ultratumba", cuyo título original es "La revanche des mortes vivantes" es una película de 1987 de producción francesa y que es conocida en el ámbito anglosajón como "The revenge of the living dead girls".
 
 Un camión de leche es contaminado por un misterioso motorista que vierte el contenido de una botella en el depósito del tráiler. Tres muchachas que beben la leche fallecen de forma inmediata tras su consumo. Pronto descubriremos que esta acción forma parte de un plan de la secretaria del director de una empresa química de aquel lugar que pretende sobornarle.
 

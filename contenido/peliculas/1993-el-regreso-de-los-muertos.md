@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[El regreso de los muertos vivientes 3](http://en.wikipedia.org/wiki/Return_of_the_Living_Dead_3) es una película estadounidense de 1993. Es la segunda grabación de la secuela después de "[El regreso de los muertos vivientes](zb:/2012/04/1985-el-regreso-de-los-muertos.html)" de 1985 y "[El regreso de los muertos vivientes 2](zb:/2012/04/1988-el-regreso-de-los-muertos.html)" de 1988. Su título original es "Return of the Living Dead 3" y en España también se le conoce como "Mortal Zombie" en un nuevo sinsentido de los cambios de título.
+[El regreso de los muertos vivientes 3](https://en.wikipedia.org/wiki/Return_of_the_Living_Dead_3) es una película estadounidense de 1993. Es la segunda grabación de la secuela después de "[El regreso de los muertos vivientes](zb:/2012/04/1985-el-regreso-de-los-muertos.html)" de 1985 y "[El regreso de los muertos vivientes 2](zb:/2012/04/1988-el-regreso-de-los-muertos.html)" de 1988. Su título original es "Return of the Living Dead 3" y en España también se le conoce como "Mortal Zombie" en un nuevo sinsentido de los cambios de título.
 
 La película comienza en una base militar donde se está experimentando un arma que pueda controlar los efectos del Trioxin. El hijo del responsable militar se hace con su tarjeta de seguridad y va, junto con su novia, a fisgonear a la base. En ella, son testigos de la experimentación de cómo reviven a los cadáveres con el gas tóxico almacenado en un barril de Trioxin junto a uno de los muertos vivientes originales.
 

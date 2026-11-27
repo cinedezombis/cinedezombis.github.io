@@ -12,7 +12,7 @@ cartel_tamano:
 - 585
 ---
 
-[Corpse Eaters](http://www.imdb.com/title/tt0228158/) es una película de zombis de bajo presupuesto producida en Canadá y estrenada en el año 1974.
+[Corpse Eaters](https://www.imdb.com/title/tt0228158/) es una película de zombis de bajo presupuesto producida en Canadá y estrenada en el año 1974.
 
 La filmación comienza con una curiosa información previa donde se advierte que las escenas más fuertes se acompañan de una imagen y un sonido en forma de zumbido... y efectivamente, en un par de ocasiones aparecerá este aviso, sobre todo cuando los muertos vivientes devoran los cuerpos de sus víctimas.
 

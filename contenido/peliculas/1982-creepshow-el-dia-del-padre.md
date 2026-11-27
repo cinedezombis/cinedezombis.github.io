@@ -18,7 +18,7 @@ cartel_tamano:
 - 493
 ---
 
-[Creepshow](http://es.wikipedia.org/wiki/Creepshow) es una película estadounidense, producida en 1982 con la dirección de George A. Romero, el guion de Stephen King y los efectos especiales de Tom Savini, ahí es nada. La película está compuesta por cinco pequeñas historias de terror unidas mediante una breve trama de dibujos animados, en forma de cómic.
+[Creepshow](https://es.wikipedia.org/wiki/Creepshow) es una película estadounidense, producida en 1982 con la dirección de George A. Romero, el guion de Stephen King y los efectos especiales de Tom Savini, ahí es nada. La película está compuesta por cinco pequeñas historias de terror unidas mediante una breve trama de dibujos animados, en forma de cómic.
 
 Debido a que cada historia tiene una temática distinta, aquí solo comentaremos la que trata sobre un muerto viviente: "El día del padre", titulada originalmente "Father's day".
 

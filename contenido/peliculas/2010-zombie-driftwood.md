@@ -14,7 +14,7 @@ cartel_tamano:
 - 612
 ---
 
-[Zombie Driftwood](http://www.imdb.com/title/tt1696198/) es una película producida en el Reino Unido en 2010 que pretende ser una comedia de zombis.
+[Zombie Driftwood](https://www.imdb.com/title/tt1696198/) es una película producida en el Reino Unido en 2010 que pretende ser una comedia de zombis.
 
 Dos jóvenes parejas se encuentran en las Islas Caimán para pasar unos días de descanso y asistir al concierto de su grupo de heavy metal favorito. Mientras, las noticias en la televisión informan sobre un trasatlántico que ha desaparecido misteriosamente en el Triángulo de las Bermudas con numerosos pasajeros. Sin saber muy bien cómo, el barco aparece en las costas de las propias Islas Caimán, al principio no le dan demasiada importancia, pero al poco tiempo comprueban que los cientos de personas que viajaban a bordo son ahora muertos vivientes que empiezan a llegar a las playas de aquel lugar.
 

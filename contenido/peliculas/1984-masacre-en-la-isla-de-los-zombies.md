@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[Masacre en la isla de los zombies](http://www.imdb.com/title/tt0088454/), originalmente titulada "Zombie Island Massacre" es una película estadounidense de terror producida por Troma y estrenada en 1984.
+[Masacre en la isla de los zombies](https://www.imdb.com/title/tt0088454/), originalmente titulada "Zombie Island Massacre" es una película estadounidense de terror producida por Troma y estrenada en 1984.
 
 Un grupo de turistas que se encuentran disfrutando de sus vacaciones en el Caribe se embarcan en una excursión programada para visitar la isla de Sainte-Marie y conocer así las tradiciones de sus habitantes. El grupo llega a su destino ya de noche pero justo a tiempo de presenciar una popular ceremonia vudú ofrecida a los visitantes. En la ceremonia religiosa utilizan la sangre de una cabra para levantar al primer y único zombi que disfrutaremos en la filmación. Tampoco dura mucho este zombi en el mundo de los vivos ya que al poco tiempo el sacerdote vudú parece que se lo quita de en medio.
 

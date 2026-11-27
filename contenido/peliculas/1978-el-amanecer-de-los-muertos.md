@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[El amanecer de los muertos](http://es.wikipedia.org/wiki/Dawn_of_the_dead), titulada originalmente "Dawn of the dead" es una película estadounidense dirigida por George A. Romero en 1978, siendo la continuación de la clásica "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" filmada 10 años antes. En España se le conoce también como "Zombie", un título desafortunado que puede ser confuso, e incluso se le ha llegado a denominar "La noche de los muertos vivientes 2" sin respetar de nuevo su título original.
+[El amanecer de los muertos](https://es.wikipedia.org/wiki/Dawn_of_the_dead), titulada originalmente "Dawn of the dead" es una película estadounidense dirigida por George A. Romero en 1978, siendo la continuación de la clásica "[La noche de los muertos vivientes](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)" filmada 10 años antes. En España se le conoce también como "Zombie", un título desafortunado que puede ser confuso, e incluso se le ha llegado a denominar "La noche de los muertos vivientes 2" sin respetar de nuevo su título original.
 
 En esta ocasión la historia se centra en un grupo de cuatro supervivientes en un mundo apocalíptico: dos policías, un piloto amigo de uno de ellos y la novia del piloto. Con la ayuda de un helicóptero, el grupo decide refugiarse en un centro comercial. Pronto, comenzarán a planificar cómo hacerse con recursos y víveres a la vez que ponen a raya a los muertos vivientes que por allí deambulan que, aunque siguen siendo extremadamente lentos y torpes, suponen una amenaza por su gran número.
 

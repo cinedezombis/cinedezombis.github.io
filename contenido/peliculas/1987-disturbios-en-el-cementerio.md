@@ -14,7 +14,7 @@ cartel_tamano:
 - 647
 ---
 
-"[Una notte al cimitero](http://it.wikipedia.org/wiki/Una_notte_al_cimitero)", conocida en español como "Disturbios en el cementerio" y en inglés como "Graveyard disturbance", es una película de terror italiana rodada en el año 1987.
+"[Una notte al cimitero](https://it.wikipedia.org/wiki/Una_notte_al_cimitero)", conocida en español como "Disturbios en el cementerio" y en inglés como "Graveyard disturbance", es una película de terror italiana rodada en el año 1987.
 
 Un grupo de jóvenes ladronzuelos escapan en furgoneta de una de sus fechorías. Sin embargo, la huida terminará peor de lo que esperaban, con la furgoneta en medio de un río y el grupo perdido en un bosque donde ocurren extraños acontecimientos.
 

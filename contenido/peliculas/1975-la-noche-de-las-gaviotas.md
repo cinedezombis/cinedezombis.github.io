@@ -14,7 +14,7 @@ cartel_tamano:
 - 437
 ---
 
-[La noche de las gaviotas](http://en.wikipedia.org/wiki/Night_of_the_Seagulls) ("Night of the Seagulls" en inglés) es una producción española de 1975 que supone la cuarta y última entrega de la saga de los templarios muertos del director Amando de Ossorio, después de "[La noche del terror ciego](zb:/2012/11/1972-la-noche-del-terror-ciego.html)" de 1972, "[El ataque de los muertos sin ojos](zb:/2012/11/1973-el-ataque-de-los-muertos-sin-ojos.html)" de 1973 y "[El buque maldito](zb:/2012/11/1974-el-buque-maldito.html)" de 1974.
+[La noche de las gaviotas](https://en.wikipedia.org/wiki/Night_of_the_Seagulls) ("Night of the Seagulls" en inglés) es una producción española de 1975 que supone la cuarta y última entrega de la saga de los templarios muertos del director Amando de Ossorio, después de "[La noche del terror ciego](zb:/2012/11/1972-la-noche-del-terror-ciego.html)" de 1972, "[El ataque de los muertos sin ojos](zb:/2012/11/1973-el-ataque-de-los-muertos-sin-ojos.html)" de 1973 y "[El buque maldito](zb:/2012/11/1974-el-buque-maldito.html)" de 1974.
 
 La película comienza en la Edad Media, momento en el que los templarios asaltan a una pareja de viajantes, acuchillando al hombre y ofreciendo en sacrificio a la mujer en unas escenas prácticamente idénticas a los sacrificios femeninos de estos caballeros de las dos primeras entregas de la saga.
 

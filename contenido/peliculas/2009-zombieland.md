@@ -14,7 +14,7 @@ cartel_tamano:
 - 768
 ---
 
-[Zombieland](http://es.wikipedia.org/wiki/Zombieland) o como se le conoce en España, "Bienvenidos a Zombieland" es una comedia estadounidense de zombis producida en 2009 por Columbia Pictures.
+[Zombieland](https://es.wikipedia.org/wiki/Zombieland) o como se le conoce en España, "Bienvenidos a Zombieland" es una comedia estadounidense de zombis producida en 2009 por Columbia Pictures.
 
 La película se sitúa en un mundo apocalíptico donde los zombis han tomado la tierra y son pocos los supervivientes que ya quedan. En este caso, se sugiere que la infección comenzó a raíz de la enfermedad de las vacas locas, por lo que es un contagio vírico lo que ha producido esta situación.
 

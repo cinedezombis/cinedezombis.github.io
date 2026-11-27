@@ -14,7 +14,7 @@ cartel_tamano:
 - 461
 ---
 
-[The quick and the undead](http://en.wikipedia.org/wiki/The_Quick_and_the_Undead) es una película estadounidense de bajo presupuesto grabada en 2006 que, al contrario de lo que podría sugerir su título y su cartel, no está basada en el viejo oeste americano.
+[The quick and the undead](https://en.wikipedia.org/wiki/The_Quick_and_the_Undead) es una película estadounidense de bajo presupuesto grabada en 2006 que, al contrario de lo que podría sugerir su título y su cartel, no está basada en el viejo oeste americano.
 
 Nos situamos en un mundo postapocalíptico a lo "Mad Max" donde hace 80 años comenzó una infección a nivel mundial de un virus que mata y revive a los cadáveres en forma de zombis come carne. En este hostil contexto la historia se centrará en Ryn, un cazarrecompensas que se dedica a matar a zombis a cambio del dinero que le ofrece el gobierno por hacerlo. Nuestro protagonista es una especie de ridículo Clint Eastwood que quiere dar la sensación de ser el más duro del baile.
 

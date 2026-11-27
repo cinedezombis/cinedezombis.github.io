@@ -14,7 +14,7 @@ cartel_tamano:
 - 434
 ---
 
-[Deadheads](http://en.wikipedia.org/wiki/Deadheads_%28film%29) es una comedia estadounidense de zombis filmada en 2011.
+[Deadheads](https://en.wikipedia.org/wiki/Deadheads_%28film%29) es una comedia estadounidense de zombis filmada en 2011.
 
 Un hombre se despierta en mitad de lo que parece ser un accidente de tráfico. Se percata de que está rodeado de zombis, y él mismo parece uno de ellos, aunque puede hablar y razonar con normalidad. Al poco se encuentra con otro joven zombi que también puede hablar, a diferencia del resto que son los típicos muertos vivientes lentos, torpes y cuyo único fin es comer carne humana.
 

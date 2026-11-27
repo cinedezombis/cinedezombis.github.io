@@ -16,7 +16,7 @@ cartel_tamano:
 - 755
 ---
 
-[Shanks](http://en.wikipedia.org/wiki/Shanks_%28film%29) es una película estadounidense filmada en 1974 y protagonizada por el actor y mimo francés Marcel Marceau. En español se le suele denominar "Títeres".
+[Shanks](https://en.wikipedia.org/wiki/Shanks_%28film%29) es una película estadounidense filmada en 1974 y protagonizada por el actor y mimo francés Marcel Marceau. En español se le suele denominar "Títeres".
 
 Malcolm Shanks es un titiritero sordomudo que se dedica a actuar en fiestas infantiles y que vive junto con la arpía de su hermana y el borracho de su marido, unas personas malvadas y egoístas que tratan con la punta del pie al pobre de Malcolm. Un día, el viejo Doctor Walker -también interpretado por Marceu- ofrece un trabajo en su laboratorio a nuestro protagonista. Walker, que es un asiduo a las actuaciones de Malcolm, le enseña sus investigaciones basadas en implantar electrodos en animales muertos para provocar, mediante pequeñas descargas eléctricas, que los cadáveres puedan volver a caminar siendo totalmente guiados mediante una especie de mando a distancia. El doctor se ha fijado en Malcolm precisamente por su gran habilidad con las marionetas y pronto comienzan a experimentar juntos con buenos resultados.
 

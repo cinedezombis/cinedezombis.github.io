@@ -14,7 +14,7 @@ cartel_tamano:
 - 755
 ---
 
-[House of the dead](http://es.wikipedia.org/wiki/House_of_the_Dead_%28pel%C3%ADcula%29) es una película de 2003, adaptación del famoso videojuego de Sega con el mismo nombre y en cuya producción participaron Alemania, Canadá y Estados Unidos.
+[House of the dead](https://es.wikipedia.org/wiki/House_of_the_Dead_%28pel%C3%ADcula%29) es una película de 2003, adaptación del famoso videojuego de Sega con el mismo nombre y en cuya producción participaron Alemania, Canadá y Estados Unidos.
 
 La historia comienza con un grupo de jóvenes que pretenden dirigirse hacia una isla para participar en una gran fiesta. El barco que debería llevarlos ya no está y el grupo decide contratar a un contrabandista para que los acerque hasta la denominada "Isla de la Muerte".
 

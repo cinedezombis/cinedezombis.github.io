@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Yo anduve con un zombie](http://es.wikipedia.org/wiki/I_walked_with_a_zombie) es un largometraje estadounidense rodado en 1943 y cuyo título original es "I walked with a zombie", donde encontramos una historia de zombis de la primera época, basada en el vudú, la brujería y la magia negra.
+[Yo anduve con un zombie](https://es.wikipedia.org/wiki/I_walked_with_a_zombie) es un largometraje estadounidense rodado en 1943 y cuyo título original es "I walked with a zombie", donde encontramos una historia de zombis de la primera época, basada en el vudú, la brujería y la magia negra.
 
 La historia es protagonizada y narrada por una enfermera canadiense que decide aceptar un trabajo como cuidadora de una enferma en las Antillas. Llega a una misteriosa isla (presumiblemente Haití), a la lujosa residencia de un terrateniente azucarero y su familia (hermano, madre y mujer). Su trabajo se basará en asistir a la mujer del terrateniente, presa de una extraña enfermedad.
 
@@ -28,4 +28,4 @@ Lo peor, creemos que puede ser que no termina de explotar la historia del fenóm
 
 En definitiva, una interesante película de zombis de la primera época, con una excepcional muerta viviente metida en su papel que pone momentos de tensión, en una película algo difusa que no termina de profundizar en el fenómeno zombi.
 
-PD. En 2001 fue realizada una película denominada "[Ritual](http://es.wikipedia.org/wiki/Ritual_%28pel%C3%ADcula%29)", donde, a pesar de estar basada en esta historia original, no hay rastro de zombi alguno.
+PD. En 2001 fue realizada una película denominada "[Ritual](https://es.wikipedia.org/wiki/Ritual_%28pel%C3%ADcula%29)", donde, a pesar de estar basada en esta historia original, no hay rastro de zombi alguno.

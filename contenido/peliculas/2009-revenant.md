@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[The Revenant](http://en.wikipedia.org/wiki/The_Revenant) es una película estadounidense de 2009 escrita, dirigida y producida por Kerry Prior.
+[The Revenant](https://en.wikipedia.org/wiki/The_Revenant) es una película estadounidense de 2009 escrita, dirigida y producida por Kerry Prior.
 
 Bart es un militar de los Estados Unidos que se encuentra destinado en Irak y que muere tiroteado en una emboscada. La noche después de su funeral en ya en su pueblo natal, y mientras su novia se liaba con su mejor amigo (Joey), Bart vuelve sorpresivamente a la vida, sale de su ataúd a medio enterrar, se descose la boca y se dirige hacia la casa de Joey. Su amigo cree que está loco y el propio Bart que está en medio de una pesadilla, pero lo cierto es que están allí los dos hablando.
 

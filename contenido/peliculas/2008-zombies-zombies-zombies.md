@@ -14,7 +14,7 @@ cartel_tamano:
 - 432
 ---
 
-[Zombies! Zombies! Zombies!](http://en.wikipedia.org/wiki/Zombies!_Zombies!_Zombies!), también conocida como "Strippers vs Zombies", es una producción estadounidense filmada en 2008 y lanzada directamente en DVD.
+[Zombies! Zombies! Zombies!](https://en.wikipedia.org/wiki/Zombies!_Zombies!_Zombies!), también conocida como "Strippers vs Zombies", es una producción estadounidense filmada en 2008 y lanzada directamente en DVD.
 
 Un adicto a las drogas se dirige hacia un laboratorio donde un médico conocido suyo está investigando para obtener un fármaco contra el cáncer. El yonqui convence al médico para que le facilite un poco de droga que la mezcla con la sustancia experimental y se la lleva. La droga, que efectivamente resulta que convierte en zombis a quien la toma, la comparte el hombre con una prostituta que a su vez invita a otra amiga que pronto comienzan a dar mordiscos y a expandir la infección.
 

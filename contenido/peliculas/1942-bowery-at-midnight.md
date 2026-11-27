@@ -14,7 +14,7 @@ cartel_tamano:
 - 421
 ---
 
-[Bowery at Midnight](http://en.wikipedia.org/wiki/Bowery_at_Midnight) es una película estadounidense grabada en 1942 y protagonizada por el mítico Bela Lugosi.
+[Bowery at Midnight](https://en.wikipedia.org/wiki/Bowery_at_Midnight) es una película estadounidense grabada en 1942 y protagonizada por el mítico Bela Lugosi.
 
 La acción comienza con la huida de un ladrón de una cárcel. Gracias a un amigo e intentando pasar desapercibido para la policía, este hombre terminará en un aparente comedor social del barrio neoyorquino de Bowery. Este lugar es sostenido por el personaje de Lugosi que mantiene una doble vida: por el día está felizmente casado y es un distinguido profesor universitario de psicología y por las noches se convierte en el líder de una banda de criminales que tiene ese comedor social como tapadera y como punto de reclutamiento de delincuentes para su banda.
 

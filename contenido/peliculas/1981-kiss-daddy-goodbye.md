@@ -14,7 +14,7 @@ cartel_tamano:
 - 498
 ---
 
-[Kiss daddy goodbye](http://en.wikipedia.org/wiki/Kiss_Daddy_Goodbye) es una película filmada en Estados Unidos y estrenada en 1981. También es conocida con otras denominaciones como "Caution, children at play" o "Revenge of the zombie".
+[Kiss daddy goodbye](https://en.wikipedia.org/wiki/Kiss_Daddy_Goodbye) es una película filmada en Estados Unidos y estrenada en 1981. También es conocida con otras denominaciones como "Caution, children at play" o "Revenge of the zombie".
 
 Guy es un antiguo profesor de psicología que abandonó la universidad y se fue a vivir a un pequeño pueblo cuando su mujer, también psicóloga, murió hace unos años. Guy vive con su dos hijos -un niño y una niña prácticamente iguales- de la forma más aislada del mundo que puede, y es que estos niños tienen diversos poderes mentales, como la telepatía y la telequinesis, que hacen que este hombre sea especialmente discreto y haya prohibido contundentemente a sus hijos utilizar dichos poderes en público.
 

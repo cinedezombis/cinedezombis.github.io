@@ -14,7 +14,7 @@ cartel_tamano:
 - 720
 ---
 
-[Zombie women of Satan](http://www.imdb.com/title/tt1468757/) es una comedia de zombis independiente rodada en el Reino Unido en 2009.
+[Zombie women of Satan](https://www.imdb.com/title/tt1468757/) es una comedia de zombis independiente rodada en el Reino Unido en 2009.
 
 La historia está protagonizada por un peculiar grupo, algo así entre una compañía de teatro underground y un grupete de amigos frikis, en el que destaca un enano, un actor vestido de cowboy, el payaso Pervo -un obseso sexual siempre con la cara pintada de blanco y una nariz de payaso negra- o una antigua estrella del rock que busca desesperadamente a su desaparecida hermana.
 

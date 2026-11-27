@@ -14,7 +14,7 @@ cartel_tamano:
 - 515
 ---
 
-[Shrunken heads](http://en.wikipedia.org/wiki/Shrunken_Heads_%28film%29) es una película estadounidense estrenada en 1994 en la que encontramos una curiosa mezcla entre vudú y la práctica de la tribu shuar de reducir cabezas. También es conocida en español como "Sacrificio vudú".
+[Shrunken heads](https://en.wikipedia.org/wiki/Shrunken_Heads_%28film%29) es una película estadounidense estrenada en 1994 en la que encontramos una curiosa mezcla entre vudú y la práctica de la tribu shuar de reducir cabezas. También es conocida en español como "Sacrificio vudú".
 
 La historia se centra en un barrio de una gran ciudad en el que tres jóvenes adolescentes se enfrentan a los pandilleros que controlan aquella zona, extorsionando y aterrorizando a todos los vecinos. Hartos de sus fechorías, los chicos graban en vídeo como realizan un robo y los denuncia a la policía que termina deteniéndolos.
 

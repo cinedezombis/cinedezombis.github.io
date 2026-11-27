@@ -14,7 +14,7 @@ cartel_tamano:
 - 441
 ---
 
-[El rey de los zombies](http://en.wikipedia.org/wiki/King_of_the_Zombies), cuyo título original es "King of the zombies" es una producción de terror estadounidense grabada en el año 1941.
+[El rey de los zombies](https://en.wikipedia.org/wiki/King_of_the_Zombies), cuyo título original es "King of the zombies" es una producción de terror estadounidense grabada en el año 1941.
 
 En plena Segunda Guerra Mundial, una avioneta estadounidense sobrevuela las islas del Caribe. Perdidos, sin combustible y en mitad de una gran tormenta, los ocupantes deciden realizar un aterrizaje forzoso en una misteriosa isla desde la que oyen una señal de radio.
 

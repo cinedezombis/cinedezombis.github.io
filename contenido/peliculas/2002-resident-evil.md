@@ -14,7 +14,7 @@ cartel_tamano:
 - 442
 ---
 
-[Resident Evil](http://es.wikipedia.org/wiki/Resident_Evil_%28pel%C3%ADcula%29) es una conocida película de zombis filmada en 2002 y basada en el videojuego homónimo. La producción se realizó de forma conjunta entre Reino Unido, Estados Unidos, Francia y Alemania.
+[Resident Evil](https://es.wikipedia.org/wiki/Resident_Evil_%28pel%C3%ADcula%29) es una conocida película de zombis filmada en 2002 y basada en el videojuego homónimo. La producción se realizó de forma conjunta entre Reino Unido, Estados Unidos, Francia y Alemania.
 
 La historia comienza con imágenes de lo que después conoceremos como La Colmena, un centro de investigación secreto situado bajo tierra propiedad de la corporación Umbrella, una macroempresa que controla prácticamente todo en este mundo ficticio. En este centro de investigación una misteriosa persona roba y sabotea unas muestras. Cuando detecta una fuga, la Reina Roja -el superordenador que controla aquellas instalaciones- se vuelve "homicida" y asesina a todos los científicos y trabajadores de La Colmena.
 

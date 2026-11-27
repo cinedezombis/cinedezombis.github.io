@@ -14,7 +14,7 @@ cartel_tamano:
 - 407
 ---
 
-[La horde](http://en.wikipedia.org/wiki/La_Horde) (the horde) es una película francesa grabada en 2009.
+[La horde](https://en.wikipedia.org/wiki/La_Horde) (the horde) es una película francesa grabada en 2009.
 
 Con un inicio un tanto atípico para una película de este género, un grupo de policías corruptos quieren vengar la muerte de uno de sus compañeros. Los policías, que poco tienen que ver con los estereotipos habituales, acuden a un edificio abandonado en las afueras de la ciudad, desde donde opera el grupo de delincuentes que ha asesinado a su compañero.
 

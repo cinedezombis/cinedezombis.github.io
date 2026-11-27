@@ -16,7 +16,7 @@ cartel_tamano:
 - 423
 ---
 
-[La noche de los muertos vivientes](http://es.wikipedia.org/wiki/La_noche_de_los_muertos_vivientes_%28pel%C3%ADcula_de_1990%29) es un remake realizado en 1990 de la película del mismo nombre grabada en 1968 con el título original "[Night of the living dead](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)". En esta ocasión, la cinta, grabada ahora en color, no está dirigida por George Romero, sino por Tom Savini, encargado de maquillaje en varias películas de Romero que sí participará como guionista.
+[La noche de los muertos vivientes](https://es.wikipedia.org/wiki/La_noche_de_los_muertos_vivientes_%28pel%C3%ADcula_de_1990%29) es un remake realizado en 1990 de la película del mismo nombre grabada en 1968 con el título original "[Night of the living dead](zb:/2012/04/1968-la-noche-de-los-muertos-vivientes.html)". En esta ocasión, la cinta, grabada ahora en color, no está dirigida por George Romero, sino por Tom Savini, encargado de maquillaje en varias películas de Romero que sí participará como guionista.
 
 A pesar de estar basada claramente en la película original, en esta versión se han introducido algunos cambios argumentales y en los personajes del film. Hay que destacar la evolución del personaje de Bárbara, que ahora tiene mucho más protagonismo en la trama y se muestra como un personaje fuerte y decidido, dejando atrás la asustadiza Bárbara de la versión original.
 

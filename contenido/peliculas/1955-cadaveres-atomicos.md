@@ -14,7 +14,7 @@ cartel_tamano:
 - 400
 ---
 
-[Cadáveres atómicos](http://en.wikipedia.org/wiki/Creature_with_the_Atom_Brain_%281955_film%29) es una película estadounidense filmada en 1955 cuyo título original es "Creature with the atom brain" basada en una trama sobre la experimentación con radioactividad para levantar a los muertos y ejecutar una venganza.
+[Cadáveres atómicos](https://en.wikipedia.org/wiki/Creature_with_the_Atom_Brain_%281955_film%29) es una película estadounidense filmada en 1955 cuyo título original es "Creature with the atom brain" basada en una trama sobre la experimentación con radioactividad para levantar a los muertos y ejecutar una venganza.
 
 La película comienza con el asesinato del fiscal del distrito a manos de un extraño hombre con extraordinaria fuerza y que no se puede abatir con disparos. La policía comienza a investigar con nuestro detective protagonista, todo un CSI de la época, a la cabeza. Poco después también matan a un antiguo chivato de la policía. Por las clarísimas pistas que van dejando, pronto descubren que forma parte de la venganza de un mafioso, Buchanan, que terminó en la cárcel por culpa de ambos y prometió volver para acabar con ellos. Además y gracias a las huellas encontradas en las escenas del crimen, se dan cuenta de que está utilizando personas fallecidas reanimadas que son capaces de asesinar con especial virulencia.
 

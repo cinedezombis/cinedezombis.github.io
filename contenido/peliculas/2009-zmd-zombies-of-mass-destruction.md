@@ -16,7 +16,7 @@ cartel_tamano:
 - 747
 ---
 
-[ZMD: Zombies of Mass Destruction](http://en.wikipedia.org/wiki/ZMD:_Zombies_of_Mass_Destruction_%28film%29) es una comedia de zombis con moraleja política, grabada en 2009 en los Estados Unidos.
+[ZMD: Zombies of Mass Destruction](https://en.wikipedia.org/wiki/ZMD:_Zombies_of_Mass_Destruction_%28film%29) es una comedia de zombis con moraleja política, grabada en 2009 en los Estados Unidos.
 
 Una joven de ascendencia iraní llamada Frida llega a su pequeña localidad natal, Port Gamble, tras dejar Princeton y con la intención de ayudar en el restaurante a su padre. Complementariamente, también vuelve Tom, un broker de Wall Street que viene con su novio con la intención de confesarle a su madre su homosexualidad.
 

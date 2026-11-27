@@ -14,7 +14,7 @@ cartel_tamano:
 - 465
 ---
 
-[La muerte viviente](http://en.wikipedia.org/wiki/La_Morte_Vivante) es una película francesa de terror rodada en 1982 dirigida por Jean Rollin. Su título original es "La morte vivante" y también es conocida en inglés como "The living dead girl".
+[La muerte viviente](https://en.wikipedia.org/wiki/La_Morte_Vivante) es una película francesa de terror rodada en 1982 dirigida por Jean Rollin. Su título original es "La morte vivante" y también es conocida en inglés como "The living dead girl".
 
 La película comienza con unos hombres llevando hasta un túnel subterráneo residuos químicos en sus típicos barriles -bueno, todavía en 1982 quizá no tan típico -. Después de dejarlos por allí, deciden hacer también de ladrones de tumbas y se dirigen a la cripta de un castillo con la que se encuentra comunicada el túnel. Un pequeño terremoto hace que los residuos tóxicos se acaben esparciendo por allí, provocando el levantamiento del cadáver de una joven que vivió en el castillo y que murió un par de años atrás.
 

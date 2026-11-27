@@ -14,7 +14,7 @@ cartel_tamano:
 - 461
 ---
 
-[Carne muerta](http://en.wikipedia.org/wiki/Dead_Meat), titulada originalmente "Dead meat" es una película irlandesa de zombis grabada en el año 2004 y cuyo argumento gira en torno a una infección zombi propagada a partir de una extraña variedad del mal de "las vacas locas".
+[Carne muerta](https://en.wikipedia.org/wiki/Dead_Meat), titulada originalmente "Dead meat" es una película irlandesa de zombis grabada en el año 2004 y cuyo argumento gira en torno a una infección zombi propagada a partir de una extraña variedad del mal de "las vacas locas".
 
 La historia nos sitúa en el corazón de Irlanda, en un paraje rural lleno de interminables praderas y montes. Una joven turista española (encarnada por Marian Araujo) se ve implicada en unos extraños acontecimientos donde personas aparentemente locas están atacando vehementemente a sus vecinos.
 

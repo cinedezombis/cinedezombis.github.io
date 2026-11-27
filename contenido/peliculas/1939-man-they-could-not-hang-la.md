@@ -16,7 +16,7 @@ cartel_tamano:
 - 568
 ---
 
-[The man they could](http://en.wikipedia.org/wiki/The_Man_They_Could_Not_Hang) [not hang](http://en.wikipedia.org/wiki/The_Man_They_Could_Not_Hang) es una película de terror estadounidense filmada en 1939 y protagonizada por el mítico Boris Karloff. En español se la conoce con varias denominaciones, siendo la más habitual "La venganza del ahorcado", aunque también se puede encontrar como "La hora fatal", sin embargo su traducción sería algo así como "El hombre que no podían colgar".
+[The man they could](https://en.wikipedia.org/wiki/The_Man_They_Could_Not_Hang) [not hang](https://en.wikipedia.org/wiki/The_Man_They_Could_Not_Hang) es una película de terror estadounidense filmada en 1939 y protagonizada por el mítico Boris Karloff. En español se la conoce con varias denominaciones, siendo la más habitual "La venganza del ahorcado", aunque también se puede encontrar como "La hora fatal", sin embargo su traducción sería algo así como "El hombre que no podían colgar".
 
 El Dr. Savaard es un prestigioso científico que estudia una forma de anestesia extrema que consiste en llevar a los pacientes hasta un estado de muerte clínica para someterlos a las intervenciones y luego reanimarlos mediante una bomba de agua que hace las veces de corazón artificial. Después de haber tenido éxito con animales, se dispone a investigar por primera con personas, siendo un estudiante de medicina su primer voluntario. La novia del joven, que precisamente es una enfermera del doctor, no soporta la idea de que algo pueda fallar y decide denunciar desesperada a la policía que su jefe pretende asesinar a su novio.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 317
 ---
 
-[Eaters](http://www.imdb.com/title/tt1753753/), también conocida como "Eaters: Rise of the dead", es una filmación postapocalíptica de zombis producida en Italia y estrenada en 2011.
+[Eaters](https://www.imdb.com/title/tt1753753/), también conocida como "Eaters: Rise of the dead", es una filmación postapocalíptica de zombis producida en Italia y estrenada en 2011.
 
 Según nos cuentan en la introducción, una epidemia vírica ha provocado 600 millones de muertos en un mundo que ha acabado totalmente asolado. Los muertos han vuelto a la vida e incluso el Papa se ha pegado un tiro en la cabeza para no convertirse en zombi. El caos ha venido para quedarse y parece que ya no hay esperanza para los pocos humanos que quedan con vida.
 

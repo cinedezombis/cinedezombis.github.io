@@ -14,7 +14,7 @@ cartel_tamano:
 - 554
 ---
 
-[Prison of the dead](http://www.imdb.com/title/tt0274738/) es una película estadounidense de bajo presupuesto dirigida por David DeCoteau. En español también es conocida como "La prisión de los muertos".
+[Prison of the dead](https://www.imdb.com/title/tt0274738/) es una película estadounidense de bajo presupuesto dirigida por David DeCoteau. En español también es conocida como "La prisión de los muertos".
 
 Un grupo de antiguos amigos, al que les unía el interés por la investigación de fenómenos paranormales, se vuelven a reunir después de pasar varios años sin tener contacto alguno. El lugar elegido es una funeraria que el adinerado padre de uno de ellos -Kristof que se llama- ha comprado recientemente. Resulta que esa funeraria está construida sobre una antigua prisión secreta donde en el Siglo XVII ajusticiaban a mujeres acusadas de brujería. Además, cuenta la leyenda que los temidos verdugos de esta cárcel se encuentran allí enterrados.
 

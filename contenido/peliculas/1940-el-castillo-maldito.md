@@ -16,7 +16,7 @@ cartel_tamano:
 - 445
 ---
 
-[El castillo maldito](http://es.wikipedia.org/wiki/El_castillo_maldito_%281940%29) es una comedia de terror estadounidense, producida por la Paramount, grabada en Estados Unidos en el año 1940 y titulada originalmente "The ghost breakers".
+[El castillo maldito](https://es.wikipedia.org/wiki/El_castillo_maldito_%281940%29) es una comedia de terror estadounidense, producida por la Paramount, grabada en Estados Unidos en el año 1940 y titulada originalmente "The ghost breakers".
 
 Una muchacha de Nueva York hereda un castillo situado en una pequeña isla cubana denominada Isla Negra. Aunque la leyenda cuenta que dicho castillo está lleno de fantasmas, la joven no duda en querer ir hacia La Habana y visitar su nueva propiedad. Sin embargo, pronto aparecerán extraños sucesos que parecen indicar que existe gran interés por que la joven no llegue hasta su destino.
 

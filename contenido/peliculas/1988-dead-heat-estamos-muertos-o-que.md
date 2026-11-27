@@ -16,7 +16,7 @@ cartel_tamano:
 - 475
 ---
 
-[Dead heat](http://es.wikipedia.org/wiki/Dead_Heat), también conocida en España con el desafortunado título de "Estamos muertos... ¿o qué?", es una película policíaca de zombis producida en Estados Unidos en 1988.
+[Dead heat](https://es.wikipedia.org/wiki/Dead_Heat), también conocida en España con el desafortunado título de "Estamos muertos... ¿o qué?", es una película policíaca de zombis producida en Estados Unidos en 1988.
 
 En esta ocasión nos enfrentamos, solo aparentemente, a una de las típicas películas americanas de una pareja de policías que hacen las cosas a su manera sin que sus métodos sean aprobados por su superior. Esta pareja comenzará a investigar sobre unos atracos cometidos por unas extrañas personas que misteriosamente no son abatidos al dispararles.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 600
 ---
 
-[Isle of the Snake People](http://en.wikipedia.org/wiki/Isle_of_the_Snake_People) es una película protagonizada por el mítico Boris Karloff coproducida entre México y Estados Unidos y estrenada en 1971. Esta grabación también es conocida por numerosas denominaciones, tanto en inglés como en español, como por ejemplo: "La muerte viviente" -siendo este al parecer su título original-, "Cult of the dead", "Isla de los muertos", "Vudú mortal" o "Snake people".
+[Isle of the Snake People](https://en.wikipedia.org/wiki/Isle_of_the_Snake_People) es una película protagonizada por el mítico Boris Karloff coproducida entre México y Estados Unidos y estrenada en 1971. Esta grabación también es conocida por numerosas denominaciones, tanto en inglés como en español, como por ejemplo: "La muerte viviente" -siendo este al parecer su título original-, "Cult of the dead", "Isla de los muertos", "Vudú mortal" o "Snake people".
 
 La historia se centra en una pequeña isla perdida donde se practica con total normalidad el vudú y la magia negra. Para acabar con esta situación e imponer la fuerza de la ley, llega a la isla el capitán Labesch, un recto militar cuyo único objetivo es acabar con esas prácticas que considera supercherías de salvajes. Junto al capitán llega una joven que es la sobrina del terrateniente de aquel lugar -Boris Karloff- quien precisamente advierte al capitán de que lo mejor será que no moleste a los habitantes de esa isla y les deje seguir con su cultura y sus ritos.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 768
 ---
 
-[Re-Animator](http://es.wikipedia.org/wiki/Re-Animator) es una película estadounidense de 1985 basada en una historia del célebre autor H.P. Lovecraft.
+[Re-Animator](https://es.wikipedia.org/wiki/Re-Animator) es una película estadounidense de 1985 basada en una historia del célebre autor H.P. Lovecraft.
 
 La película se centra en un controvertido estudiante de medicina, Herbert West que estudia en la Universidad de Zurich, junto a un importante investigador un posible suero que reanime a los muertos. Después de la extraña muerte del investigador, West es expulsado y recala en un hospital universitario estadounidense.
 

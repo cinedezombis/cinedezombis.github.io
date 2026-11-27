@@ -14,7 +14,7 @@ cartel_tamano:
 - 464
 ---
 
-[La rebelión de los muertos](http://en.wikipedia.org/wiki/Revolt_of_the_Zombies), titulada originalmente como "Revolt of the zombies" es una película estadounidense rodada en 1936, siendo considerada como la segunda película de zombis de la historia, tras la mítica "[White zombie](zb:/2012/04/1932-white-zombie.html)", con la que comparte directores, aunque poco o nada tiene que ver con esa gran filmación de 1932.
+[La rebelión de los muertos](https://en.wikipedia.org/wiki/Revolt_of_the_Zombies), titulada originalmente como "Revolt of the zombies" es una película estadounidense rodada en 1936, siendo considerada como la segunda película de zombis de la historia, tras la mítica "[White zombie](zb:/2012/04/1932-white-zombie.html)", con la que comparte directores, aunque poco o nada tiene que ver con esa gran filmación de 1932.
 
 La historia comienza situándonos en la I Guerra Mundial -de hecho, en aquel momento solo existía aquella- donde según parece, se están utilizando soldados zombis camboyanos en el frente franco-austríaco. Estos soldados se destacan por tener la voluntad totalmente anulada, dominados por la influencia de un sacerdote de magia negra, tienen una fuerza extraordinaria y lo mejor es que parece que no los detienen ni las balas.
 

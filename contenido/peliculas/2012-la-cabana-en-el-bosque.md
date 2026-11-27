@@ -14,7 +14,7 @@ cartel_tamano:
 - 461
 ---
 
-[La cabaña en el bosque](http://es.wikipedia.org/wiki/The_Cabin_in_the_Woods) es una película de terror estadounidense estrenada en 2012. Su título original es "The cabin in the woods" y en Latinoamérica también es conocida como "La cabaña del terror".
+[La cabaña en el bosque](https://es.wikipedia.org/wiki/The_Cabin_in_the_Woods) es una película de terror estadounidense estrenada en 2012. Su título original es "The cabin in the woods" y en Latinoamérica también es conocida como "La cabaña del terror".
 
 La historia comienza con dos hilos aparentemente inconexos. Por un lado, unos técnicos en una especie de central o gran industria secreta preparan con su equipo algo parecido a un experimento misterioso. Por otro, un grupo de cinco jóvenes se marchan en caravana a pasar unos días a una apartada cabaña en mitad de un bonito bosque con su típico lago y todo.
 

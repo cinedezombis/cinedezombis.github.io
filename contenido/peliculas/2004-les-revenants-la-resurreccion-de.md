@@ -16,7 +16,7 @@ cartel_tamano:
 - 433
 ---
 
-[Les revenants](http://en.wikipedia.org/wiki/They_Came_Back) es una producción francesa de 2004 que plantea un posible escenario si de buenas a primeras millones de muertos volvieran a la vida pero con cierta normalidad, es decir, con voluntad propia, sin ser violentos ni tener que comer carne. En español es conocida como "La resurrección de los muertos" y en inglés bajo el título "They came back".
+[Les revenants](https://en.wikipedia.org/wiki/They_Came_Back) es una producción francesa de 2004 que plantea un posible escenario si de buenas a primeras millones de muertos volvieran a la vida pero con cierta normalidad, es decir, con voluntad propia, sin ser violentos ni tener que comer carne. En español es conocida como "La resurrección de los muertos" y en inglés bajo el título "They came back".
 
 Un buen día, sin explicación aparente alguna, las personas muertas durante los últimos 10 años comienzan a caminar y abandonan los cementerios, eso sí, perfectamente vestidos, limpios, aseados y sin ningún tipo de deterioro físico a pesar del tiempo transcurrido bajo tierra. Concretamente se menciona que son 70 millones los muertos revividos en el mundo.
 

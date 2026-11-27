@@ -16,7 +16,7 @@ cartel_tamano:
 - 400
 ---
 
-[The boneyard](http://en.wikipedia.org/wiki/The_Boneyard), conocida en español como "Terror en la morgue", es una película de terror realizada directamente para video en el año 1991 en los Estados Unidos.
+[The boneyard](https://en.wikipedia.org/wiki/The_Boneyard), conocida en español como "Terror en la morgue", es una película de terror realizada directamente para video en el año 1991 en los Estados Unidos.
 
 Un veterano policía va a buscar a su casa a una psíquica que le había ayudado en ocasiones anteriores. La mujer se encuentra deprimida, recluida en su casa muy afectada precisamente por haber prestado estas colaboraciones a la policía, por lo que es muy reacia a volver a trabajar con ellos. En esta ocasión se trata de tres niñas asiáticas muertas que han aparecido en la funeraria mientras su dueño intentaba darles carne humana. El dueño de la funeraria está detenido y ha confesado de que realmente no se tratan de niñas normales, sino que están bajo la influencia de una antigua maldición que les hace tener sed de sangre.
 

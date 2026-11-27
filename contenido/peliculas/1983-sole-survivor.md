@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Sole survivor](http://en.wikipedia.org/wiki/Sole_Survivor_%281983_film%29) es una película estadounidense dirigida por Thom Eberhardt en 1983. En español también es conocida como "Único superviviente".
+[Sole survivor](https://en.wikipedia.org/wiki/Sole_Survivor_%281983_film%29) es una película estadounidense dirigida por Thom Eberhardt en 1983. En español también es conocida como "Único superviviente".
 
 Denise es una productora de televisión que sufre un grave accidente de avión del que será su única superviviente. Al ser trasladada al hospital conoce al Dr. Brian Richardson, el médico de urgencias que le atiende y con el que pronto comenzará una relación sentimental. El doctor se preocupa porque Denise no sufra el "Síndrome del superviviente", una enfermedad que provoca depresión, sentimiento de culpa y la sensación permanente en la persona de que debería estar muerta. No obstante, más allá de sus pensamientos, Denise es protagonista de extraños acontecimientos desde antes de salir del hospital.
 

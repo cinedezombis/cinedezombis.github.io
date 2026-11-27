@@ -16,7 +16,7 @@ cartel_tamano:
 - 350
 ---
 
-[Flight of the living dead: Outbreak on a plane](http://en.wikipedia.org/wiki/Flight_of_the_Living_Dead:_Outbreak_on_a_Plane) es una película estadounidense de 2007 que gira en torno a una infección zombi en un avión comercial. También se le conoce por su título original (fue cambiado al actual posteriormente) "Plane dead" y en español se puede encontrar con varias denominaciones, siendo la más habitual "El vuelo de los muertos vivientes".
+[Flight of the living dead: Outbreak on a plane](https://en.wikipedia.org/wiki/Flight_of_the_Living_Dead:_Outbreak_on_a_Plane) es una película estadounidense de 2007 que gira en torno a una infección zombi en un avión comercial. También se le conoce por su título original (fue cambiado al actual posteriormente) "Plane dead" y en español se puede encontrar con varias denominaciones, siendo la más habitual "El vuelo de los muertos vivientes".
 
 Como se puede suponer, la acción se centra en un avión, concretamente en un Boeing 747 que realiza una ruta transoceánica desde Estados Unidos hasta París. En su bodega se transporta, entre otras cosas, un experimento realizado con un extraño virus que se pretende utilizar como arma biológica. El virus en cuestión mata al organismo, pero luego lo revive y el objetivo de la compañía que lo desarrolló es crear una especie de supersoldados.
 

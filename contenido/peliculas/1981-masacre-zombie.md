@@ -14,7 +14,7 @@ cartel_tamano:
 - 400
 ---
 
-[Masacre zombie](http://en.wikipedia.org/wiki/Burial_Ground:_The_Nights_of_Terror) o "La noche del terror", cuyo título original es "Le Notti del terrore", es una producción italiana de 1981, conocida también por su denominación en inglés: "Burial Ground: Nights of Terror", en otro típico juego de nombres incomprensible.
+[Masacre zombie](https://en.wikipedia.org/wiki/Burial_Ground:_The_Nights_of_Terror) o "La noche del terror", cuyo título original es "Le Notti del terrore", es una producción italiana de 1981, conocida también por su denominación en inglés: "Burial Ground: Nights of Terror", en otro típico juego de nombres incomprensible.
 
 La historia comienza con un científico que estudia los restos de una antigua cultura, cuando, sin comerlo ni beberlo se encuentra de repente con varios zombis que lo atacan. Precisamente ese día llegan de visita varias parejas amiga hasta su apartada mansión, aparentemente, para pasar unos días de relax. Sin embargo, pronto vendrán malas noticias en forma de unos muertos vivientes con una estética sorprendentemente similar a la del niño de "El orfanato".
 

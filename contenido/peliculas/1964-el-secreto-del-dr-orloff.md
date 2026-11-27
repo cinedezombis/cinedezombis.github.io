@@ -14,7 +14,7 @@ cartel_tamano:
 - 782
 ---
 
-[El secreto del Dr. Orloff](http://www.imdb.com/title/tt0058563/) es una película estrenada en 1964 y dirigida por el prolífico Jesús Franco. Esta producción conjunta entre Austria, España y Francia también es conocida por diversas denominaciones como "The Mistresses of Dr. Jekyll", "Dr. Orloff's Monster", "Brides of Dr. Jekyll" o "The Secret of Dr. Orloff" entre otras.
+[El secreto del Dr. Orloff](https://www.imdb.com/title/tt0058563/) es una película estrenada en 1964 y dirigida por el prolífico Jesús Franco. Esta producción conjunta entre Austria, España y Francia también es conocida por diversas denominaciones como "The Mistresses of Dr. Jekyll", "Dr. Orloff's Monster", "Brides of Dr. Jekyll" o "The Secret of Dr. Orloff" entre otras.
 
 La historia comienza con el Dr. Orloff en la cama y a punto de morir revelando a su fiel discípulo, el Dr. Jekyll, el secreto para dar vida y controlar seres inanimados. Este científico no tardará en llevarlo a la práctica y revive a un hombre con la ayuda de diversos artilugios eléctricos. A este hombre, que denomina Andros, lo puede controlar para que cumpla todos sus deseos mediante ultrasonidos, como si de un perro se tratara.
 

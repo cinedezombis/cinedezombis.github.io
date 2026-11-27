@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[Cementerio del terror](http://es.wikipedia.org/wiki/Cementerio_del_terror) es una película producida en México en 1985 que también es conocida como "Zombie apocalypse".
+[Cementerio del terror](https://es.wikipedia.org/wiki/Cementerio_del_terror) es una película producida en México en 1985 que también es conocida como "Zombie apocalypse".
 
 Nos situamos en el día de Halloween, tres parejas de jóvenes deciden pasar una noche de miedo en una casa abandonada en el cementerio. Las muchachas se sienten incómodas en aquel lugar, pero sus novios las convencen y empiezan a rebuscar por la casa hasta que encuentran un misterioso libro. Paralelamente, también se nos narra la preocupación traumática de un médico que pretende por todos los medios que la policía proceda a quemar el cuerpo de un asesino en serie recién fallecido al que trató, ya que sospecha que tiene alguna conexión con el diablo y teme que vuelva de entre los muertos.
 

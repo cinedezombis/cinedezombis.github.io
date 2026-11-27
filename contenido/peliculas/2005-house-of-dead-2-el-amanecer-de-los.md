@@ -16,7 +16,7 @@ cartel_tamano:
 - 500
 ---
 
-[House of the dead 2](http://en.wikipedia.org/wiki/House_of_the_Dead_2_%28film%29), conocida incomprensiblemente en España como "El amanecer de los zombies", es una película estadounidense producida en 2005 directamente para DVD, secuela de la grabación ["House of the dead"](zb:/2012/07/2003-house-of-dead.html) de 2003 e igualmente basada en el videojuego homónimo.
+[House of the dead 2](https://en.wikipedia.org/wiki/House_of_the_Dead_2_%28film%29), conocida incomprensiblemente en España como "El amanecer de los zombies", es una película estadounidense producida en 2005 directamente para DVD, secuela de la grabación ["House of the dead"](zb:/2012/07/2003-house-of-dead.html) de 2003 e igualmente basada en el videojuego homónimo.
 
 El argumento en esta ocasión comienza con un científico loco de la Universidad Cuesta Verde que está investigando sobre la inmortalidad, como sabremos luego, a partir de la sangre de la joven reanimada y que fue rescatada como superviviente al final de la primera película. Sin embargo, sus experimentos terminan costándole la vida y provocando una alarmante propagación de una infección que reanima a los muertos.
 

@@ -16,7 +16,7 @@ cartel_tamano:
 - 635
 ---
 
-[The Dead 2: India](http://en.wikipedia.org/wiki/The_Dead_2:_India) es una película producida en el Reino Unido en 2013 que es la segunda parte de la filmación estrenada en 2010 "[The Dead](zb:/2014/10/2010-dead.html)", situándose ahora los acontecimientos en India, en vez de en África.
+[The Dead 2: India](https://en.wikipedia.org/wiki/The_Dead_2:_India) es una película producida en el Reino Unido en 2013 que es la segunda parte de la filmación estrenada en 2010 "[The Dead](zb:/2014/10/2010-dead.html)", situándose ahora los acontecimientos en India, en vez de en África.
 
 Un barco procedente de Somalia amarra en un puerto de India, en su interior viaja un trabajador que ha sido mordido por un "demente" en territorio africano. Pronto comienzan a sucederse extraños sucesos, algo está pasando en las abarrotadas calles indias. En los medios se habla de enfrentamiento entre indios y musulmanes, de conflictos locales, aunque realmente lo que sucede es que la epidemia zombi ya ha comenzado y avanza de forma imparable.
 

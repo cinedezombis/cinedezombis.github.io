@@ -16,7 +16,7 @@ cartel_tamano:
 - 443
 ---
 
-[Slither: La plaga](http://en.wikipedia.org/wiki/Slither_%282006_film%29), cuyo título original es simplemente "Slither", es una comedia de terror estrenada en 2006 y producida conjuntamente entre Canadá y Estados Unidos. En Sudamérica también es conocida como "Criaturas rastreras".
+[Slither: La plaga](https://en.wikipedia.org/wiki/Slither_%282006_film%29), cuyo título original es simplemente "Slither", es una comedia de terror estrenada en 2006 y producida conjuntamente entre Canadá y Estados Unidos. En Sudamérica también es conocida como "Criaturas rastreras".
 
 La acción nos sitúa en una pequeña y tranquila localidad estadounidense en la que una noche como cualquier otra cae discretamente -no hace ruido y nadie se percata- un meteorito. Un acomodado hombre de aquella ciudad llamado Grant Grant discute con su joven mujer y termina en mitad del bosque donde encuentra los restos del meteorito. Entre ellos, lo que parece ser un parásito alienígena se le introduce dentro de su cuerpo por la barriga y se apodera de él.
 

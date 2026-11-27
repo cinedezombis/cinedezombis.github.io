@@ -14,7 +14,7 @@ cartel_tamano:
 - 600
 ---
 
-[Juan de los Muertos](http://es.wikipedia.org/wiki/Juan_de_los_Muertos), conocida internacionalmente como "[Juan of the Dead](http://www.juanofthedeadmovie.com/lang/es/about/technical-sheet/)" es una producción hispanocubana de 2011 que pasará a la historia por ser la primera película de zombis que se rueda en Cuba.
+[Juan de los Muertos](https://es.wikipedia.org/wiki/Juan_de_los_Muertos), conocida internacionalmente como "Juan of the Dead" es una producción hispanocubana de 2011 que pasará a la historia por ser la primera película de zombis que se rueda en Cuba.
 
 Nuestro protagonista, Juan, es un buscavidas cubano que mantiene una difícil relación con su hija, harta de que siempre se meta en líos. Juan junto con su compadre Lázaro, trata de buscarse las habichuelas como puede en La Habana. Juan y Lázaro y sus respectivos hijos (que mantendrán la típica tensión sexual adolescente) serán los protagonistas de esta loca historia.
 

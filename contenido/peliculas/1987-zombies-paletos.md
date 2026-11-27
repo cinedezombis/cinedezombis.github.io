@@ -14,7 +14,7 @@ cartel_tamano:
 - 600
 ---
 
-Zombies paletos es una producción estadounidense de finales de los ochenta titulada originalmente "[Redneck zombies](http://en.wikipedia.org/wiki/Redneck_Zombies)". Eso de "redneck" es un localismo para designar a los campesinos paletos (normalmente sureños) en Estados Unidos.
+Zombies paletos es una producción estadounidense de finales de los ochenta titulada originalmente "[Redneck zombies](https://en.wikipedia.org/wiki/Redneck_Zombies)". Eso de "redneck" es un localismo para designar a los campesinos paletos (normalmente sureños) en Estados Unidos.
 
 La acción se desarrolla en un típico pueblo del corazón americano. Un soldado escolta unos peligrosos residuos químicos de origen militar. Tras un descuido, el barril de residuos acaba en manos de varios estereotipados campesinos (bobos e ignorantes) que terminan destilando su contenido en un alambique para crear un mortífero aguardiente. Esto de que los sureños destilen su propio alcohol es algo común, según nos ha llegado desde las series y películas norteamericanas.
 

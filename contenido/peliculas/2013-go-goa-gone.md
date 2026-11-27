@@ -14,7 +14,7 @@ cartel_tamano:
 - 425
 ---
 
-[Go Goa Gone](http://en.wikipedia.org/wiki/Go_Goa_Gone) es una comedia India de muertos vivientes protagonizada por unos amigos fumetas cuya mala fortuna los sitúa en mitad del comienzo de un apocalipsis zombi.
+[Go Goa Gone](https://en.wikipedia.org/wiki/Go_Goa_Gone) es una comedia India de muertos vivientes protagonizada por unos amigos fumetas cuya mala fortuna los sitúa en mitad del comienzo de un apocalipsis zombi.
 
 Hardik y Luv son dos amigos bastante golfos que se pasan el día de fiesta, bebiendo alcohol y fumando porros. Viven juntos con otro amigo llamado Bunny que parece estar un poquito más centrado. Cansado de esa vida, Luv decide proponerle matrimonio a su novia para comenzar una nueva etapa más familiar y sin drogas de por medio, sin embargo la jugada le sale bastante mal y su novia termina confesándole que le ha estado engañando en una divertida escena. Por su parte, Hardik se mete en un problema con su jefe que le hace huir -literalmente- de su puesto de trabajo.
 

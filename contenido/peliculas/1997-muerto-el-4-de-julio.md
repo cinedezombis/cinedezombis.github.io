@@ -14,7 +14,7 @@ cartel_tamano:
 - 482
 ---
 
-[Muerto el 4 de julio](http://en.wikipedia.org/wiki/Uncle_Sam_%28film%29), titulada originalmente "Uncle Sam", es decir, "Tío Sam", es una película estadounidense grabada el 1997 que mezcla asesinatos con el patrioterismo norteamericano.
+[Muerto el 4 de julio](https://en.wikipedia.org/wiki/Uncle_Sam_%28film%29), titulada originalmente "Uncle Sam", es decir, "Tío Sam", es una película estadounidense grabada el 1997 que mezcla asesinatos con el patrioterismo norteamericano.
 
 Sam es un soldado de los Estados Unidos que cae abatido en su helicóptero en Kuwait a causa del "fuego amigo", aunque antes de morir ya deja constancia de que es todo un psicópata violento.
 

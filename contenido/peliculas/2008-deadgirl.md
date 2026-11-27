@@ -14,7 +14,7 @@ cartel_tamano:
 - 407
 ---
 
-[Deadgirl](http://es.wikipedia.org/wiki/Deadgirl) es una película estadounidense estrenada en 2008 que nos muestra como una chica zombi se convierte en la esclava sexual de un joven pervertido.
+[Deadgirl](https://es.wikipedia.org/wiki/Deadgirl) es una película estadounidense estrenada en 2008 que nos muestra como una chica zombi se convierte en la esclava sexual de un joven pervertido.
 
 Rickie y JT son dos amigos adolescentes e inadaptados que un día hacen novillos en el instituto donde estudian y deciden ir a colarse en un antiguo hospital psiquiátrico que se está abandonado. Una vez dentro, destrozan todo lo que se encuentran a su paso hasta llegar a una sala escondida donde descubren a una mujer que parece estar muerta cubierta por un plástico y que se encuentra atada con unas cadenas en una camilla. Pronto se darán cuenta de que esa muchacha es realmente una muerta viviente.
 

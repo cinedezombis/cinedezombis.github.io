@@ -18,7 +18,7 @@ cartel_tamano:
 - 501
 ---
 
-[Plaga zombie](http://es.wikipedia.org/wiki/Plaga_Zombie) es una película amateur producida en Argentina en el año 1997. Con pocos recursos y todo muy artesanal, tiene el mérito de ser el primer largometraje de zombis grabado en el país argentino.
+[Plaga zombie](https://es.wikipedia.org/wiki/Plaga_Zombie) es una película amateur producida en Argentina en el año 1997. Con pocos recursos y todo muy artesanal, tiene el mérito de ser el primer largometraje de zombis grabado en el país argentino.
 
 La acción se centra en un peculiar grupo de amigos. Uno de ellos es abducido por un OVNI donde un alienígena le practica una extraña operación que desemboca en su muerte y posterior reanimación como un zombi sediento de sangre. Según parece, el plan de unos malvados alienígenas que quieren conquistar el mundo es provocar una infección zombi que signifique el comienzo de la autodestrucción de la especie humana. De esta forma, se convierte en una original y peculiar trama donde el holocausto zombi es provocado por unos extraterrestres.
 

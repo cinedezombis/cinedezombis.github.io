@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[Dead and Deader](http://en.wikipedia.org/wiki/Dead_and_Deader) es una comedia estadounidense de zombis, grabada en 2006 para ser emitida directamente en la televisión por cable norteamericana.
+[Dead and Deader](https://en.wikipedia.org/wiki/Dead_and_Deader) es una comedia estadounidense de zombis, grabada en 2006 para ser emitida directamente en la televisión por cable norteamericana.
 
 Un pequeño grupo de militares se encuentra buscando a una unidad médica que ha desaparecido en mitad de la jungla de Camboya. En una apartada cabaña, el equipo especial encuentra a los científicos pero con una extraña infección que les hace ser extremadamente violentos y muchos escorpiones por allí en medio. Después de un duro enfrentamiento, uno de los investigadores infectados hace explotar una granada y vuelan todos por los aires.
 

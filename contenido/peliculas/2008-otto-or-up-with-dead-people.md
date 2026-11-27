@@ -16,7 +16,7 @@ cartel_tamano:
 - 593
 ---
 
-[Otto; or Up with Dead People](http://en.wikipedia.org/wiki/Otto;_or_Up_with_Dead_People) es una peculiar película de zombis de producción conjunta germano-canadiense filmada en 2008.
+[Otto; or Up with Dead People](https://en.wikipedia.org/wiki/Otto;_or_Up_with_Dead_People) es una peculiar película de zombis de producción conjunta germano-canadiense filmada en 2008.
 
 La historia nos transporta a un futuro no muy lejano donde no es extraño la existencia de zombis, que incluso parece que con los años van evolucionando, obteniendo mayor capacidad de comunicación y raciocinio.
 

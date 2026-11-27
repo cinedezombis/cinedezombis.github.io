@@ -14,7 +14,7 @@ cartel_tamano:
 - 571
 ---
 
-[The doomsday book](http://en.wikipedia.org/wiki/Doomsday_Book_%28film%29) es una película producida en 2012 en Corea del Sur que nos narra tres historias distintas con un nexo en común: el fin del mundo. Ha sido dirigida por dos directores (Kim Jee-woon y Yim Pil-sung) y su título original es "Inryu myeongmang bogoseo", algo así como "Informe sobre la destrucción de la humanidad".
+[The doomsday book](https://en.wikipedia.org/wiki/Doomsday_Book_%28film%29) es una película producida en 2012 en Corea del Sur que nos narra tres historias distintas con un nexo en común: el fin del mundo. Ha sido dirigida por dos directores (Kim Jee-woon y Yim Pil-sung) y su título original es "Inryu myeongmang bogoseo", algo así como "Informe sobre la destrucción de la humanidad".
 
 La primera historia apocalíptica se denomina "Un mundo feliz" (A brave new world) y es la única donde podemos disfrutar de los infectados y muertos vivientes. Seok-woo es un joven investigador que se queda solo en casa después de que sus padres y su hermana se vayan de viaje aprovechando los días de fiesta. El joven queda al cuidado del hogar y aprovecha la oportunidad para salir a cenar con una chica para probar suerte. Después de limpiar su casa se dirige hacia la cita. En esos momentos podemos comprobar como la basura orgánica de Seok-woo, especialmente una manzana podrida, es reciclada como alimento para animales que posteriormente servirán de cena en su propia cita, cerrándose así la cadena.
 

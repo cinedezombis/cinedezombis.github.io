@@ -14,7 +14,7 @@ cartel_tamano:
 - 400
 ---
 
-[La muerte viaja en video](http://es.wikipedia.org/wiki/The_Video_Dead) en una filmación estadounidense cuyo título original es "The video dead", grabada en 1987 y distribuida directamente en VHS.
+[La muerte viaja en video](https://en.wikipedia.org/wiki/The_Video_Dead) en una filmación estadounidense cuyo título original es "The video dead", grabada en 1987 y distribuida directamente en VHS.
 
 Un escritor vive en una mansión en un pueblo rural, un día el servicio de mensajería le trae un paquete por error: un televisor. Sin hacerle ascos a esta imprevista entrega, lo conecta, pero la película que están retransmitiendo titulada "Zombie blood nightmare" no le acaba de convencer y la quita, sin embargo la película sigue viéndose en el aparato incluso desenchufado. Aparecen las fuerzas ocultas en el lugar y los zombis de la televisión acaban atravesando la pantalla, se cuelan en su habitación y asesinan al escritor.
 

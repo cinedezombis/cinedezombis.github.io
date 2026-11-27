@@ -14,7 +14,7 @@ cartel_tamano:
 - 725
 ---
 
-[La maldición del templo azteca](http://www.imdb.com/title/tt0097718/) es una película estadounidense producida en 1989 bajo el título original de "The Laughing Dead".
+[La maldición del templo azteca](https://www.imdb.com/title/tt0097718/) es una película estadounidense producida en 1989 bajo el título original de "The Laughing Dead".
 
 El padre O'Sullivan es un comprometido sacerdote de barrio que organiza y dirige un viaje arqueológico desde los Estados Unidos hasta México para estudiar la cultura maya. El cura, que está en proceso de perder totalmente su fe, sigue enamorado de una monja a la que dejó embarazada varios años atrás.
 

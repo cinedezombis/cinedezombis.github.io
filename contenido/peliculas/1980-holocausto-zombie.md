@@ -14,7 +14,7 @@ cartel_tamano:
 - 475
 ---
 
-[Holocausto zombie](http://es.wikipedia.org/wiki/Zombi_holocaust) es una película de producción italiana, grabada en 1980 y cuyo título original es "Zombi Holocaust". También es conocida como "Cementerio de los zombies" o "Dr. Butcher MD" entre otras denominaciones.
+[Holocausto zombie](https://es.wikipedia.org/wiki/Zombi_holocaust) es una película de producción italiana, grabada en 1980 y cuyo título original es "Zombi Holocaust". También es conocida como "Cementerio de los zombies" o "Dr. Butcher MD" entre otras denominaciones.
 
 La historia comienza en un hospital de los Estados Unidos donde se están dando extraños robos de miembros de cadáveres. Con la ayuda de un investigador local (Dr. Chandler), logran descubrir al responsable, un trabajador del hospital que se comía las partes robadas de los cuerpos. Se percatan igualmente de que el caso es similar a uno anterior, y lo más curioso en que en ambos, las personas que practicaban la antropofagia eran de las Islas Molucas (Indonesia).
 

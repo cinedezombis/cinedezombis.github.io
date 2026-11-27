@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Tokyo zombie](http://en.wikipedia.org/wiki/Tokyo_Zombie) es una película japonesa de zombis rodada en 2005 y basada en un manga. Su título original es "Tôkyô zonbi".
+[Tokyo zombie](https://en.wikipedia.org/wiki/Tokyo_Zombie) es una película japonesa de zombis rodada en 2005 y basada en un manga. Su título original es "Tôkyô zonbi".
 
 Dos amigos vaguetes y obsesionados con el jiu-jitsu matan a su superior cuando les llama la atención por practicar este arte marcial en la fábrica de extintores donde trabajan. El cadáver lo llevan hasta un vertedero donde, además de personas, parece que también se tiran desechos de todo tipo, precisamente por algún tipo de sustancia tóxica los muertos emergen de la tierra de aquel lugar. Los zombis -clásicos, lentos y con rostros verdosos- empiezan a matar y a contagiar por todo Tokyo.
 

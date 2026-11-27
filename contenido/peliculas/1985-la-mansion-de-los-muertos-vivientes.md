@@ -14,7 +14,7 @@ cartel_tamano:
 - 523
 ---
 
-[La mansión de los muertos vivientes](http://it.wikipedia.org/wiki/La_mansi%C3%B3n_de_los_muertos_vivientes) es una película española, escrita y dirigida por el prolífero Jesús Franco en 1985, aunque también es fechada en 1982. En inglés se le conoce como "Mansion of the living dead".
+[La mansión de los muertos vivientes](https://it.wikipedia.org/wiki/La_mansi%C3%B3n_de_los_muertos_vivientes) es una película española, escrita y dirigida por el prolífero Jesús Franco en 1985, aunque también es fechada en 1982. En inglés se le conoce como "Mansion of the living dead".
 
 La historia comienza con la llegada a un solitario hotel canario de cuatro amigas, muy liberales sexualmente, desde Alemania. Una vez allí conocen al misterioso dueño del hotel y a su único trabajador, un jardinero muy simpaticote. A partir de aquí empiezan a tener sexo entre ellas y a pasearse en pelotas de un sitio para otro del hotel.
 

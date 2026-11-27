@@ -14,7 +14,7 @@ cartel_tamano:
 - 621
 ---
 
-[Detention of the dead](http://en.wikipedia.org/wiki/Detention_of_the_Dead) es una comedia de zombis estadounidense estrenada en el año 2012 y ambientada en un instituto norteamericano.
+[Detention of the dead](https://en.wikipedia.org/wiki/Detention_of_the_Dead) es una comedia de zombis estadounidense estrenada en el año 2012 y ambientada en un instituto norteamericano.
 
 Eddie es un cerebrito cuya máxima aspiración es entrar en la universidad de Harvard... y por supuesto, un poquito friki. Sin embargo, ese día Eddie ha sido castigado por su profesora y se dirige a la sala de castigos del instituto donde estudia. Acompañándolo es el aula están dos deportistas malotes, la novia tonta-popular de uno de ellos, un colgado que trapichea con drogas y una chica gótica. En la sala se encuentra también otro estudiante con evidentes signos de estar enfermo, según cuenta, un vagabundo le mordió en la calle -¡oh! qué novedad- y... pim, pam, pum, en diez minutos ya estamos en mitad de un apocalipsis zombi con nuestro grupo de jóvenes supervivientes intentando no entrar en el menú de los muertos vivientes que comienzan a multiplicarse por su instituto.
 

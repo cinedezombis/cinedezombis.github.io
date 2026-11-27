@@ -16,7 +16,7 @@ cartel_tamano:
 - 450
 ---
 
-[Silent Night, Zombie Night](http://en.wikipedia.org/wiki/Silent_Night,_Zombie_Night) es una película estadounidense estrenada en 2009.
+[Silent Night, Zombie Night](https://en.wikipedia.org/wiki/Silent_Night,_Zombie_Night) es una película estadounidense estrenada en 2009.
 
 Nos situamos en Los Angeles, a tan sólo una semana de Navidad. Tras un par encuentros con zombis, una pareja de policías se percata de la gravedad de la situación y deciden, junto con la mujer de uno de ellos, atrincherarse en el apartamento de uno de los policías ante la rápida propagación de una extraña infección. Estos serán nuestros tres protagonistas principales que desarrollarán durante la filmación todo un triángulo amoroso donde el policía esposo de la mujer quiere recuperarla después haber tenido problemas, el compañero policía y mejor amigo está enamorado de esa misma mujer y ella no sabe muy bien qué hacer.
 

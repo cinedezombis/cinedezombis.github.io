@@ -14,7 +14,7 @@ cartel_tamano:
 - 650
 ---
 
-[Abraham Lincoln vs. zombies](http://en.wikipedia.org/wiki/Abraham_Lincoln_vs._Zombies) es una producción estadounidenses de 2012, con el presidente Lincoln como protagonista de esta mediocre filmación de The Asylum, [mockbuster](http://es.wikipedia.org/wiki/Mockbuster) de Abraham Lincoln: Cazador de vampiros.
+[Abraham Lincoln vs. zombies](https://en.wikipedia.org/wiki/Abraham_Lincoln_vs._Zombies) es una producción estadounidenses de 2012, con el presidente Lincoln como protagonista de esta mediocre filmación de The Asylum, [mockbuster](https://es.wikipedia.org/wiki/Mockbuster) de Abraham Lincoln: Cazador de vampiros.
 
 La película comienza con imágenes de cuando Abraham era pequeño, entonces, en medio de una infección zombi en su localidad, su madre fue contagiada (con una caracterización idéntica a "la niña del exorcista"). El propio niño se encargó de decapitar a su progenitora con una guadaña, convirtiéndose desde entonces en su arma fetiche.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Apocalipsis caníbal](http://es.wikipedia.org/wiki/Apocalipsis_can%C3%ADbal) es una producción hispano-italiana de 1980. Su título en italiano es "Virus" y en inglés se conoce como "Hell of the living dead", entre otras denominaciones.
+[Apocalipsis caníbal](https://es.wikipedia.org/wiki/Apocalipsis_can%C3%ADbal) es una producción hispano-italiana de 1980. Su título en italiano es "Virus" y en inglés se conoce como "Hell of the living dead", entre otras denominaciones.
 
 La película comienza con un incidente en una planta química situada en Papua Nueva Guinea que provoca una fuga de una sustancia tóxica que hace que los muertos vuelvan a la vida. Poco después, la acción se centra en un grupo de fuerzas especiales que está solucionando el secuestro de unos terroristas en una embajada americana en un lugar cercano.
 

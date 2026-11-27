@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[La tumba de los muertos vivientes](http://en.wikipedia.org/wiki/Oasis_of_the_Zombies), conocida en el contexto anglosajón como "Oasis of the zombies" es una producción francesa del año 1982 (también suele aparecer como de 1981 o 1983) dirigida por el prolífico director español Jesús Franco.
+[La tumba de los muertos vivientes](https://en.wikipedia.org/wiki/Oasis_of_the_Zombies), conocida en el contexto anglosajón como "Oasis of the zombies" es una producción francesa del año 1982 (también suele aparecer como de 1981 o 1983) dirigida por el prolífico director español Jesús Franco.
 
 La película comienza con algunas escenas intrascendentes para intentar -que no lo logra- hacer pasar un mal rato. Poco después ya comienza la historia en sí.
 

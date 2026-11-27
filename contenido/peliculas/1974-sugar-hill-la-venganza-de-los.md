@@ -16,7 +16,7 @@ cartel_tamano:
 - 423
 ---
 
-[Sugar Hill](http://en.wikipedia.org/wiki/Sugar_Hill_%281974_film%29), titulada en el contexto español "La venganza de los zombis" y también conocida como "Voodoo girl", es una película estadounidense de 1974, encuadrada en el movimiento [blaxploitation](http://es.wikipedia.org/wiki/Blaxploitation) y enfocada al levantamiento de muertos mediante el vudú para ejecutar un plan de venganza.
+[Sugar Hill](https://en.wikipedia.org/wiki/Sugar_Hill_%281974_film%29), titulada en el contexto español "La venganza de los zombis" y también conocida como "Voodoo girl", es una película estadounidense de 1974, encuadrada en el movimiento [blaxploitation](https://es.wikipedia.org/wiki/Blaxploitation) y enfocada al levantamiento de muertos mediante el vudú para ejecutar un plan de venganza.
 
 El novio de nuestra protagonista, Sugar Hill, es el dueño de un próspero local nocturno. Un mafioso de la ciudad envía a una panda de sus hombres para darle una brutal paliza al dueño del club, paliza que le acabará costando la muerte.
 

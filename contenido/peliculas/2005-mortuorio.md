@@ -14,7 +14,7 @@ cartel_tamano:
 - 450
 ---
 
-[Mortuorio](http://en.wikipedia.org/wiki/Mortuary_%282005_film%29), titulada originalmente "Mortuary", es una película de terror estadounidense dirigida por Tobe Hooper ("La matanza de Texas") y protagonizada por Denise Crosby ("[Cementerio de animales](zb:/2012/05/1989-cementerio-de-animales.html)").
+[Mortuorio](https://en.wikipedia.org/wiki/Mortuary_%282005_film%29), titulada originalmente "Mortuary", es una película de terror estadounidense dirigida por Tobe Hooper ("La matanza de Texas") y protagonizada por Denise Crosby ("[Cementerio de animales](zb:/2012/05/1989-cementerio-de-animales.html)").
 
 Una madre viuda con sus dos hijos, un chico adolescente y una niña pequeña, se trasladan hasta un pequeño pueblo para retomar la actividad en un mortuorio de la familia y comenzar de nuevo. La madre será la embalsamadora en aquella casa construida junto al cementerio y en estado ruinoso.
 

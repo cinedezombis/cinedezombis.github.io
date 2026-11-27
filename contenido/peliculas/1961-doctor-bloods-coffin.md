@@ -14,7 +14,7 @@ cartel_tamano:
 - 451
 ---
 
-[Doctor Blood's Coffin](http://en.wikipedia.org/wiki/Doctor_Blood%27s_Coffin) es una película producida en el Reino Unido en 1961 y dirigida por Sidney J. Furie. En español también es conocida como "Los experimentos del Doctor Blood".
+[Doctor Blood's Coffin](https://en.wikipedia.org/wiki/Doctor_Blood%27s_Coffin) es una película producida en el Reino Unido en 1961 y dirigida por Sidney J. Furie. En español también es conocida como "Los experimentos del Doctor Blood".
 
 Después de haber sido expulsado como investigador médico de la Universidad de Viena por sus experimentos poco éticos con humanos, el joven doctor Peter Blood decide regresar a su pueblo natal en Inglaterra buscando un lugar tranquilo donde continuar con sus oscuros experimentos. Su padre es el médico de aquella pequeña localidad y recoge orgulloso a su hijo ajeno totalmente a sus maléficos planes.
 

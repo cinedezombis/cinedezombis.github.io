@@ -14,7 +14,7 @@ cartel_tamano:
 - 442
 ---
 
-[Este muerto está muy vivo 2](http://en.wikipedia.org/wiki/Weekend_at_Bernie%27s_II), titulada de forma original como "Weekend at Bernie's II", es una comedia estadounidense filmada en 1993. Se trata de una secuela de "Este muerto está muy vivo" ("Weekend at Bernie's") de 1989, una película que nada tiene que ver con zombis.
+[Este muerto está muy vivo 2](https://en.wikipedia.org/wiki/Weekend_at_Bernie%27s_II), titulada de forma original como "Weekend at Bernie's II", es una comedia estadounidense filmada en 1993. Se trata de una secuela de "Este muerto está muy vivo" ("Weekend at Bernie's") de 1989, una película que nada tiene que ver con zombis.
 
 En la primera parte de la secuela se nos narra la historia de Bernie Lomax, un directivo de una gran empresa que pretendía hacer un desfalco, pero que fue descubierto por dos de sus trabajadores (Richard y Larry, nuestros protagonistas), aunque ellos solo se dan cuenta del boquete pero realmente no saben quién era el culpable. Para "agradecerles" el descubrimiento Bernie los invita un fin de semana a su casa de la playa donde pretende asesinarlos, pero el que termina muerto es él, y sus empleados deciden simular que todavía está vivo para no salir mal parados.
 

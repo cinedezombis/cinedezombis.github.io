@@ -14,7 +14,7 @@ cartel_tamano:
 - 445
 ---
 
-[El regreso del Doctor X](http://en.wikipedia.org/wiki/The_Return_of_Doctor_X) es una película producida en 1939 por Warner Brothers, titulada originalmente "The return of Doctor X" y conocida por ser la única grabación donde Humphrey Bogart protagoniza a un villano en una filmación de terror.
+[El regreso del Doctor X](https://en.wikipedia.org/wiki/The_Return_of_Doctor_X) es una película producida en 1939 por Warner Brothers, titulada originalmente "The return of Doctor X" y conocida por ser la única grabación donde Humphrey Bogart protagoniza a un villano en una filmación de terror.
 
 Walter, un simpático periodista, mantiene una cita en un hotel con una famosa actriz de teatro para realizarle una entrevista. Al acudir a su habitación, la encuentra aparentemente muerta, sin embargo, algo después cuando la policía registra el lugar no encuentra absolutamente nada, ni el cadáver ni sangre... nada. Para incrementar este misterio, al día siguiente aparece la propia actriz en la redacción del periódico de Walter amenazándoles con denunciarles, algo que provoca el inminente despido de nuestro graciosillo protagonista. Como consecuencia de todo esto, Walter se decide a visitar a un amigo médico para comentarle lo que le ha ocurrido.
 

@@ -16,7 +16,7 @@ cartel_tamano:
 - 798
 ---
 
-[Outpost](http://es.wikipedia.org/wiki/Outpost), conocida en español como "El búnker" es una película de terror producida en el Reino Unido en el año 2008 protagonizada por un grupo de mercenarios que lucha con un ejército de zombis nazis.
+[Outpost](https://es.wikipedia.org/wiki/Outpost), conocida en español como "El búnker" es una película de terror producida en el Reino Unido en el año 2008 protagonizada por un grupo de mercenarios que lucha con un ejército de zombis nazis.
 
 Un extraño personaje contrata a un grupo de mercenarios en un bar de Europa del Este. Estos mercenarios, cada uno de una parte del mundo, deberán protegerlo en una misión secreta en aquel lugar. El grupo de protagonistas se interna en un bosque y llega hasta un búnker aparentemente abandonado. Se trata de un antiguo búnker nazi donde, al parecer, se realizaban experimentos para lograr supersoldados alemanes.
 

@@ -15,7 +15,7 @@ cartel_tamano:
 - 500
 ---
 
-[Sexykiller, morirás por ella](http://es.wikipedia.org/wiki/Sexykiller,_morir%C3%A1s_por_ella) es una comedia española producida en 2008 donde se mezclan los zombis con una asesina en serie.
+[Sexykiller, morirás por ella](https://es.wikipedia.org/wiki/Sexykiller,_morir%C3%A1s_por_ella) es una comedia española producida en 2008 donde se mezclan los zombis con una asesina en serie.
 
 Bárbara (Macarena Gómez) es una chica que complementa sus estudios en una importante facultad de medicina con su actividad como asesina en serie. Esta "Sexykiller" -realmente una pija desequilibrada- no pierde la oportunidad para matar por placer a todo el que se le cruce por delante. Sin embargo, las sucesivas muertes que se van produciendo en el campus universitario ha hecho que la policía comience a buscar con ahínco al asesino. El perfil del posible psichokiller lo tienen claro: un hombre fuerte de mediana edad. Nuestra protagonista, a todo esto, sigue matando a compañeros de estudios de diversas formas y sin que la policía le haga ni puñetero caso.
 

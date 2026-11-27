@@ -14,7 +14,7 @@ cartel_tamano:
 - 819
 ---
 
-[La noche del terror ciego](http://es.wikipedia.org/wiki/La_noche_del_terror_ciego) es una producción hispano-lusa de 1972 (también fechada en 1971) dirigida por el director gallego Amando de Ossorio y que es el comienzo de la conocida como "saga de los templarios" o "saga de los templarios ciegos" que tanto reconocimiento, sobre todo internacional, le aportó al director español. En inglés se le conoce como "Tombs of the blind dead" y está basada en relatos de Gustavo Adolfo Bécquer.
+[La noche del terror ciego](https://es.wikipedia.org/wiki/La_noche_del_terror_ciego) es una producción hispano-lusa de 1972 (también fechada en 1971) dirigida por el director gallego Amando de Ossorio y que es el comienzo de la conocida como "saga de los templarios" o "saga de los templarios ciegos" que tanto reconocimiento, sobre todo internacional, le aportó al director español. En inglés se le conoce como "Tombs of the blind dead" y está basada en relatos de Gustavo Adolfo Bécquer.
 
 La película comienza con dos amigas de la infancia que deciden hacer un viaje al campo con el amigo de una de ellas. Durante el trayecto en un tren de vapor, una de las amigas se siente despechada porque el hombre quiere ligar con la otra, así que no se le ocurre otra cosa que tirarse del tren en movimiento (menos mal que iba a unos 5 km/h) y dirigirse hacia un poblado que había divisado en el horizonte. La pareja que sigue en el tren continúa el viaje hasta el hotel.
 

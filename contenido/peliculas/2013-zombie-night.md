@@ -14,7 +14,7 @@ cartel_tamano:
 - 720
 ---
 
-[Zombie night](http://en.wikipedia.org/wiki/Zombie_Night_%282013_film%29) es una película estadounidense realizada en 2013 directamente para la televisión sobre un ataque de muertos vivientes que dura una sola noche.
+[Zombie night](https://en.wikipedia.org/wiki/Zombie_Night_%282013_film%29) es una película estadounidense realizada en 2013 directamente para la televisión sobre un ataque de muertos vivientes que dura una sola noche.
 
 En mitad de un atasco, un padre y su hija adolescente se dan cuenta de que algo no va bien. La casualidad les lleva hasta el cementerio local y en ese lugar -el peor posible- descubren que los muertos están volviendo a la vida con ganas de comer carne humana, devorando, de hecho, a una amiga de nuestra joven protagonista que iba con ella en el coche. La historia también se centra en el resto de la familia, que espera y resiste como puede en el hogar a una situación que definitivamente se ha generalizado y se ha vuelto incontrolable.
 

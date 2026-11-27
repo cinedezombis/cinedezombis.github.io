@@ -16,7 +16,7 @@ cartel_tamano:
 - 390
 ---
 
-[The Rezort](http://www.imdb.com/title/tt3923662/) es una filmación de zombis coproducida entre Reino Unido, España y Bélgica que fue estrenada en 2015 y que trata sobre una isla donde se puede ir a cazar muertos vivientes en cautividad como si de un safari se tratase. En español se le conoce con el título de "Generación Z".
+[The Rezort](https://www.imdb.com/title/tt3923662/) es una filmación de zombis coproducida entre Reino Unido, España y Bélgica que fue estrenada en 2015 y que trata sobre una isla donde se puede ir a cazar muertos vivientes en cautividad como si de un safari se tratase. En español se le conoce con el título de "Generación Z".
 
 Hace diez años tuvo lugar una tremenda infección de un virus que mataba a las personas y los hacía volver de entre los muertos con ganas de sangre. Después de una brutal guerra y dos mil millones de muertos, se pudo controlar la situación y reconstruir un mundo que había quedado hecho cenizas. En la actualidad, solo queda un puñado de zombis mantenidos en un lujoso complejo isleño para el divertimento de los ricachones, un excéntrico negocio que permite tirotear muertos vivientes a los pocos que se lo pueden costear.
 

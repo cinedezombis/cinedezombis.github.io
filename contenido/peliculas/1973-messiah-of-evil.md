@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Messiah of evil](http://en.wikipedia.org/wiki/Messiah_of_Evil), también conocida como "Dead people", es una película producida en Estados Unidos en el año 1973. En español suele ser traducida como "Mesías del mal".
+[Messiah of evil](https://en.wikipedia.org/wiki/Messiah_of_Evil), también conocida como "Dead people", es una película producida en Estados Unidos en el año 1973. En español suele ser traducida como "Mesías del mal".
 
 La filmación comienza en lo que parece ser un psiquiátrico, donde una voz nos advierte de que todo lo que vivió es real y que no está loca. Esta voz es la de nuestra protagonista, Arletty, una joven que -ya centrándonos en la historia- se dirige hacia el costero pueblo de Point Dune, en California, donde reside su padre, ya que ha recibido varias cartas preocupantes y no responde a sus llamadas.
 

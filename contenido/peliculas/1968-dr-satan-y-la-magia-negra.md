@@ -14,7 +14,7 @@ cartel_tamano:
 - 390
 ---
 
-[Dr. Satán y la magia negra](http://www.imdb.com/title/tt0126877/) es una película mexicana producida en 1968. En inglés es conocida como "Dr. Satan versus black magic".
+[Dr. Satán y la magia negra](https://www.imdb.com/title/tt0126877/) es una película mexicana producida en 1968. En inglés es conocida como "Dr. Satan versus black magic".
 
 El Dr. Satán es enviado al mundo de los vivos por su amo, el Rey Diablo, que le encomienda la misión de eliminar a su archienemigo Yei Lin que se dispone a robar la fórmula Sorensen -una especie de piedra filosofal que puede convertir metales sin valor en oro-.
 

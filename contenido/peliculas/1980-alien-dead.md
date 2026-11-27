@@ -14,7 +14,7 @@ cartel_tamano:
 - 384
 ---
 
-[Alied Dead](http://en.wikipedia.org/wiki/Alien_Dead) es una película estadounidense producida en 1980 que gira en torno a una infección zombi producida por elementos extraterrestres.
+[Alied Dead](https://en.wikipedia.org/wiki/Alien_Dead) es una película estadounidense producida en 1980 que gira en torno a una infección zombi producida por elementos extraterrestres.
 
 La trama se desarrolla en un pueblo rural en el sur de los Estados Unidos, donde una mujer desaparece en extrañas circunstancias en la zona pantanosa del pueblo. Inmediatamente, un periodista del periódico local -que será el protagonista del film- comienza a investigar sobre lo sucedido sin que el sheriff del municipio le sirva de demasiada ayuda.
 

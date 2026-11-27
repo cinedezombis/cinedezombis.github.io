@@ -14,7 +14,7 @@ cartel_tamano:
 - 475
 ---
 
-[El hombre del cerebro sintético](http://en.wikipedia.org/wiki/Blood_of_Ghastly_Horror), titulada originalmente "Blood of ghastly horror" y conocida también como "Psycho A-Go-Go", es una película estadounidense de 1972.
+[El hombre del cerebro sintético](https://en.wikipedia.org/wiki/Blood_of_Ghastly_Horror), titulada originalmente "Blood of ghastly horror" y conocida también como "Psycho A-Go-Go", es una película estadounidense de 1972.
 
 Un joven herido en la guerra de Vietnam es intervenido por un doctor -John Carradine- que prueba con él un cerebro sintético con el fin de que no pierda funciones cerebrales, sin embargo, este implante convierte al joven en un psicópata violento, de hecho, terminará asesinado al propio científico.
 

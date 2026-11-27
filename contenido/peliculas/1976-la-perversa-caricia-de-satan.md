@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[La perversa caricia de satán](http://www.imdb.com/title/tt0070526/) es una película de terror fruto de una producción conjunta entre España, Francia y Andorra que fue estrenada en 1976. En inglés es conocida como "Devil's Kiss".
+[La perversa caricia de satán](https://www.imdb.com/title/tt0070526/) es una película de terror fruto de una producción conjunta entre España, Francia y Andorra que fue estrenada en 1976. En inglés es conocida como "Devil's Kiss".
 
 Clair es la viuda de un aristócrata que se suicidó tiempo atrás que se encuentra ahora muy ligada al ocultismo y al satanismo. El Duque de Haussemont invita a Clair y a su ayudante el profesor Gruber -afamado telépata y también científico- a su castillo para que realicen una demostración de sesión espiritista a sus distinguidos invitados en una de sus fiestas. Tras varios extraños sucesos durante la sesión, el duque se queda sorprendido por el poder de Clair y le pide que se quede junto con el profesor Gruber un tiempo en su castillo donde le facilitará todo lo necesario para sus investigaciones con el más allá con la condición de que les revelen todos los secretos que conocen. La pareja acepta la invitación.
 

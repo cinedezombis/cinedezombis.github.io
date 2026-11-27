@@ -16,7 +16,7 @@ cartel_tamano:
 - 600
 ---
 
-[El regreso de los muertos vivientes 4: Necropolis](http://en.wikipedia.org/wiki/Return_of_the_Living_Dead:_Necropolis) es una película rodada para televisión en 2005 y que representa la cuarta entrega de esta prolífera saga después de "[El regreso de los muertos vivientes](zb:/2012/04/1985-el-regreso-de-los-muertos.html)" de 1985, "[El regreso de los muertos vivientes 2](zb:/2012/04/1988-el-regreso-de-los-muertos.html)" de 1988 y "[El regreso de los muertos vivientes](zb:/2012/04/1993-el-regreso-de-los-muertos.html) [3](zb:/2012/04/1993-el-regreso-de-los-muertos.html)" de 1993.
+[El regreso de los muertos vivientes 4: Necropolis](https://en.wikipedia.org/wiki/Return_of_the_Living_Dead:_Necropolis) es una película rodada para televisión en 2005 y que representa la cuarta entrega de esta prolífera saga después de "[El regreso de los muertos vivientes](zb:/2012/04/1985-el-regreso-de-los-muertos.html)" de 1985, "[El regreso de los muertos vivientes 2](zb:/2012/04/1988-el-regreso-de-los-muertos.html)" de 1988 y "[El regreso de los muertos vivientes](zb:/2012/04/1993-el-regreso-de-los-muertos.html) [3](zb:/2012/04/1993-el-regreso-de-los-muertos.html)" de 1993.
 
 Estamos en un mundo altamente influenciado por la compañía química Hybra Tech, compañía que no solo hace alimentos, sino que se encarga de mantener a raya las infecciones zombis. Hace al menos 10 años que no han existido problemas con los célebres bidones de Trioxin, sin embargo, un investigador sin escrúpulos de la corporación se hace con varios barriles de esta sustancia revividora ni más ni menos que en Chernóbil.
 

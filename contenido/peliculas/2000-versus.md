@@ -14,7 +14,7 @@ cartel_tamano:
 - 444
 ---
 
-[Versus](http://en.wikipedia.org/wiki/Versus_%28film%29) es una película independiente de zombis que fue producida en Japón en el año 2000.
+[Versus](https://en.wikipedia.org/wiki/Versus_%28film%29) es una película independiente de zombis que fue producida en Japón en el año 2000.
 
 Según nos avisa en la introducción, existen 666 portales que conectan este mundo con el otro lado aunque siempre han sido invisibles para los ojos de los humanos. En Japón, concretamente en el Bosque de la Resurrección, está la puerta 444. Posteriormente, en unas escenas introductorias nos muestran un samurái cientos de años atrás eliminando con su katana a varios muertos vivientes hasta que otro samurái lo asesina y una extraña figura aparece en el fondo.
 

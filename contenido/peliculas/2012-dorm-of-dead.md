@@ -14,7 +14,7 @@ cartel_tamano:
 - 400
 ---
 
-[Dorm of the dead](http://www.imdb.com/title/tt1477704/) es una película de bajo presupuesto de zombis realizada en Estados Unidos y estrenada en 2012.
+[Dorm of the dead](https://www.imdb.com/title/tt1477704/) es una película de bajo presupuesto de zombis realizada en Estados Unidos y estrenada en 2012.
 
 Nos situamos en un campus universitario estadounidense. Después del periodo de vacaciones de primavera, los estudiantes parece que se han contagiado de una extraña infección que pronto desembocará en todo un apocalipsis zombi. A todo esto, a nuestro protagonista Will, todo un fiestero irresponsable, le ha caído el marrón de tener que cuidar de su hermano adolescente.
 

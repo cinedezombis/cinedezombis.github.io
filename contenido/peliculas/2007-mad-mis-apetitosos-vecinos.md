@@ -16,7 +16,7 @@ cartel_tamano:
 - 430
 ---
 
-[The mad](http://en.wikipedia.org/wiki/The_Mad_%28film%29) es una comedia de zombis de producción conjunta entre Canadá y Estados Unidos distribuida en 2007. "The mad" cuya traducción podría ser literalmente "Los locos" se conoce en España, incomprensiblemente, como "Mis apetitosos vecinos".
+[The mad](https://en.wikipedia.org/wiki/The_Mad_%28film%29) es una comedia de zombis de producción conjunta entre Canadá y Estados Unidos distribuida en 2007. "The mad" cuya traducción podría ser literalmente "Los locos" se conoce en España, incomprensiblemente, como "Mis apetitosos vecinos".
 
 Un doctor -encarnado por Billy Zane, el malo de Titanic ahora calvo- y su hija se disponen a pasar un fin de semana fuera con sus correspondientes parejas. Durante su viaje en coche hacen una parada en un "Bead & Breakfast" en un pueblo perdido. Una vez en el restaurante, comienzan a enfermar algunos clientes que había comido hamburguesas, convirtiéndose rápidamente en zombis asesinos.
 

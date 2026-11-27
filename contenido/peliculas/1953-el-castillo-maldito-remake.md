@@ -16,7 +16,7 @@ cartel_tamano:
 - 448
 ---
 
-[El castillo maldito](http://es.wikipedia.org/wiki/El_castillo_maldito_%28pel%C3%ADcula%29), titulada originalmente "Scared stiff", es una película estadounidense rodada en 1953 y que se trata de una nueva adaptación de "[The ghost breakers](zb:/2012/08/1940-el-castillo-maldito.html)" grabada en 1940 con la que comparte director y guionista. La producción también es conocida en español como "Una herencia de miedo" y es protagonizada por el dúo cómico compuesto por Dean Martin y Jerry Lewis.
+[El castillo maldito](https://es.wikipedia.org/wiki/El_castillo_maldito_%28pel%C3%ADcula%29), titulada originalmente "Scared stiff", es una película estadounidense rodada en 1953 y que se trata de una nueva adaptación de "[The ghost breakers](zb:/2012/08/1940-el-castillo-maldito.html)" grabada en 1940 con la que comparte director y guionista. La producción también es conocida en español como "Una herencia de miedo" y es protagonizada por el dúo cómico compuesto por Dean Martin y Jerry Lewis.
 
 La historia de la película es básicamente la misma de la anterior adaptación de 1940, sólo que ahora dura 20 minutos más por los números musicales y humorísticos de la pareja protagonista. De hecho, ahora el galán será cantante -Dean Martin-, no locutor de radio, y la parte más cómica la pondrá su torpe y gran amigo de toda la vida -Jerry Lewis- en vez del sirviente como en la versión de una década más atrás.
 

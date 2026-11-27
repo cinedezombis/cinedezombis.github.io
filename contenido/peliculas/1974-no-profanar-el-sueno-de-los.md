@@ -14,7 +14,7 @@ cartel_tamano:
 - 566
 ---
 
-[No profanar el sueño de los muertos](http://es.wikipedia.org/wiki/No_profanar_el_sue%C3%B1o_de_los_muertos) es una producción italiana de 1974 cuyo título original es "Non si debe profanare il sonno dei morti" y con la dirección del español Jorge Grau. La película está ambientada en Inglaterra, por ello, se le conoce en inglés como "The Living Dead at Manchester Morgue", es decir, los muertos vivientes en la morgue de Manchester.
+[No profanar el sueño de los muertos](https://es.wikipedia.org/wiki/No_profanar_el_sue%C3%B1o_de_los_muertos) es una producción italiana de 1974 cuyo título original es "Non si debe profanare il sonno dei morti" y con la dirección del español Jorge Grau. La película está ambientada en Inglaterra, por ello, se le conoce en inglés como "The Living Dead at Manchester Morgue", es decir, los muertos vivientes en la morgue de Manchester.
 
 Un joven anticuario (George) se dirige a las afueras de Manchester para disfrutar de unas vacaciones en su moto. Tras un fortuito accidente, conoce a Edna, una joven que va a visitar a su hermana que vive en la zona. Edna deja la moto de George inservible y continúan el trayecto juntos, aunque George nunca llegará a su original destino de descanso.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 359
 ---
 
-[En las puertas del infierno](http://www.imdb.com/title/tt0097498/), cuyo título original es "Hellgate", es una filmación producida en Estados Unidos en 1989 sobre un pueblo maldito que está protagonizada por Ron Palillo.
+[En las puertas del infierno](https://www.imdb.com/title/tt0097498/), cuyo título original es "Hellgate", es una filmación producida en Estados Unidos en 1989 sobre un pueblo maldito que está protagonizada por Ron Palillo.
 
 Hace años en un pueblecito perdido, una panda de moteros llegaron y asesinaron brutalmente a una joven inocente. Poco después de aquello, un empleado del padre de la joven -dueño de una mina de oro-, encontró un extraño cristal que resultó tener el poder mágico de revivir a los muertos y provocar mutaciones en los cuerpos vivos. El padre utilizó el cristal para levantar de la tumba a su hija y, desde entonces, la leyenda cuenta que esta muchacha zombi se dedica a seducir y matar a todos los forasteros que por allí se acercan.
 

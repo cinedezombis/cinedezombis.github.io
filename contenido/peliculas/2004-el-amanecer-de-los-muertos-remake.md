@@ -16,7 +16,7 @@ cartel_tamano:
 - 755
 ---
 
-[El amanecer de los muertos](http://es.wikipedia.org/wiki/Dawn_of_the_dead_%28pel%C3%ADcula_de_2004%29) de 2004, titulada originalmente "Dawn of the dead" y conocida también, simplemente como "Amanecer de los muertos", es un remake de la [película homónima](zb:/2012/04/1978-el-amanecer-de-los-muertos.html) de 1978 que fue escrita y dirigida por George A. Romero. Aunque se trate de un remake, esta nueva versión aporta muchos elementos innovadores con respecto a la original, siendo realmente el único nexo claro de unión, el protagonismo de un centro comercial como lugar para resguardarse en un apocalipsis zombi.
+[El amanecer de los muertos](https://es.wikipedia.org/wiki/Dawn_of_the_dead_%28pel%C3%ADcula_de_2004%29) de 2004, titulada originalmente "Dawn of the dead" y conocida también, simplemente como "Amanecer de los muertos", es un remake de la [película homónima](zb:/2012/04/1978-el-amanecer-de-los-muertos.html) de 1978 que fue escrita y dirigida por George A. Romero. Aunque se trate de un remake, esta nueva versión aporta muchos elementos innovadores con respecto a la original, siendo realmente el único nexo claro de unión, el protagonismo de un centro comercial como lugar para resguardarse en un apocalipsis zombi.
 
 La historia comienza centrada en Ana, una enfermera que después de una noche aparentemente normal en su casa con su novio, es testigo en primera persona del amanecer de los muertos. Ana huye de su casa, escapando de su propio novio convertido en zombi. En una sociedad que empieza a sumirse en el caos, se encuentra con un policía y a continuación con un carismático vendedor de televisores -siendo éste el trío protagonista- acompañado por una pareja cuya mujer está embarazada.
 

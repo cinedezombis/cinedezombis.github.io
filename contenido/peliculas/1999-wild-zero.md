@@ -14,7 +14,7 @@ cartel_tamano:
 - 376
 ---
 
-[Wild Zero](http://en.wikipedia.org/wiki/Wild_Zero) es una película producida en Japón en 1999 protagonizada por el grupo musical nipón Guitar Wolf. También se puede encontrar fechada en el año 2000, ya que fue en ese año cuando se proyectó en el Festival Internacional de Cine de Toronto.
+[Wild Zero](https://en.wikipedia.org/wiki/Wild_Zero) es una película producida en Japón en 1999 protagonizada por el grupo musical nipón Guitar Wolf. También se puede encontrar fechada en el año 2000, ya que fue en ese año cuando se proyectó en el Festival Internacional de Cine de Toronto.
 
 La radio anuncia que ha caído un meteorito en una localidad japonesa. No solo eso, también se ven merodear la tierra numerosas naves espaciales. Ace, nuestro protagonista, es ajeno a todo esto, a él solo le importa su grupo de música punk favorito: Guitar Wolf.
 

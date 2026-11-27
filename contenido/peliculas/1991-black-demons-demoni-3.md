@@ -16,7 +16,7 @@ cartel_tamano:
 - 470
 ---
 
-[Black demons](http://en.wikipedia.org/wiki/D%C3%A8moni_3), conocida también como "Demoni 3" o "Demons 3" es una película italiana de zombis de 1991, a la que para aprovechar el tirón de "Demons" se le puso un engañoso título como si fuera una tercera parte de la saga de demonios con la que no guarda ninguna relación.
+[Black demons](https://en.wikipedia.org/wiki/D%C3%A8moni_3), conocida también como "Demoni 3" o "Demons 3" es una película italiana de zombis de 1991, a la que para aprovechar el tirón de "Demons" se le puso un engañoso título como si fuera una tercera parte de la saga de demonios con la que no guarda ninguna relación.
 
 La historia nos sitúa en Brasil, allí una joven estadounidense, junto con su hermano mayor y su novio inglés pasan unas vacaciones. El hermano, una persona muy rarita y reservada, muestra un especial interés por la magia negra y desea iniciarse en los ritos de vudú. Efectivamente, al poco tiempo logra asistir a una ceremonia con su grabadora de audio, quedando preso de una ancestral maldición.
 

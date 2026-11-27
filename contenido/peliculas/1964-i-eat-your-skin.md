@@ -14,7 +14,7 @@ cartel_tamano:
 - 474
 ---
 
-[I eat your skin](http://en.wikipedia.org/wiki/I_Eat_Your_Skin) es una película grabada en Estados Unidos en 1964 bajo el título original "Zombies". La cinta se quedó en un cajón durante seis años, cuando le cambian la denominación y la distribuyen en programa doble junto "I drink your blood", película de infectados de 1970 que nada tiene que ver con esta. Este trabajo también es conocido como "Zombie bloodbath" y "Voodoo blood bath".
+[I eat your skin](https://en.wikipedia.org/wiki/I_Eat_Your_Skin) es una película grabada en Estados Unidos en 1964 bajo el título original "Zombies". La cinta se quedó en un cajón durante seis años, cuando le cambian la denominación y la distribuyen en programa doble junto "I drink your blood", película de infectados de 1970 que nada tiene que ver con esta. Este trabajo también es conocido como "Zombie bloodbath" y "Voodoo blood bath".
 
 Tom Harris es un escritor apuesto y mujeriego que es invitado -u obligado más bien- por su agente a realizar una viaje hasta la "Isla del Vudú", un lugar tropical donde se llevan a cabo viejos ritos de magia negra y donde confía que tendrá oportunidad para coger ideas para su obra y desarrollar su creatividad. Tom, junto al agente y la esposa de éste se desplazan hasta esa misteriosa isla, donde según parece también se está desarrollando una investigación sobre el cáncer.
 

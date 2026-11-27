@@ -16,7 +16,7 @@ cartel_tamano:
 - 359
 ---
 
-[La noche de los muertos vivientes 3D: Re-Animation](http://en.wikipedia.org/wiki/Night_of_the_Living_Dead_3D:_Re-Animation), titulada originalmente "Night of the Living Dead 3D: Re-Animation", es una película estadounidense filmada en 2012 y que supone la precuela del remake de 2006 "[Night of the Living Dead 3D](zb:/2013/01/2006-la-noche-de-los-muertos-vivientes.html)".
+[La noche de los muertos vivientes 3D: Re-Animation](https://en.wikipedia.org/wiki/Night_of_the_Living_Dead_3D:_Re-Animation), titulada originalmente "Night of the Living Dead 3D: Re-Animation", es una película estadounidense filmada en 2012 y que supone la precuela del remake de 2006 "[Night of the Living Dead 3D](zb:/2013/01/2006-la-noche-de-los-muertos-vivientes.html)".
 
 La película nos remonta al origen de lo narrado en 2006, Gerald Tovar acaba de recibir en herencia la funeraria familiar. Gerald, con fobia al fuego, ha dejado de utilizar el crematorio de la morgue y los cadáveres se amontonan en una sala que mantiene cerrada a cal y canto. Por otro lado, el padre de Gerald tenía un acuerdo con algunas compañías para deshacerse de residuos médicos y hace dos semanas llegaron con una extraña sustancia que está reanimando los cuerpos fallecidos, muy poco a poco, por lo que por el momento no está teniendo especiales dificultades para tener la situación bajo control.
 

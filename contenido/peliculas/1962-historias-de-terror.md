@@ -14,7 +14,7 @@ cartel_tamano:
 - 448
 ---
 
-[Historias de Terror](http://es.wikipedia.org/wiki/Tales_of_Terror) es una película estadounidense fragmentada en tres historias de terror basadas en los relatos del escritor Edgar Allan Poe. Su título original es "Tales of Terror" y también es conocida como "Cuentos de Terror".
+[Historias de Terror](https://es.wikipedia.org/wiki/Tales_of_Terror) es una película estadounidense fragmentada en tres historias de terror basadas en los relatos del escritor Edgar Allan Poe. Su título original es "Tales of Terror" y también es conocida como "Cuentos de Terror".
 
 Como hacemos en estos casos, nos centraremos en la historia donde aparece, en esta ocasión, un único muerto viviente que se denomina "La verdad del caso del señor Valdemar".
 

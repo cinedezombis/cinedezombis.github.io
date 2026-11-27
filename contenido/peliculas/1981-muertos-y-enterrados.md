@@ -14,7 +14,7 @@ cartel_tamano:
 - 500
 ---
 
-[Muertos y enterrados](http://es.wikipedia.org/wiki/Muertos_y_enterrados), cuyo título original es "Dead & Buried" es una película estadounidense de 1981 de los mismos creadores de "Alien".
+[Muertos y enterrados](https://es.wikipedia.org/wiki/Muertos_y_enterrados), cuyo título original es "Dead & Buried" es una película estadounidense de 1981 de los mismos creadores de "Alien".
 
 En esta ocasión volvemos a la temática de las películas de zombis de la primera época, aquellas donde se crean los zombis mediante la magia negra y el vudú.
 

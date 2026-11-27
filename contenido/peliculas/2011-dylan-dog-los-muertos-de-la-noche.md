@@ -16,7 +16,7 @@ cartel_tamano:
 - 814
 ---
 
-[Dylan Dog: Los muertos de la noche](http://es.wikipedia.org/wiki/Dylan_Dog:_Dead_of_Night) es una película estadounidense, cuyo título original es "Dylan Dog: Dead of night", grabada en 2011 y que está basada en el cómic italiano "Dylan Dog" creado por Tiziano Sclavi.
+[Dylan Dog: Los muertos de la noche](https://es.wikipedia.org/wiki/Dylan_Dog:_Dead_of_Night) es una película estadounidense, cuyo título original es "Dylan Dog: Dead of night", grabada en 2011 y que está basada en el cómic italiano "Dylan Dog" creado por Tiziano Sclavi.
 
 Dylan Dog es un detective privado con un misterioso pasado que desarrolla su actividad en Nueva Orleans. Después de una anterior etapa gloriosa, Dylan se conforma ahora con investigar, junto con su ayudante Marcus, casos de poca monta. Un día un extraño asesinato se cruza en su camino. Un hombre que se dedicaba a la importación ha sido asesinado por una criatura desconocida. La hija del hombre fallecido, Elizabeth, pide ayuda a nuestro protagonista, con el fin de que pueda ayudarla ante la incredulidad de las autoridades.
 

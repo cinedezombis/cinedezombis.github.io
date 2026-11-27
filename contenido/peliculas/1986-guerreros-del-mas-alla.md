@@ -14,7 +14,7 @@ cartel_tamano:
 - 425
 ---
 
-[Guerreros del más allá](http://en.wikipedia.org/wiki/Raiders_of_the_Living_Dead), titulada originalmente como "Raiders of the living dead", es una película de zombis producida en Estados Unidos en 1986.
+[Guerreros del más allá](https://en.wikipedia.org/wiki/Raiders_of_the_Living_Dead), titulada originalmente como "Raiders of the living dead", es una película de zombis producida en Estados Unidos en 1986.
 
 Un reportero se desplaza hasta un pequeño pueblo para investigar algunos extraños sucesos que parecen estar ocurriendo en la prisión abandonada de una pequeña isla cercana. Desde que comienza a merodear por allí, lo que parecen ser muertos vivientes le persiguen insistentemente para acabar con él. Pronto se da cuenta de que su vida está en serio peligro si sigue con el reportaje, sin embargo, con la historia de unos muertos que le persiguen la policía nunca le creería.
 

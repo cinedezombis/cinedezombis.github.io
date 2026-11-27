@@ -14,7 +14,7 @@ cartel_tamano:
 - 640
 ---
 
-[Los ojos del diablo](http://en.wikipedia.org/wiki/Two_Evil_Eyes) es una película estadounidense que adapta a la gran pantalla dos relatos del escritor Edgar Allan Poe. Filmada en 1990 y conocida originalmente como "Two evil eyes" está dirigida por George A. Romero y Dario Argento que ya trabajaron juntos en la magnífica grabación "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)" en 1978.
+[Los ojos del diablo](https://en.wikipedia.org/wiki/Two_Evil_Eyes) es una película estadounidense que adapta a la gran pantalla dos relatos del escritor Edgar Allan Poe. Filmada en 1990 y conocida originalmente como "Two evil eyes" está dirigida por George A. Romero y Dario Argento que ya trabajaron juntos en la magnífica grabación "[El amanecer de los muertos](zb:/2012/04/1978-el-amanecer-de-los-muertos.html)" en 1978.
 
 La primera de las historias es la dirigida por Romero, titulada "La verdad sobre el caso del Sr. Valdemar" ("The Facts in the Case of M. Valdemar"), y donde podemos encontrar, como no podía ser de otra forma, a los muertos vivientes de la grabación.
 

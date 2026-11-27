@@ -14,7 +14,7 @@ cartel_tamano:
 - 383
 ---
 
-[El regreso de los muertos vivientes 2](http://es.wikipedia.org/wiki/Return_of_the_Living_Dead_Part_II) es una película estadounidense de 1988, secuela de la clásica "[El regreso de los muertos vivientes](zb:/2012/04/1985-el-regreso-de-los-muertos.html)" grabada tres años antes. El título original del film es "Return of the Living Dead Part II" y en España también es conocida como "La divertida noche de los zombies".
+[El regreso de los muertos vivientes 2](https://es.wikipedia.org/wiki/Return_of_the_Living_Dead_Part_II) es una película estadounidense de 1988, secuela de la clásica "[El regreso de los muertos vivientes](zb:/2012/04/1985-el-regreso-de-los-muertos.html)" grabada tres años antes. El título original del film es "Return of the Living Dead Part II" y en España también es conocida como "La divertida noche de los zombies".
 
 En esta ocasión, la historia comienza con el traslado de los bidones de la sustancia "Trioxin" por parte de una caravana militar. Como era de esperar, uno de los bidones termina en el río de un pequeño pueblo. El barril lo abren dos jóvenes gamberretes de la zona y el gas tóxico reanimador de muertos los intoxica y contamina el cementerio cercano, filtrándose (como en la película anterior) gracias a la lluvia y produciendo el levantamiento de los muertos, aunque de forma mucho más controlada y menos espectacular que en la primera parte, aunque con muchas más notas de humor.
 

@@ -14,7 +14,7 @@ cartel_tamano:
 - 407
 ---
 
-[Más allá del terror](http://www.imdb.com/title/tt0081193/) es una película española grabada en 1980 y conocida en inglés como "Further than fear". Una miscelánea muy macarra de terror que es una auténtica rareza.
+[Más allá del terror](https://www.imdb.com/title/tt0081193/) es una película española grabada en 1980 y conocida en inglés como "Further than fear". Una miscelánea muy macarra de terror que es una auténtica rareza.
 
 Unos pandilleros muy malotes deciden ir a pegar un golpe a un bar. Pistola en mano, atracan el negocio y roban a sus clientes, no obstante, todo se tuerce cuando hace aparición una pareja de policías. Se inicia un tiroteo y los dos policías mueren junto con un componente de la banda. Los tres pandilleros que quedan -dos hombres y una mujer- terminan asesinando a sangre fría a todos los clientes del bar y huyen tomando a una pareja como rehenes.
 
