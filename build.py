@@ -190,11 +190,24 @@ def preparar_imagenes():
             p["cartel"], p["cartel_tamano"] = f"{base}.jpg", list(grande.size)
 
 
+def preparar_cubierta():
+    """Miniatura de la cubierta del libro para el pie de página."""
+    portada = RAIZ / "libro" / "portada.png"
+    if not LIBRO or not portada.exists():
+        return
+    from PIL import Image
+    imagen = Image.open(portada).convert("RGB")
+    imagen.thumbnail((200, 320))
+    imagen.save(SALIDA / "img" / "libro-cubierta.jpg", "JPEG", quality=82, optimize=True)
+    LIBRO["cubierta"], LIBRO["cubierta_tamano"] = "libro-cubierta.jpg", imagen.size
+
+
 def construir():
     if SALIDA.exists():
         shutil.rmtree(SALIDA)
     shutil.copytree(RAIZ / "estatico", SALIDA)
     preparar_imagenes()
+    preparar_cubierta()
 
     escribir("index.html", "inicio.html", seccion="atlas", columnas=COLUMNAS, decadas=DECADAS, max_por_anio=MAX_POR_ANIO,
              titulo_pagina=f"Atlas del cine de zombis ({PELICULAS[0]['anio']}–{ANIO_MAX})",

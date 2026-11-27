@@ -34,10 +34,30 @@
 </main>
 <footer class="pie">
   {% if libro %}
-  <p class="pie-libro">Las reseñas publicadas en ZombisBlog entre 2012 y 2016 están también en forma de libro: descárgalo en
-    {% if libro.pdf %}<a href="{{ raiz }}libro/{{ libro.pdf }}">PDF ({{ libro.pdf_mb|string|replace('.', ',') }} MB)</a>{% endif %}{% if libro.pdf and libro.epub %} o en {% endif %}{% if libro.epub %}<a href="{{ raiz }}libro/{{ libro.epub }}">EPUB ({{ libro.epub_mb|string|replace('.', ',') }} MB)</a>{% endif %}.</p>
+  <section class="pie-libro" aria-labelledby="pie-libro-titulo">
+    {% if libro.cubierta %}<a class="pie-cubierta" href="{{ raiz }}libro/{{ libro.pdf or libro.epub }}" tabindex="-1" aria-hidden="true"><img src="{{ raiz }}img/{{ libro.cubierta }}" width="{{ (libro.cubierta_tamano[0] / 2)|int }}" height="{{ (libro.cubierta_tamano[1] / 2)|int }}" alt="" loading="lazy"></a>{% endif %}
+    <div>
+      <h2 id="pie-libro-titulo">El libro</h2>
+      <p>Las reseñas publicadas en ZombisBlog entre 2012 y 2016 están también en forma de libro, con la misma licencia libre.</p>
+      <p class="pie-descargas">{% if libro.pdf %}<a href="{{ raiz }}libro/{{ libro.pdf }}">Descargar en PDF <span>{{ libro.pdf_mb|string|replace('.', ',') }} MB</span></a>{% endif %}{% if libro.epub %}<a href="{{ raiz }}libro/{{ libro.epub }}">Descargar en EPUB <span>{{ libro.epub_mb|string|replace('.', ',') }} MB</span></a>{% endif %}</p>
+    </div>
+  </section>
   {% endif %}
-  <p>Textos de Miguel Ángel Gómez Ruiz, publicados originalmente en el blog ZombisBlog entre 2012 y 2016, con licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" rel="license">CC BY-NC-SA 4.0</a>. Los carteles pertenecen a sus titulares y se reproducen solo para identificar cada película.</p>
+  <nav class="pie-secciones" aria-labelledby="pie-secciones-titulo">
+    <h2 id="pie-secciones-titulo">El atlas</h2>
+    <ul>
+      <li><a href="{{ raiz }}index.html">Atlas</a></li>
+      <li><a href="{{ raiz }}p/peliculas-comentadas.html">Índice A–Z</a></li>
+      <li><a href="{{ raiz }}p/las-mejores.html">Mejor valoradas</a></li>
+      <li><a href="{{ raiz }}p/sagas.html">Sagas y remakes</a></li>
+      <li><a href="{{ raiz }}p/los-zombis.html">Sobre el atlas</a></li>
+    </ul>
+  </nav>
+  <section class="pie-creditos" aria-labelledby="pie-creditos-titulo">
+    <h2 id="pie-creditos-titulo">Licencia</h2>
+    <p>Textos de Miguel Ángel Gómez Ruiz, publicados originalmente en el blog ZombisBlog entre 2012 y 2016, con licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" rel="license">CC BY-NC-SA 4.0</a>.</p>
+    <p>Los carteles pertenecen a sus titulares y se reproducen solo para identificar cada película.</p>
+  </section>
 </footer>
 <svg class="simbolos" aria-hidden="true" focusable="false">
   <symbol id="mancha" viewBox="0 0 24 24">
