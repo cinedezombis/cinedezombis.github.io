@@ -1,0 +1,134 @@
+\documentclass[10pt,twoside,openany]{book}
+\usepackage[paperwidth=150mm,paperheight=230mm,inner=19mm,outer=16mm,top=19mm,bottom=22mm,headsep=6mm,footskip=10mm]{geometry}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{spanish}
+\gappto\captionsspanish{\renewcommand{\contentsname}{Índice}}
+\setmainfont{Literata-Regular.ttf}[
+  Path=fuentes/, BoldFont=Literata-Bold.ttf, ItalicFont=Literata-Italic.ttf,
+  BoldItalicFont=Literata-BoldItalic.ttf, Numbers=OldStyle, Ligatures=TeX]
+\newfontfamily\display{BigShouldersDisplay-ExtraBold.ttf}[Path=fuentes/, Numbers=Lining, Ligatures=TeX]
+\newfontfamily\displaymedia{BigShouldersDisplay-Bold.ttf}[Path=fuentes/, Numbers=Lining, Ligatures=TeX]
+\linespread{1.1}
+\setlength{\parindent}{1.1em}
+\setlength{\parskip}{0pt}
+\usepackage{microtype}
+\usepackage{xcolor}
+\definecolor{tinta}{HTML}{18201C}
+\definecolor{liquen}{HTML}{9AA593}
+\definecolor{formol}{HTML}{56645A}
+\definecolor{sangre}{HTML}{8A1A12}
+\color{tinta}
+\usepackage{graphicx}
+\graphicspath{{img/}}
+\usepackage{pdfpages}
+\usepackage{needspace}
+\usepackage{multicol}
+\usepackage{enumitem}
+\setlist[itemize]{label={},leftmargin=0pt,itemsep=1pt,topsep=4pt}
+\usepackage{titlesec}
+\titleformat{\chapter}[display]{\display\fontsize{30}{31}\selectfont\raggedright}{}{0pt}{}
+\titlespacing*{\chapter}{0pt}{18mm}{8mm}
+\titleformat{\section}{\display\fontsize{15}{17}\selectfont\raggedright}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1.6\baselineskip plus .4\baselineskip}{.5\baselineskip}
+\titleformat{\subsection}{\displaymedia\fontsize{13}{15}\selectfont\raggedright}{}{0pt}{}
+\setcounter{secnumdepth}{-2}
+\setcounter{tocdepth}{0}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\footnotesize\color{formol}\leftmark}
+\fancyhead[RO]{\footnotesize\color{formol}\itshape\rightmark}
+\fancyfoot[LE,RO]{\footnotesize\color{formol}\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[LE,RO]{\footnotesize\color{formol}\thepage}}
+\usepackage[hidelinks,unicode,bookmarksnumbered=false]{hyperref}
+\hypersetup{pdftitle={$title$},pdfauthor={$author$},pdfsubject={$subtitle$},pdflang={es-ES}}
+\usepackage{bookmark}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\clubpenalty=10000
+\widowpenalty=10000
+\raggedbottom
+\setlength{\emergencystretch}{1.5em}
+
+% Manchas de sangre (valoración de 1 a 5)
+\newcommand{\mancha}{\raisebox{-.15em}{\includegraphics[height=1.15em]{mancha.pdf}}}
+\newcommand{\manchavacia}{\raisebox{-.15em}{\includegraphics[height=1.15em]{mancha-vacia.pdf}}}
+\newcommand{\manchas}[1]{\ifcase#1\or
+  \mancha\manchavacia\manchavacia\manchavacia\manchavacia\or
+  \mancha\mancha\manchavacia\manchavacia\manchavacia\or
+  \mancha\mancha\mancha\manchavacia\manchavacia\or
+  \mancha\mancha\mancha\mancha\manchavacia\or
+  \mancha\mancha\mancha\mancha\mancha\fi}
+
+% Apertura de década: {etiqueta}{año inicial}{rango}{número de películas}
+\newcommand{\decada}[4]{%
+  \clearpage\thispagestyle{plain}%
+  \phantomsection\hypertarget{#1}{}\label{#1}%
+  \addcontentsline{toc}{chapter}{#3}%
+  \markboth{#3}{#3}%
+  \vspace*{14mm}%
+  {\noindent\display\color{liquen}\fontsize{96}{84}\selectfont #2\par}%
+  \vspace{5mm}%
+  {\noindent\color{formol}#4\par}%
+  \vspace{4mm}}
+
+% Ficha de película: {etiqueta}{año}{valoración}{título}
+\makeatletter
+\newcommand{\pelicula}[4]{%
+  \par\needspace{10\baselineskip}%
+  \vspace{2.4\baselineskip plus 1\baselineskip minus .6\baselineskip}%
+  \phantomsection\hypertarget{#1}{}\label{#1}%
+  {\noindent\displaymedia\color{liquen}\fontsize{13}{13}\selectfont #2\par}%
+  \vspace{1.5pt}%
+  {\noindent\raggedright\display\fontsize{19}{19.5}\selectfont #4\par}%
+  \markright{#4}%
+  \vspace{4pt}%
+  {\noindent\manchas{#3}\hspace{.45em}{\footnotesize\color{formol}#3 de 5}\par}%
+  \nobreak\vspace{.7\baselineskip}%
+  \@afterindentfalse\@afterheading}
+\makeatother
+
+\begin{document}
+\includepdf{portada.pdf}
+\frontmatter
+\pagestyle{empty}
+% Portadilla
+\null\vspace{50mm}
+{\noindent\display\fontsize{34}{34}\selectfont Atlas del cine de zombis\par}
+\clearpage
+\null\clearpage
+% Portada
+\null\vspace{18mm}
+{\noindent\large Miguel Ángel Gómez Ruiz\par}
+\vspace{14mm}
+{\noindent\raggedright\display\fontsize{52}{46}\selectfont Atlas del cine\\de zombis\par}
+\vspace{7mm}
+{\noindent\displaymedia\fontsize{22}{24}\selectfont $subtitle$\par}
+\vfill
+{\noindent\small\color{formol} Edición digital, $fecha_edicion$\par}
+\clearpage
+% Créditos
+\null\vfill
+{\footnotesize\setlength{\parindent}{0pt}\setlength{\parskip}{.6em}
+\textit{Atlas del cine de zombis. $subtitle$}
+
+© de los textos: Miguel Ángel Gómez Ruiz, 2012--2016.
+
+Esta obra se distribuye con licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC~BY-NC-SA~4.0). Puedes copiarla, distribuirla y adaptarla sin fines comerciales, citando la autoría y compartiendo las obras derivadas con la misma licencia: \url{https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es}
+
+Las reseñas se publicaron originalmente en el blog ZombisBlog entre 2012 y 2016.$if(url_web)$ Versión web: \url{$url_web$}$endif$
+
+$if(doi)$DOI: \href{https://doi.org/$doi$}{$doi$}\par$endif$
+$if(isbn)$ISBN: $isbn$\par$endif$
+
+Edición digital, $fecha_edicion$. Compuesta en Literata y Big Shoulders Display (SIL Open Font License). La cubierta muestra las $total$ películas por año de estreno y valoración.\par}
+\clearpage
+\pagestyle{fancy}
+\tableofcontents
+\clearpage
+
+$body$
+
+\end{document}

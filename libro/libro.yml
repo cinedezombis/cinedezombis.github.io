@@ -1,0 +1,8 @@
+# Datos del libro. Si consigues un DOI (por ejemplo en Zenodo) o un ISBN, añádelos aquí
+# y vuelve a generar el libro para que aparezcan en la página de créditos.
+autor: Miguel Ángel Gómez Ruiz
+subtitulo: 299 películas, 1932–2016
+archivo: atlas-del-cine-de-zombis
+url_web: "https://cinedezombis.github.io"
+doi: ""
+isbn: ""

@@ -1,0 +1,10 @@
+# Ajustes de la web. Solo hay que tocarlos al decidir dónde se publica.
+
+# Dirección pública de la web, sin barra final. Se usa para las direcciones canónicas.
+# Ejemplos: https://cinedezombis.github.io   o   https://usuario.github.io/proyecto
+url: "https://cinedezombis.github.io"
+
+# Carpeta desde la que se sirve la web: "/" si está en la raíz del dominio
+# (cinedezombis.github.io) o "/proyecto/" si es un repositorio de proyecto
+# (usuario.github.io/proyecto). Solo la usa la página de error 404.
+ruta_base: "/"

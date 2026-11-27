@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% from "macros.html" import fila %}
+{% block contenido %}
+<article class="pagina pagina-ancha">
+  <h1 class="pagina-titulo">Índice de la A a la Z</h1>
+  <p class="pagina-entradilla">Las {{ total }} películas por orden alfabético del título con el que las comentamos.</p>
+  <nav class="saltos saltos-letras" aria-label="Ir a una letra">
+    {% for letra in letras %}<a href="#letra-{{ letra }}">{{ letra }}</a>{% endfor %}
+  </nav>
+  {% for letra, pelis in letras.items() %}
+  <section class="decada" id="letra-{{ letra }}" aria-labelledby="tl-{{ letra }}">
+    <h2 class="decada-num" id="tl-{{ letra }}">{{ letra }}</h2>
+    <div class="decada-lista">
+      <ol class="filas">{% for p in pelis %}{{ fila(p, raiz) }}{% endfor %}</ol>
+    </div>
+  </section>
+  {% endfor %}
+</article>
+{% endblock %}

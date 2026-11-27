@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block contenido %}
+<article class="pagina">
+  <h1 class="pagina-titulo">{{ meta.titulo }}</h1>
+  <div class="prosa">
+    {{ texto|safe }}
+  </div>
+</article>
+{% endblock %}

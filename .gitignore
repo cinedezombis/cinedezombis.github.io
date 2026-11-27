@@ -1,0 +1,4 @@
+_site/
+libro/_construccion/
+__pycache__/
+.DS_Store

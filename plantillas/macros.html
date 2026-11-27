@@ -1,0 +1,18 @@
+{% macro manchas(n, clase='') -%}
+<span class="manchas {{ clase }}" role="img" aria-label="{{ n }} de 5 manchas de sangre">
+{%- for i in range(5) -%}
+<svg class="{{ 'llena' if i < n else 'vacia' }}" aria-hidden="true" focusable="false"><use href="#mancha"/></svg>
+{%- endfor -%}
+</span>
+{%- endmacro %}
+
+{% macro fila(p, raiz) -%}
+<li class="fila" data-id="{{ p.id }}" data-v="{{ p.valoracion }}" data-busca="{{ p.busca }}">
+  <a class="fila-enlace" href="{{ raiz }}{{ p.ruta.lstrip('/') }}">
+    <span class="fila-anio">{{ p.anio }}</span>
+    {% if p.cartel %}<img class="fila-cartel" src="{{ raiz }}img/miniaturas/{{ p.cartel }}" alt="" width="40" height="58" loading="lazy" decoding="async">{% else %}<span class="fila-cartel"></span>{% endif %}
+    <span class="fila-titulo">{{ p.titulo }}</span>
+    {{ manchas(p.valoracion) }}
+  </a>
+</li>
+{%- endmacro %}

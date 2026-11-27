@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% from "macros.html" import manchas, fila %}
+{% block contenido %}
+<section class="portada">
+  <h1 class="portada-titulo">{{ total }} películas de zombis</h1>
+  <p class="portada-entradilla">Entre 2012 y 2016, en el blog ZombisBlog, nos propusimos ver y comentar todas las películas de muertos vivientes que pudiéramos encontrar, desde <a href="{{ raiz }}{{ primera.ruta.lstrip('/') }}"><cite>{{ primera.titulo }}</cite></a> ({{ primera.anio }}) en adelante. Este atlas las ordena por año de estreno y por la nota que les pusimos, de una a cinco manchas de sangre.</p>
+</section>
+
+<section class="estratos" aria-labelledby="titulo-estratos">
+  <h2 id="titulo-estratos" class="oculto">Las películas, año a año</h2>
+  <p class="lectura" aria-live="polite"><span class="lectura-ayuda">Señala un cuadrado para ver qué película es.</span></p>
+  <div class="grafico-marco">
+    <div class="grafico" style="--columnas: {{ columnas|length }}">
+      {% for col in columnas %}
+      <div class="columna" style="--c: {{ loop.index0 }}">
+        {% for p in col.peliculas %}
+        <a class="celda r{{ p.valoracion }}" href="{{ raiz }}{{ p.ruta.lstrip('/') }}" data-id="{{ p.id }}" data-titulo="{{ p.titulo }}" data-anio="{{ p.anio }}" data-v="{{ p.valoracion }}" aria-label="{{ p.titulo }} ({{ p.anio }}), {{ p.valoracion }} de 5"></a>
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+    <div class="suelo" style="--columnas: {{ columnas|length }}" aria-hidden="true">
+      {% for col in columnas if col.anio % 10 == 0 %}<span style="grid-column: {{ loop.index0 * 10 + 1 }} / span {{ [10, columnas|length - loop.index0 * 10]|min }}">{{ col.anio }}</span>{% endfor %}
+    </div>
+  </div>
+  <div class="leyenda">
+    <p>Cada cuadrado es una película, apilada sobre su año de estreno. Cuanto más oscuro, mejor nota.</p>
+    <ol class="leyenda-escala" aria-label="Escala de valoración">
+      {% for v in range(1, 6) %}<li><span class="muestra r{{ v }}"></span>{{ v }}</li>{% endfor %}
+    </ol>
+  </div>
+</section>
+
+<section class="catalogo" aria-labelledby="titulo-catalogo">
+  <h2 id="titulo-catalogo" class="oculto">Todas las películas por décadas</h2>
+  <div class="filtros">
+    <div class="filtro-buscar">
+      <label for="buscar">Buscar por título</label>
+      <input id="buscar" type="search" autocomplete="off" spellcheck="false" placeholder="Por ejemplo, Re-Animator">
+    </div>
+    <fieldset class="filtro-valoracion">
+      <legend>Mostrar solo las de</legend>
+      {% for v in range(1, 6) %}
+      <button type="button" data-v="{{ v }}" aria-pressed="false">{{ manchas(v) }}</button>
+      {% endfor %}
+    </fieldset>
+    <nav class="saltos" aria-label="Ir a una década">
+      {% for d in decadas %}<a href="#d{{ d.decada }}">{{ d.decada }}</a>{% endfor %}
+    </nav>
+    <p class="recuento" aria-live="polite">{{ total }} películas</p>
+  </div>
+
+  {% for d in decadas %}
+  <section class="decada" id="d{{ d.decada }}" aria-labelledby="t{{ d.decada }}">
+    <h3 class="decada-num" id="t{{ d.decada }}"><span class="oculto">Años </span>{{ d.decada }}</h3>
+    <div class="decada-lista">
+      <p class="decada-total">{{ d.peliculas|length }} {{ 'película' if d.peliculas|length == 1 else 'películas' }}</p>
+      <ol class="filas">
+        {% for p in d.peliculas %}{{ fila(p, raiz) }}{% endfor %}
+      </ol>
+    </div>
+  </section>
+  {% endfor %}
+  <p class="sin-resultados" hidden>Ninguna película coincide. Prueba con otro título o desactiva algún filtro de valoración.</p>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ raiz }}js/atlas.js" defer></script>{% endblock %}
