@@ -246,7 +246,7 @@ def construir():
 
     escribir("index.html", "inicio.html", seccion="atlas", columnas=COLUMNAS, decadas=DECADAS, max_por_anio=MAX_POR_ANIO,
              ultimas=ULTIMAS[:5],
-             titulo_pagina=f"Atlas del cine de zombis ({PELICULAS[0]['anio']}–{ANIO_MAX})",
+             titulo_pagina="Atlas del cine de zombis",
              descripcion=f"{len(PELICULAS)} películas de zombis comentadas y valoradas, de {PELICULAS[0]['anio']} a {ANIO_MAX}.")
 
     for p in PELICULAS:
