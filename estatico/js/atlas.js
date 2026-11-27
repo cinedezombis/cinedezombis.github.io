@@ -1,3 +1,15 @@
+// Últimas reseñas: marca como «Nueva» la que se publicó hace menos de 30 días
+(() => {
+  const hoy = new Date();
+  document.querySelectorAll(".ultima[data-publicado]").forEach((li) => {
+    const f = new Date(li.dataset.publicado + "T12:00:00");
+    if (!isNaN(f) && (hoy - f) / 86400000 <= 30) {
+      const t = li.querySelector(".ultima-fecha");
+      t.insertAdjacentHTML("afterbegin", '<span class="ultima-nueva">Nueva</span>');
+    }
+  });
+})();
+
 // Atlas: lectura del gráfico y filtros del catálogo. Sin dependencias.
 (() => {
   const normalizar = (t) => t.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();

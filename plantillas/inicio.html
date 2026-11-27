@@ -7,6 +7,28 @@
   <p class="portada-entradilla">Empecé en 2012 con el blog ZombisBlog y, tras una pausa, sigo con la misma idea: ver y comentar todas las películas de muertos vivientes, desde <a href="{{ raiz }}{{ primera.ruta.lstrip('/') }}"><cite>{{ primera.titulo }}</cite></a> ({{ primera.anio }}) hasta las más recientes. Este atlas las ordena por año de estreno y por la nota que les pongo, de una a cinco manchas de sangre.</p>
 </section>
 
+{% if ultimas %}
+<section class="ultimas" aria-labelledby="titulo-ultimas">
+  <div class="ultimas-cabecera">
+    <h2 id="titulo-ultimas" class="ultimas-titulo">Últimas reseñas</h2>
+    <a class="ultimas-canal" href="{{ raiz }}feed.xml">Seguir las novedades por RSS</a>
+  </div>
+  <ol class="ultimas-lista">
+    {% for p in ultimas %}
+    <li class="ultima" data-publicado="{{ p.publicado }}">
+      <a class="ultima-enlace" href="{{ raiz }}{{ p.ruta.lstrip('/') }}">
+        {% if p.cartel %}<img class="ultima-cartel" src="{{ raiz }}img/miniaturas/{{ p.miniatura }}" alt="" width="56" height="84" loading="lazy" decoding="async">{% else %}<span class="ultima-cartel"></span>{% endif %}
+        <span class="ultima-titulo">{{ p.titulo }}</span>
+        <span class="ultima-anio">{{ p.anio }}</span>
+        {{ manchas(p.valoracion) }}
+        <time class="ultima-fecha" datetime="{{ p.publicado }}" title="{{ p.publicado|fecha }}">{{ p.publicado|fecha_corta }}</time>
+      </a>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endif %}
+
 <section class="estratos" aria-labelledby="titulo-estratos">
   <h2 id="titulo-estratos" class="oculto">Las películas, año a año</h2>
   <p class="lectura" aria-live="polite"><span class="lectura-ayuda">Señala un cuadrado para ver qué película es.</span></p>

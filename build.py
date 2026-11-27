@@ -48,6 +48,14 @@ def fecha_larga(iso):
     return f"{d.day} de {MESES[d.month - 1]} de {d.year}"
 
 
+MESES_CORTOS = ["ene.", "feb.", "mar.", "abr.", "may.", "jun.", "jul.", "ago.", "sept.", "oct.", "nov.", "dic."]
+
+
+def fecha_corta(iso):
+    d = date.fromisoformat(str(iso))
+    return f"{d.day} {MESES_CORTOS[d.month - 1]} {d.year}"
+
+
 def prefijo(ruta_salida):
     """Prefijo relativo desde una página hasta la raíz del sitio ('', '../', '../../')."""
     profundidad = ruta_salida.strip("/").count("/")
@@ -131,6 +139,9 @@ for anio in range(ANIO_MIN, ANIO_MAX + 1):
     del_anio = sorted((p for p in PELICULAS if p["anio"] == anio), key=lambda p: (-p["valoracion"], p["orden"]))
     COLUMNAS.append({"anio": anio, "peliculas": del_anio})
 MAX_POR_ANIO = max(len(c["peliculas"]) for c in COLUMNAS)
+
+# Últimas reseñas publicadas (blog o atlas), de la más reciente a la más antigua
+ULTIMAS = sorted((p for p in PELICULAS if p.get("publicado")), key=lambda p: (str(p["publicado"]), p["id"]), reverse=True)
 DECADAS = []
 for d in range(ANIO_MIN, ANIO_MAX + 1, 10):
     DECADAS.append({"decada": d, "peliculas": [p for p in PELICULAS if p["decada"] == d]})
@@ -149,6 +160,7 @@ if carpeta_libro.exists():
 entorno = Environment(loader=FileSystemLoader(RAIZ / "plantillas"),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
 entorno.filters["fecha"] = fecha_larga
+entorno.filters["fecha_corta"] = fecha_corta
 import hashlib
 VERSION = hashlib.sha1(b"".join((RAIZ / "estatico" / f).read_bytes() for f in ("css/estilo.css", "js/atlas.js"))).hexdigest()[:8]
 comunes = {"config": CONFIG, "libro": LIBRO, "total": len(PELICULAS), "version": VERSION,
@@ -202,14 +214,38 @@ def preparar_cubierta():
     LIBRO["cubierta"], LIBRO["cubierta_tamano"] = "libro-cubierta.jpg", imagen.size
 
 
+def escribir_canal(cuantas=20):
+    """Canal Atom (feed.xml) con las últimas reseñas, para quien quiera seguir las novedades."""
+    from xml.sax.saxutils import escape
+    base = CONFIG.get("url", "").rstrip("/")
+    entradas = []
+    for p in ULTIMAS[:cuantas]:
+        url = f"{base}{p['ruta']}"
+        fecha = f"{p['publicado']}T12:00:00Z"
+        resumen = re.sub(r"[\[\]*]|\(zb:[^)]*\)|\([^)]*https?://[^)]*\)", "", p["cuerpo"]).split("\n")[0][:400]
+        entradas.append(
+            f"<entry><title>{escape(p['titulo'])} ({p['anio']})</title><link href=\"{escape(url)}\"/>"
+            f"<id>{escape(url)}</id><published>{fecha}</published><updated>{fecha}</updated>"
+            f"<summary>{escape(resumen)}</summary></entry>")
+    actualizado = f"{ULTIMAS[0]['publicado']}T12:00:00Z" if ULTIMAS else "2016-12-31T12:00:00Z"
+    xml = ('<?xml version="1.0" encoding="utf-8"?>\n<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">'
+           f"<title>Atlas del cine de zombis</title><subtitle>Últimas películas comentadas</subtitle>"
+           f'<link href="{escape(base)}/"/><link rel="self" href="{escape(base)}/feed.xml"/><id>{escape(base)}/</id>'
+           f"<updated>{actualizado}</updated><author><name>Miguel Ángel Gómez Ruiz</name></author>"
+           + "".join(entradas) + "</feed>\n")
+    (SALIDA / "feed.xml").write_text(xml, encoding="utf-8")
+
+
 def construir():
     if SALIDA.exists():
         shutil.rmtree(SALIDA)
     shutil.copytree(RAIZ / "estatico", SALIDA)
     preparar_imagenes()
     preparar_cubierta()
+    escribir_canal()
 
     escribir("index.html", "inicio.html", seccion="atlas", columnas=COLUMNAS, decadas=DECADAS, max_por_anio=MAX_POR_ANIO,
+             ultimas=ULTIMAS[:5],
              titulo_pagina=f"Atlas del cine de zombis ({PELICULAS[0]['anio']}–{ANIO_MAX})",
              descripcion=f"{len(PELICULAS)} películas de zombis comentadas y valoradas, de {PELICULAS[0]['anio']} a {ANIO_MAX}.")
 
