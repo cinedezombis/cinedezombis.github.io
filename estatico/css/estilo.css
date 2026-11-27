@@ -116,7 +116,7 @@ cite { font-style: italic; }
 .lectura strong { font-weight: 650; }
 .grafico-marco {
   --hueco: 2px;
-  --celda-w: clamp(7px, calc((min(100vw, var(--ancho)) - 2 * var(--margen)) / 87 - 2px), 11px);
+  --celda-w: clamp(5px, calc((min(100vw, var(--ancho)) - 2 * var(--margen)) / 87 - 2px - 0.1px), 11px);
   --celda-h: var(--celda-w);
   overflow-x: auto; overscroll-behavior-x: contain; padding-bottom: .5rem;
   scrollbar-width: thin; scrollbar-color: var(--liquen) transparent;
