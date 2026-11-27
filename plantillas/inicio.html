@@ -9,8 +9,8 @@
 <section class="estratos" aria-labelledby="titulo-estratos">
   <h2 id="titulo-estratos" class="oculto">Las películas, año a año</h2>
   <p class="lectura" aria-live="polite"><span class="lectura-ayuda">Señala un cuadrado para ver qué película es.</span></p>
-  <div class="grafico-marco">
-    <div class="grafico" style="--columnas: {{ columnas|length }}">
+  <div class="grafico-marco" style="--columnas: {{ columnas|length }}; --filas: {{ max_por_anio + 1 }}">
+    <div class="grafico">
       {% for col in columnas %}
       <div class="columna" style="--c: {{ loop.index0 }}">
         {% for p in col.peliculas %}
@@ -19,7 +19,7 @@
       </div>
       {% endfor %}
     </div>
-    <div class="suelo" style="--columnas: {{ columnas|length }}" aria-hidden="true">
+    <div class="suelo" aria-hidden="true">
       {% for col in columnas if col.anio % 10 == 0 %}<span style="grid-column: {{ loop.index0 * 10 + 1 }} / span {{ [10, columnas|length - loop.index0 * 10]|min }}">{{ col.anio }}</span>{% endfor %}
     </div>
   </div>

@@ -10,7 +10,7 @@
 <li class="fila" data-id="{{ p.id }}" data-v="{{ p.valoracion }}" data-busca="{{ p.busca }}">
   <a class="fila-enlace" href="{{ raiz }}{{ p.ruta.lstrip('/') }}">
     <span class="fila-anio">{{ p.anio }}</span>
-    {% if p.cartel %}<img class="fila-cartel" src="{{ raiz }}img/miniaturas/{{ p.cartel }}" alt="" width="40" height="58" loading="lazy" decoding="async">{% else %}<span class="fila-cartel"></span>{% endif %}
+    {% if p.cartel %}<img class="fila-cartel" src="{{ raiz }}img/miniaturas/{{ p.miniatura }}" alt="" width="40" height="58" loading="lazy" decoding="async">{% else %}<span class="fila-cartel"></span>{% endif %}
     <span class="fila-titulo">{{ p.titulo }}</span>
     {{ manchas(p.valoracion) }}
   </a>

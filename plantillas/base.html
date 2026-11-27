@@ -34,7 +34,7 @@
 </main>
 <footer class="pie">
   {% if libro %}
-  <p class="pie-libro">Todo el archivo está también en forma de libro: descárgalo en
+  <p class="pie-libro">Las reseñas publicadas en ZombisBlog entre 2012 y 2016 están también en forma de libro: descárgalo en
     {% if libro.pdf %}<a href="{{ raiz }}libro/{{ libro.pdf }}">PDF ({{ libro.pdf_mb|string|replace('.', ',') }} MB)</a>{% endif %}{% if libro.pdf and libro.epub %} o en {% endif %}{% if libro.epub %}<a href="{{ raiz }}libro/{{ libro.epub }}">EPUB ({{ libro.epub_mb|string|replace('.', ',') }} MB)</a>{% endif %}.</p>
   {% endif %}
   <p>Textos de Miguel Ángel Gómez Ruiz, publicados originalmente en el blog ZombisBlog entre 2012 y 2016, con licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" rel="license">CC BY-NC-SA 4.0</a>. Los carteles pertenecen a sus titulares y se reproducen solo para identificar cada película.</p>

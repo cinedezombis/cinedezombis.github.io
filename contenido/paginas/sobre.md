@@ -3,7 +3,7 @@ titulo: Sobre el atlas
 ruta: /p/los-zombis.html
 ---
 
-*Este atlas reúne las 299 películas comentadas entre 2012 y 2016 en el blog ZombisBlog, de donde procede todo su contenido. Las reseñas se reproducen como se publicaron, con las erratas corregidas. Lo que sigue es la declaración de principios con la que nació el blog, que fija qué entendemos por zombi y qué películas entran en la revisión.*
+*Este atlas nació del blog ZombisBlog, donde entre 2012 y 2016 se comentaron 299 películas de zombis. Esas reseñas se reproducen aquí como se publicaron, con las erratas corregidas. Lo que sigue es la declaración de principios con la que nació el blog, que fija qué entendemos por zombi y qué películas entran en la revisión.*
 
 Un día nos planteamos ver todas las películas de zombis que existieran... ilusos de nosotros creímos que no alcanzarían la centena... nos equivocamos... y de esa equivocación surgió **Zombis Blog**... Pero comencemos por el principio, y es que si vamos a hacer un blog sobre películas de zombis, lo primero será plantearnos:
 

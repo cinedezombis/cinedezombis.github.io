@@ -17,15 +17,21 @@
       {{ texto|safe }}
     </div>
   </div>
+  <div class="ficha-trailer">
+    {% if p.trailer %}
+    <a class="ficha-trailer-enlace" href="{{ p.trailer.url }}"><svg aria-hidden="true" focusable="false" viewBox="0 0 16 16"><path d="M4 2.5v11l9-5.5z"/></svg>Ver el {{ p.trailer.etiqueta|lower }} en {{ p.trailer.fuente }}</a>
+    {% else %}
+    <a class="ficha-trailer-enlace" href="{{ p.busqueda_trailer }}"><svg aria-hidden="true" focusable="false" viewBox="0 0 16 16"><path d="M4 2.5v11l9-5.5z"/></svg>Buscar el tráiler en YouTube</a>
+    {% endif %}
+    {% if p.otros_videos %}
+    <p class="ficha-otros">Otros vídeos: {% for v in p.otros_videos %}<a href="{{ v.url }}">{{ v.etiqueta|lower }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>
+    {% endif %}
+  </div>
+  {% if p.publicado %}
   <footer class="ficha-pie">
-    <p class="ficha-video">
-      {% if p.trailer %}<a href="{{ p.trailer.url }}">Ver el {{ p.trailer.etiqueta|lower }} en {{ p.trailer.fuente }}</a>.
-      {% else %}<a href="{{ p.busqueda_trailer }}">Buscar el tráiler en YouTube</a>.
-      {% endif %}
-      {% if p.otros_videos %}Otros vídeos: {% for v in p.otros_videos %}<a href="{{ v.url }}">{{ v.etiqueta|lower }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.{% endif %}
-    </p>
-    <p>Publicada originalmente en ZombisBlog el {{ p.publicado|fecha }}.</p>
+    <p>{% if p.del_blog %}Publicada originalmente en ZombisBlog el {{ p.publicado|fecha }}.{% else %}Publicada en el atlas el {{ p.publicado|fecha }}.{% endif %}</p>
   </footer>
+  {% endif %}
   <nav class="ficha-nav" aria-label="Película anterior y siguiente">
     {% if p.anterior %}<a class="ficha-nav-ant" rel="prev" href="{{ raiz }}{{ p.anterior.ruta.lstrip('/') }}"><span>Anterior</span>{{ p.anterior.titulo }} ({{ p.anterior.anio }})</a>{% else %}<span></span>{% endif %}
     {% if p.siguiente %}<a class="ficha-nav-sig" rel="next" href="{{ raiz }}{{ p.siguiente.ruta.lstrip('/') }}"><span>Siguiente</span>{{ p.siguiente.titulo }} ({{ p.siguiente.anio }})</a>{% endif %}

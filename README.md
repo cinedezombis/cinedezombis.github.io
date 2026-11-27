@@ -29,11 +29,22 @@ La web se publica desde el repositorio `cinedezombis/cinedezombis.github.io`. Si
 3. En el repositorio: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 4. Pon la dirección pública en `sitio.yml` (`url`) y, si la web no está en la raíz del dominio, la carpeta en `ruta_base`.
 
-## Corregir o añadir una reseña
+## Añadir una película nueva
 
-Abre el archivo de la película en `contenido/peliculas/`, pulsa el lápiz, cambia lo que quieras y guarda (*Commit changes*). La web se vuelve a generar sola en un par de minutos.
+Todo se hace desde la propia web de GitHub, sin instalar nada:
 
-Para una película nueva, copia una ficha existente, cambia los datos de la cabecera (`titulo`, `anio`, `valoracion`, `publicado` y `ruta`, por ejemplo `/2027/01/2024-titulo.html`) y escribe el texto debajo. Si tiene cartel, sube la imagen a `estatico/img/carteles/` y una versión pequeña (112 px de ancho) a `estatico/img/miniaturas/` con el mismo nombre; si no, deja `cartel: null`.
+1. Abre `contenido/plantilla-nueva-pelicula.md` y copia su contenido.
+2. Entra en la carpeta `contenido/peliculas/`, pulsa **Add file → Create new file** y llama al archivo con el año y el título en minúsculas, sin tildes y con guiones: `2024-titulo-de-la-pelicula.md`.
+3. Pega la plantilla, rellena título, año, valoración (1 a 5), fecha y enlace del tráiler, y escribe la reseña debajo. Pulsa **Commit changes**.
+4. Si tienes el cartel, entra en `estatico/img/carteles/`, pulsa **Add file → Upload files** y súbelo con el mismo nombre que la ficha (`2024-titulo-de-la-pelicula.jpg`, también vale .png o .webp, de cualquier tamaño). La miniatura y el tamaño adecuado se generan solos.
+
+En uno o dos minutos la película aparece en el atlas: se actualizan el número de la portada, el gráfico (que se alarga hasta el año más reciente), el listado por décadas, el índice de la A a la Z y las mejor valoradas. Las reseñas nuevas muestran «Publicada en el atlas el…» en lugar de la referencia a ZombisBlog.
+
+El libro no cambia: es la edición fija de las reseñas de 2012–2016.
+
+## Corregir una reseña
+
+Abre el archivo de la película en `contenido/peliculas/`, pulsa el lápiz, cambia lo que quieras y guarda con **Commit changes**. La web se vuelve a generar sola.
 
 ## Probar la web en tu ordenador
 
