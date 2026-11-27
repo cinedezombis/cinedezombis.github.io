@@ -12,3 +12,8 @@ ruta_base: "/"
 # DOI del libro en Zenodo. Es el DOI general, que apunta siempre a la última versión publicada
 # (el de la versión 1.0, 10.5281/zenodo.24590777, es el que va impreso en el libro).
 libro_doi: "10.5281/zenodo.24590776"
+
+# Estadísticas de visitas con GoatCounter (sin cookies ni datos personales).
+# Es el código de la cuenta: el panel está en https://cinedezombis.goatcounter.com
+# Déjalo vacío ("") para desactivar el contador.
+goatcounter: "cinedezombis"

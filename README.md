@@ -1,6 +1,6 @@
 # Atlas del cine de zombis
 
-299 películas de zombis (1932–2016) comentadas y valoradas de una a cinco manchas de sangre. Las reseñas se publicaron originalmente en el blog ZombisBlog entre 2012 y 2016; aquí forman una web estática que no depende de ninguna plataforma de blogs. De las mismas fichas sale también el libro en PDF y EPUB.
+Películas de zombis comentadas y valoradas de una a cinco manchas de sangre. Las primeras 299 reseñas (de 1932 a 2016) se publicaron en el blog ZombisBlog entre 2012 y 2016; aquí forman una web estática que no depende de ninguna plataforma de blogs y que desde 2026 sigue creciendo. De esas fichas sale también el libro en PDF y EPUB.
 
 Dirección: https://cinedezombis.github.io
 
@@ -14,7 +14,8 @@ Dirección: https://cinedezombis.github.io
 | `plantillas/` | El diseño de cada tipo de página. |
 | `build.py` | Genera la web en la carpeta `_site/`. |
 | `libro/` | Todo lo necesario para regenerar el libro (plantilla, cubierta, tipografías). |
-| `sitio.yml` | La dirección pública de la web. |
+| `herramientas/` | Utilidades que se usan rara vez, como la que crea la imagen para compartir en redes. |
+| `sitio.yml` | La dirección pública de la web, el DOI del libro y el contador de visitas. |
 
 Cada reseña conserva la ruta que tenía en el blog original (por ejemplo `/2012/04/1932-white-zombie.html`).
 
@@ -41,6 +42,30 @@ Todo se hace desde la propia web de GitHub, sin instalar nada:
 En uno o dos minutos la película aparece en el atlas: se actualizan el número de la portada, el gráfico (que se alarga hasta el año más reciente), el listado por décadas, el índice de la A a la Z y las mejor valoradas. Las reseñas nuevas muestran «Publicada en el atlas el…» en lugar de la referencia a ZombisBlog.
 
 El libro no cambia: es la edición fija de las reseñas de 2012–2016.
+
+## Lo que la web genera sola
+
+Cada vez que cambias algo, `build.py` vuelve a crear, además de las páginas:
+
+- las miniaturas y los carteles en WebP, más ligeros que los JPG (los JPG se conservan para compartir en redes);
+- el índice del buscador (`buscar.json`) y el canal de novedades por RSS (`feed.xml`);
+- `sitemap.xml` y `robots.txt`, para que los buscadores encuentren todas las fichas;
+- las etiquetas para compartir: al pegar el enlace de una ficha en WhatsApp, Telegram o una red social aparece su cartel, y en las demás páginas la imagen `estatico/img/compartir.png`;
+- los datos estructurados (JSON-LD) que permiten a Google mostrar la nota de cada reseña.
+
+Los enlaces de «Sagas y remakes» que aparecen en cada ficha salen de las listas de `contenido/paginas/sagas.md`: basta con añadir una película a la lista de su saga.
+
+La web tiene modo oscuro (paleta «Sala oscura»): se activa sola cuando el móvil o el ordenador del lector lo tiene puesto.
+
+Si cambias los colores o las tipografías, vuelve a crear la imagen para compartir:
+
+```
+python3 herramientas/generar_compartir.py
+```
+
+## Estadísticas de visitas
+
+Las visitas se cuentan con GoatCounter, sin cookies ni datos personales, así que no hace falta aviso de cookies. El panel está en https://cinedezombis.goatcounter.com. Para desactivar el contador, deja vacío `goatcounter` en `sitio.yml`.
 
 ## Corregir una reseña
 

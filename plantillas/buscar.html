@@ -1,6 +1,7 @@
 {% extends "base.html" %}
+{% block cabeza %}<link rel="preload" href="{{ raiz }}{{ indice }}" as="fetch" type="application/json" crossorigin="anonymous">{% endblock %}
 {% block contenido %}
-<section class="pagina buscar" data-indice="{{ raiz }}buscar.json?v={{ version }}" data-raiz="{{ raiz }}">
+<section class="pagina buscar" data-indice="{{ raiz }}{{ indice }}" data-raiz="{{ raiz }}">
   <h1 class="pagina-titulo">Buscar en las reseñas</h1>
   <form class="buscar-form" role="search" method="get">
     <label for="q">Palabras que buscar</label>

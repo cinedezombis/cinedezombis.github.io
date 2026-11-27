@@ -9,7 +9,18 @@
 {% if canonica %}<link rel="canonical" href="{{ canonica }}">{% endif %}
 <meta property="og:title" content="{{ titulo_pagina }}">
 <meta property="og:site_name" content="Atlas del cine de zombis">
-<meta name="theme-color" content="#dcdbd7">
+<meta property="og:type" content="{{ og_tipo or 'website' }}">
+<meta property="og:locale" content="es_ES">
+{% if canonica %}<meta property="og:url" content="{{ canonica }}">{% endif %}
+{% if descripcion %}<meta property="og:description" content="{{ descripcion }}">{% endif %}
+{% if compartir %}<meta property="og:image" content="{{ compartir.url }}">
+{% if compartir.ancho %}<meta property="og:image:width" content="{{ compartir.ancho }}">
+<meta property="og:image:height" content="{{ compartir.alto }}">{% endif %}
+<meta property="og:image:alt" content="{{ compartir.alt }}">
+<meta name="twitter:card" content="{{ compartir.tarjeta }}">{% endif %}
+{% if jsonld %}<script type="application/ld+json">{{ jsonld|safe }}</script>{% endif %}
+<meta name="theme-color" content="#dcdbd7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#151413" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="{{ raiz }}img/favicon.ico" sizes="any">
 <link rel="icon" href="{{ raiz }}img/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{{ raiz }}img/apple-touch-icon.png">
@@ -17,6 +28,7 @@
 <link rel="preload" href="{{ raiz }}fuentes/big-shoulders-display-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{{ raiz }}css/estilo.css?v={{ version }}">
 <link rel="alternate" type="application/atom+xml" title="Atlas del cine de zombis: últimas reseñas" href="{{ raiz }}feed.xml">
+{% block cabeza %}{% endblock %}
 </head>
 <body>
 <a class="saltar" href="#contenido">Saltar al contenido</a>
@@ -30,7 +42,7 @@
     <a href="{{ raiz }}p/los-zombis.html"{% if seccion == 'sobre' %} aria-current="page"{% endif %}>Sobre el atlas</a>
     <details class="lupa"{% if seccion == 'buscar' %} data-actual{% endif %}>
       <summary aria-label="Buscar en las reseñas" title="Buscar en las reseñas"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg></summary>
-      <form class="lupa-form" role="search" action="{{ raiz }}p/buscar.html" method="get">
+      <form class="lupa-form" role="search" action="{{ raiz }}p/buscar.html" method="get" data-indice="{{ raiz }}{{ indice }}">
         <label class="oculto" for="lupa-q">Buscar en las reseñas</label>
         <input id="lupa-q" name="q" type="search" autocomplete="off" spellcheck="false" placeholder="Director, actor, lugar…">
         <button type="submit">Buscar</button>
@@ -68,6 +80,7 @@
     <h2 id="pie-creditos-titulo">Licencia</h2>
     <p>Textos de Miguel Ángel Gómez Ruiz con licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" rel="license">CC BY-NC-SA 4.0</a>. Las reseñas de 2012 a 2016 se publicaron primero en el blog ZombisBlog.</p>
     <p>Los carteles pertenecen a sus titulares y se reproducen solo para identificar cada película.</p>
+    {% if config.goatcounter %}<p>Las visitas se cuentan con <a href="https://www.goatcounter.com/">GoatCounter</a>, sin cookies ni datos personales.</p>{% endif %}
   </section>
 </footer>
 <svg class="simbolos" aria-hidden="true" focusable="false">
@@ -77,5 +90,6 @@
 </svg>
 <script src="{{ raiz }}js/comun.js?v={{ version }}" defer></script>
 {% block scripts %}{% endblock %}
+{% if config.goatcounter %}<script data-goatcounter="https://{{ config.goatcounter }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>{% endif %}
 </body>
 </html>

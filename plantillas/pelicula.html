@@ -8,24 +8,32 @@
     <p class="ficha-nota">{{ manchas(p.valoracion, 'grande') }}<span>{{ p.valoracion }} de 5</span></p>
   </header>
   <div class="ficha-cuerpo">
-    {% if p.cartel %}
-    <figure class="ficha-cartel">
-      <img src="{{ raiz }}img/carteles/{{ p.cartel }}" alt="Cartel de {{ p.titulo }}"{% if p.cartel_tamano %} width="{{ p.cartel_tamano[0] }}" height="{{ p.cartel_tamano[1] }}"{% endif %}>
-    </figure>
-    {% endif %}
+    <aside class="ficha-lateral" aria-label="Cartel, tráiler y sagas">
+      {% if p.cartel %}
+      <figure class="ficha-cartel">
+        <picture>
+          <source srcset="{{ raiz }}img/carteles/{{ p.cartel_webp }}" type="image/webp">
+          <img src="{{ raiz }}img/carteles/{{ p.cartel }}" alt="Cartel de {{ p.titulo }}"{% if p.cartel_tamano %} width="{{ p.cartel_tamano[0] }}" height="{{ p.cartel_tamano[1] }}"{% endif %} fetchpriority="high">
+        </picture>
+      </figure>
+      {% endif %}
+      <div class="ficha-trailer">
+        {% if p.trailer %}
+        <a class="ficha-trailer-enlace" href="{{ p.trailer.url }}"><svg aria-hidden="true" focusable="false" viewBox="0 0 16 16"><path d="M4 2.5v11l9-5.5z"/></svg><span>Ver el {{ p.trailer.etiqueta|lower }} en {{ p.trailer.fuente }}</span></a>
+        {% else %}
+        <a class="ficha-trailer-enlace" href="{{ p.busqueda_trailer }}"><svg aria-hidden="true" focusable="false" viewBox="0 0 16 16"><path d="M4 2.5v11l9-5.5z"/></svg><span>Buscar el tráiler en YouTube</span></a>
+        {% endif %}
+        {% if p.otros_videos %}
+        <p class="ficha-otros">Otros vídeos: {% for v in p.otros_videos %}<a href="{{ v.url }}">{{ v.etiqueta|lower }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>
+        {% endif %}
+        {% if p.sagas %}
+        <p class="ficha-sagas"><span>En Sagas y remakes</span>{% for s in p.sagas %}<a href="{{ raiz }}p/sagas.html#{{ s.id }}">{{ s.titulo }}</a>{% if s.tipo %} ({{ s.tipo }}){% endif %}{% if not loop.last %}<br>{% endif %}{% endfor %}</p>
+        {% endif %}
+      </div>
+    </aside>
     <div class="ficha-texto prosa">
       {{ texto|safe }}
     </div>
-  </div>
-  <div class="ficha-trailer">
-    {% if p.trailer %}
-    <a class="ficha-trailer-enlace" href="{{ p.trailer.url }}"><svg aria-hidden="true" focusable="false" viewBox="0 0 16 16"><path d="M4 2.5v11l9-5.5z"/></svg>Ver el {{ p.trailer.etiqueta|lower }} en {{ p.trailer.fuente }}</a>
-    {% else %}
-    <a class="ficha-trailer-enlace" href="{{ p.busqueda_trailer }}"><svg aria-hidden="true" focusable="false" viewBox="0 0 16 16"><path d="M4 2.5v11l9-5.5z"/></svg>Buscar el tráiler en YouTube</a>
-    {% endif %}
-    {% if p.otros_videos %}
-    <p class="ficha-otros">Otros vídeos: {% for v in p.otros_videos %}<a href="{{ v.url }}">{{ v.etiqueta|lower }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>
-    {% endif %}
   </div>
   {% if p.publicado %}
   <footer class="ficha-pie">

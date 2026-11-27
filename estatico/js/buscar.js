@@ -40,8 +40,7 @@
     return (a > 0 ? "…" : "") + resaltar(doc.x.slice(a, b), doc._x.slice(a, b), ts) + (b < doc.x.length ? "…" : "");
   };
 
-  const manchas = (v) => `<span class="manchas" role="img" aria-label="${v} de 5 manchas de sangre">` +
-    [0, 1, 2, 3, 4].map((i) => `<svg class="${i < v ? "llena" : "vacia"}" aria-hidden="true" focusable="false"><use href="#mancha"/></svg>`).join("") + "</span>";
+  const manchas = (v) => `<span class="manchas" style="--n:${Number(v)}" role="img" aria-label="${v} de 5 manchas de sangre"></span>`;
 
   let docs = null;
   const buscar = () => {
@@ -76,7 +75,7 @@
   zona.querySelector(".buscar-form").addEventListener("submit", (e) => { e.preventDefault(); buscar(); });
   campo.value = new URLSearchParams(location.search).get("q") || "";
   recuento.textContent = campo.value ? "Buscando…" : "";
-  fetch(zona.dataset.indice).then((r) => r.json()).then((datos) => {
+  fetch(zona.dataset.indice, { mode: "cors", credentials: "same-origin" }).then((r) => r.json()).then((datos) => {
     docs = datos.map((d) => ({ ...d, _x: normalizar(d.x), _titulo: normalizar(d.t + " " + d.o), _todo: normalizar(d.t + " " + d.o + " " + d.x) }));
     buscar();
     if (!campo.value) campo.focus();

@@ -47,7 +47,7 @@
     </div>
   </div>
   <div class="leyenda">
-    <p>Cada cuadrado es una película, apilada sobre su año de estreno. Cuanto más oscuro, mejor nota.</p>
+    <p>Cada cuadrado es una película, apilada sobre su año de estreno; su color indica la nota.</p>
     <ol class="leyenda-escala" aria-label="Escala de valoración">
       {% for v in range(1, 6) %}<li><span class="muestra r{{ v }}"></span>{{ v }}</li>{% endfor %}
     </ol>
@@ -74,7 +74,7 @@
   </div>
 
   {% for d in decadas %}
-  <section class="decada" id="d{{ d.decada }}" aria-labelledby="t{{ d.decada }}">
+  <section class="decada" id="d{{ d.decada }}" style="--filas:{{ d.peliculas|length }}" aria-labelledby="t{{ d.decada }}">
     <h3 class="decada-num" id="t{{ d.decada }}"><span class="oculto">Años </span>{{ d.decada }}</h3>
     <div class="decada-lista">
       <p class="decada-total">{{ d.peliculas|length }} {{ 'película' if d.peliculas|length == 1 else 'películas' }}</p>

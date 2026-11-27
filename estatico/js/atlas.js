@@ -29,12 +29,39 @@
     lectura.append(t, ` (${celda.dataset.anio})`, plantillaManchas(celda.dataset.v));
   };
   const celdas = [...document.querySelectorAll(".celda")];
+  // Con el dedo no hay «pasar por encima»: el primer toque en un cuadrado muestra qué
+  // película es y el segundo abre su ficha (también hay un enlace en la lectura).
+  let puntero = "mouse";
+  let elegida = null;
+  const soltar = () => { if (elegida) elegida.classList.remove("elegida"); elegida = null; };
+  const anotarPuntero = (e) => { puntero = e.pointerType || "mouse"; };
+  grafico.addEventListener("pointerover", anotarPuntero);
+  grafico.addEventListener("pointerdown", anotarPuntero);
   celdas.forEach((c) => {
-    c.addEventListener("mouseenter", () => mostrar(c));
-    c.addEventListener("focus", () => mostrar(c));
+    c.addEventListener("mouseenter", () => { if (puntero === "mouse") mostrar(c); });
+    c.addEventListener("focus", () => { if (puntero === "mouse") mostrar(c); });
   });
-  grafico.addEventListener("mouseleave", () => { lectura.innerHTML = ayuda; });
-  grafico.addEventListener("focusout", (e) => { if (!grafico.contains(e.relatedTarget)) lectura.innerHTML = ayuda; });
+  grafico.addEventListener("click", (e) => {
+    const c = e.target.closest(".celda");
+    if (!c || puntero === "mouse" || c === elegida) return;
+    e.preventDefault();
+    soltar();
+    elegida = c;
+    c.classList.add("elegida");
+    mostrar(c);
+    const abrir = document.createElement("a");
+    abrir.href = c.href;
+    abrir.className = "lectura-abrir";
+    abrir.textContent = "Abrir la ficha";
+    lectura.append(abrir);
+  });
+  document.addEventListener("click", (e) => {
+    if (elegida && !grafico.contains(e.target) && !lectura.contains(e.target)) { soltar(); lectura.innerHTML = ayuda; }
+  });
+  grafico.addEventListener("mouseleave", () => { if (puntero === "mouse") lectura.innerHTML = ayuda; });
+  grafico.addEventListener("focusout", (e) => {
+    if (puntero === "mouse" && !grafico.contains(e.relatedTarget)) lectura.innerHTML = ayuda;
+  });
 
   // Filtros: búsqueda por título y por valoración.
   const filas = [...document.querySelectorAll(".catalogo .fila")];
