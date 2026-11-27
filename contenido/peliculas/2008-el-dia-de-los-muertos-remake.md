@@ -16,7 +16,7 @@ cartel_tamano:
 - 465
 ---
 
-[El día de los muertos](http://es.wikipedia.org/wiki/Day_of_the_Dead_%282008%29), cuyo título original es "Day of the dead", es una película dirigida por Jeffrey Reddick en 2008 que es una versión de la [filmación homónima](zb:/2012/04/1985-el-dia-de-los-muertos.html) de George Romero grabada en 1985, aunque realmente poco tiene que ver con la historia original.
+[El día de los muertos](http://es.wikipedia.org/wiki/Day_of_the_Dead_%282008%29), cuyo título original es "Day of the dead", es una película dirigida por Steve Miner en 2008, con guion de Jeffrey Reddick, que es una versión de la [filmación homónima](zb:/2012/04/1985-el-dia-de-los-muertos.html) de George Romero grabada en 1985, aunque realmente poco tiene que ver con la historia original.
 
 En un pueblo de Colorado, una extraña infección ha obligado al ejército a acordonar la zona, sellando todo el perímetro. Oficialmente se dice que se trata de un brote de gripe, pero como es de esperar, la realidad es que es mucho más grave.
 

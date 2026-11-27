@@ -1,5 +1,5 @@
 /* Atlas del cine de zombis
-   Paleta: hueso y formol (palidez de cadáver), tinta verdosa, sangre seca solo para las notas. */
+   Paleta «Celuloide»: grises de película en blanco y negro, con la sangre seca como único color. */
 
 @font-face { font-family: "Big Shoulders Display"; font-style: normal; font-weight: 700; font-display: swap;
   src: url(../fuentes/big-shoulders-display-latin-700-normal.woff2) format("woff2");
@@ -27,15 +27,15 @@
   unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
 
 :root {
-  --hueso: #e4e7dd;
-  --hueso-claro: #eff1ea;
-  --musgo: #cfd5c7;
-  --liquen: #aeb8a6;
-  --formol: #56645a;
-  --tinta: #18201c;
+  --hueso: #dcdbd7;
+  --hueso-claro: #e9e8e5;
+  --musgo: #c8c7c2;
+  --liquen: #a8a7a1;
+  --formol: #575652;
+  --tinta: #161616;
   --sangre: #8a1a12;
-  --r1: #c2cabb;
-  --r2: #96a292;
+  --r1: #c1c0bb;
+  --r2: #94938e;
   --r3: #b85b4e;
   --r4: #8a1a12;
   --r5: #4a0b06;
@@ -97,7 +97,7 @@ cite { font-style: italic; }
 .manchas { display: inline-flex; gap: 1px; vertical-align: middle; line-height: 0; }
 .manchas svg { width: 1.05rem; height: 1.05rem; }
 .manchas .llena { fill: var(--sangre); }
-.manchas .vacia { fill: #c6cdbe; }
+.manchas .vacia { fill: #c4c3be; }
 .manchas.grande svg { width: 1.75rem; height: 1.75rem; }
 
 /* Portada */
@@ -175,7 +175,7 @@ cite { font-style: italic; }
   color: var(--tinta); background: var(--hueso-claro);
   border: 1.5px solid var(--formol); border-radius: 2px;
 }
-.filtro-buscar input::placeholder { color: #7d897f; }
+.filtro-buscar input::placeholder { color: #7c7b76; }
 .filtro-valoracion { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .4rem; min-width: 0; }
 .filtro-valoracion button {
   font: inherit; cursor: pointer; padding: .45rem .55rem; border-radius: 2px;
@@ -228,7 +228,7 @@ cite { font-style: italic; }
 }
 .ficha-texto { grid-column: 1; grid-row: 1; }
 .ficha-cartel { grid-column: 2; grid-row: 1; margin: .4rem 0 0; position: sticky; top: 1.5rem; }
-.ficha-cartel img { display: block; width: 100%; height: auto; box-shadow: 0 0 0 1px rgba(24, 32, 28, .18); }
+.ficha-cartel img { display: block; width: 100%; height: auto; box-shadow: 0 0 0 1px rgba(22, 22, 22, .18); }
 .ficha-trailer { max-width: var(--medida); margin-top: 2.25rem; }
 .ficha-trailer-enlace {
   display: inline-flex; align-items: center; gap: .55rem;

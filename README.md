@@ -65,7 +65,9 @@ python3 libro/generar_portada.py
 python3 libro/generar_libro.py
 ```
 
-El PDF y el EPUB se guardan en `estatico/libro/`, de donde los toma la web. Si consigues un DOI (por ejemplo, al depositarlo en Zenodo) o un ISBN, anótalos en `libro/libro.yml` antes de regenerarlo y aparecerán en la página de créditos.
+El PDF y el EPUB se guardan en `estatico/libro/`, de donde los toma la web. El DOI, el ISBN y el subtítulo están en `libro/libro.yml`: lo que anotes allí aparece en la cubierta, la portada, los créditos y la contraportada.
+
+`generar_portada.py` crea la cubierta (los títulos de todas las películas alrededor del título) y la contraportada (texto de presentación y gráfico del atlas). Los colores los toma de las variables del principio de `estatico/css/estilo.css` (paleta «Celuloide»), así que, si cambias la paleta de la web, basta con volver a generar la cubierta y el libro para que coincidan.
 
 ## Revisión de 2026
 

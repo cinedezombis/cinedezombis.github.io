@@ -14,9 +14,9 @@
 \setlength{\parskip}{0pt}
 \usepackage{microtype}
 \usepackage{xcolor}
-\definecolor{tinta}{HTML}{18201C}
-\definecolor{liquen}{HTML}{9AA593}
-\definecolor{formol}{HTML}{56645A}
+\definecolor{tinta}{HTML}{161616}
+\definecolor{liquen}{HTML}{9A9994}
+\definecolor{formol}{HTML}{575652}
 \definecolor{sangre}{HTML}{8A1A12}
 \color{tinta}
 \usepackage{graphicx}
@@ -106,7 +106,7 @@
 \vspace{14mm}
 {\noindent\raggedright\display\fontsize{52}{46}\selectfont Atlas del cine\\de zombis\par}
 \vspace{7mm}
-{\noindent\displaymedia\fontsize{22}{24}\selectfont $subtitle$\par}
+{\noindent\raggedright\displaymedia\fontsize{22}{25}\selectfont $for(subtitulo_lineas)$$subtitulo_lineas$$sep$\\$endfor$\par}
 \vfill
 {\noindent\small\color{formol} Edición digital, $fecha_edicion$\par}
 \clearpage
@@ -124,7 +124,7 @@ Las reseñas se publicaron originalmente en el blog ZombisBlog entre 2012 y 2016
 $if(doi)$DOI: \href{https://doi.org/$doi$}{$doi$}\par$endif$
 $if(isbn)$ISBN: $isbn$\par$endif$
 
-Edición digital, $fecha_edicion$. Compuesta en Literata y Big Shoulders Display (SIL Open Font License). La cubierta muestra las $total$ películas por año de estreno y valoración.\par}
+Edición digital, $fecha_edicion$. Compuesta en Literata y Big Shoulders Display (SIL Open Font License). La cubierta recoge los títulos de las $total$ películas por año de estreno; en rojo, las mejor valoradas.\par}
 \clearpage
 \pagestyle{fancy}
 \tableofcontents
@@ -132,4 +132,6 @@ Edición digital, $fecha_edicion$. Compuesta en Literata y Big Shoulders Display
 
 $body$
 
+\clearpage
+\includepdf{contraportada.pdf}
 \end{document}

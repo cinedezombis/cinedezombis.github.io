@@ -154,6 +154,7 @@ def metadatos(formato):
     datos = {
         "title": "Atlas del cine de zombis",
         "subtitle": AJUSTES["subtitulo"],
+        "subtitulo_lineas": AJUSTES.get("subtitulo_lineas") or [AJUSTES["subtitulo"]],
         "author": AJUSTES["autor"],
         "lang": "es-ES",
         "rights": "CC BY-NC-SA 4.0. Textos de Miguel Ángel Gómez Ruiz, 2012-2016.",
@@ -168,7 +169,7 @@ def metadatos(formato):
     if AJUSTES.get("doi"):
         datos["identifier"] = [{"scheme": "DOI", "text": AJUSTES["doi"]}]
     if formato == "epub":
-        datos["cover-image"] = str(LIBRO / "portada.png")
+        datos["cover-image"] = str(LIBRO / "portada.jpg")
         datos["css"] = str(LIBRO / "epub.css")
     return "---\n" + yaml.safe_dump(datos, allow_unicode=True, sort_keys=False) + "---\n\n"
 
@@ -189,6 +190,7 @@ def generar_pdf():
             shutil.rmtree(destino)
         shutil.copytree(LIBRO / nombre, destino)
     shutil.copy(LIBRO / "portada.pdf", TRABAJO / "portada.pdf")
+    shutil.copy(LIBRO / "contraportada.pdf", TRABAJO / "contraportada.pdf")
     ejecutar(["pandoc", md.name, "-f", "markdown+smart", "-t", "latex", "--standalone",
               "--template", str(LIBRO / "plantilla.tex"), "--top-level-division=chapter",
               "-o", "libro.tex"], TRABAJO)
