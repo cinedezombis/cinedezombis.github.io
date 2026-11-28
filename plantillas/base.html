@@ -4,6 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{% if config.google_verificacion %}<meta name="google-site-verification" content="{{ config.google_verificacion }}">{% endif %}
 <title>{{ titulo_pagina }}</title>
 {% if descripcion %}<meta name="description" content="{{ descripcion }}">{% endif %}
 {% if canonica %}<link rel="canonical" href="{{ canonica }}">{% endif %}

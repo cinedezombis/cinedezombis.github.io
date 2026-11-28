@@ -17,3 +17,7 @@ libro_doi: "10.5281/zenodo.24590776"
 # Es el código de la cuenta: el panel está en https://cinedezombis.goatcounter.com
 # Déjalo vacío ("") para desactivar el contador.
 goatcounter: "cinedezombis"
+
+# Verificación de Google Search Console (propiedad «Prefijo de la URL»). Debe quedarse puesta:
+# si se quita, Search Console deja de considerar verificada la web. Vacío ("") para no añadirla.
+google_verificacion: "utno5owQU-NdUkeZAnVNejF8fEyh2ieWE8lT16rH0xI"
