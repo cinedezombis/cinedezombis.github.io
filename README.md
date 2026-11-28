@@ -9,7 +9,7 @@ Dirección: https://cinedezombis.github.io
 | Carpeta o archivo | Qué contiene |
 |---|---|
 | `contenido/peliculas/` | Una ficha por película en Markdown: título, año, nota, fecha de publicación, cartel, tráileres y el texto de la reseña. |
-| `contenido/paginas/` | Las páginas «Sobre el atlas» y «Sagas y remakes». |
+| `contenido/paginas/` | Las páginas de «Sobre el atlas» (`sobre.md`, `cine.md` y `descartadas.md`) y «Sagas y remakes». Las que llevan `menu` y `orden` en la cabecera forman el desplegable «Sobre el atlas», en ese orden. |
 | `contenido/descartadas.yml` | Las películas revisadas que no entran en el atlas, con el criterio que las deja fuera. |
 | `estatico/` | Carteles, miniaturas, tipografías, estilos, el script del atlas y el libro ya generado. |
 | `plantillas/` | El diseño de cada tipo de página. |
@@ -70,7 +70,7 @@ Las visitas se cuentan con GoatCounter, sin cookies ni datos personales, así qu
 
 ## Registrar una película descartada
 
-Las películas que revisas y no cumplen los criterios se apuntan en `contenido/descartadas.yml` y aparecen en «Sobre el atlas», en el desplegable de su criterio, y en el buscador.
+Las películas que revisas y no cumplen los criterios se apuntan en `contenido/descartadas.yml` y aparecen en la página «Películas descartadas», en el desplegable de su criterio, y en el buscador.
 
 1. Abre `contenido/descartadas.yml` y pulsa el lápiz.
 2. Copia una entrada y cambia los datos:
@@ -85,7 +85,7 @@ Las películas que revisas y no cumplen los criterios se apuntan en `contenido/d
    `grupo` es el criterio: `infectados`, `posesiones`, `fantasmas`, `hipnotizados`, `animales`, `mutantes`, `sin-muertos`, `esqueletos`, `cortos`, `documentales`, `animacion` o `musicales`. `titulo` es el título en España y `original`, el original; si coinciden, el original no se muestra.
 3. Guarda con **Commit changes**.
 
-Apunta solo las películas cuyo motivo tengas claro. Los vampiros, momias y demás figuras con imaginario propio no se apuntan: son demasiadas. Las definiciones de los criterios están en `contenido/paginas/sobre.md`; si añades un criterio nuevo, pon debajo de su párrafo la marca `<!-- descartes:nombre -->` y usa ese nombre como `grupo`.
+Apunta solo las películas cuyo motivo tengas claro. Los vampiros, momias y demás figuras con imaginario propio no se apuntan: son demasiadas. Las definiciones de los criterios están en `contenido/paginas/descartadas.md`; si añades un criterio nuevo, pon debajo de su párrafo la marca `<!-- descartes:nombre -->` y usa ese nombre como `grupo`.
 
 ## Corregir una reseña
 

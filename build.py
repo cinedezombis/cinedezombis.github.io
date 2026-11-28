@@ -187,8 +187,13 @@ entorno.filters["fecha"] = fecha_larga
 entorno.filters["fecha_corta"] = fecha_corta
 import hashlib
 VERSION = hashlib.sha1(b"".join((RAIZ / "estatico" / f).read_bytes() for f in ("css/estilo.css", "js/atlas.js", "js/comun.js", "js/buscar.js"))).hexdigest()[:8]
+PAGINAS = [leer(f) for f in sorted((RAIZ / "contenido" / "paginas").glob("*.md"))]
+PAGINAS_FIJAS |= {meta["ruta"] for meta, _ in PAGINAS}
+# Apartados de «Sobre el atlas»: las páginas con «menu» en la cabecera, en el orden que marca «orden».
+SOBRE = sorted(({"menu": m["menu"], "ruta": m["ruta"], "orden": m.get("orden", 99)} for m, _ in PAGINAS if m.get("menu")),
+               key=lambda x: x["orden"])
 comunes = {"config": CONFIG, "libro": LIBRO, "total": len(PELICULAS), "version": VERSION,
-           "primera": PELICULAS[0], "anio_min": PELICULAS[0]["anio"], "anio_max": ANIO_MAX}
+           "primera": PELICULAS[0], "anio_min": PELICULAS[0]["anio"], "anio_max": ANIO_MAX, "sobre": SOBRE}
 
 
 URL = CONFIG.get("url", "").rstrip("/")
@@ -294,11 +299,11 @@ def escribir_indice_busqueda():
         docs.append({"t": p["titulo"], "a": p["anio"], "v": p["valoracion"], "r": p["ruta"].lstrip("/"),
                      "m": p.get("miniatura_webp") or "", "o": " · ".join(p.get("etiquetas") or []), "x": plano})
     # Las descartadas solo se buscan por título y llevan al criterio que las deja fuera.
-    sobre = (RAIZ / "contenido" / "paginas" / "sobre.md").read_text(encoding="utf-8")
-    criterios = {g: n for n, g in re.findall(r"\*\*([^*]+?)\.\*\*[^\n]*\n\n<!-- descartes:([\w-]+) -->", sobre)}
+    descartadas = (RAIZ / "contenido" / "paginas" / "descartadas.md").read_text(encoding="utf-8")
+    criterios = {g: n for n, g in re.findall(r"\*\*([^*]+?)\.\*\*[^\n]*\n\n<!-- descartes:([\w-]+) -->", descartadas)}
     for p in DESCARTES:
         original = p.get("original") or ""
-        docs.append({"t": p["titulo"], "a": p.get("anio") or "s. f.", "r": f"p/los-zombis.html#descartes-{p['grupo']}",
+        docs.append({"t": p["titulo"], "a": p.get("anio") or "s. f.", "r": f"p/peliculas-descartadas.html#descartes-{p['grupo']}",
                      "o": original if normalizar(original) != normalizar(p["titulo"]) else "",
                      "d": criterios[p["grupo"]], "x": ""})
     datos = json.dumps(docs, ensure_ascii=False, separators=(",", ":"))
@@ -416,11 +421,10 @@ def construir():
                  lastmod=str(p.get("actualizado") or p.get("publicado") or "") or None,
                  jsonld=datos_ficha(p, canonica))
 
-    for archivo in sorted((RAIZ / "contenido" / "paginas").glob("*.md")):
-        meta, cuerpo = leer(archivo)
+    for meta, cuerpo in PAGINAS:
         seccion = "sagas" if "sagas" in meta["ruta"] else "sobre"
         html_pagina = criterios_descarte(md_a_html(cuerpo, prefijo(meta["ruta"]), anclas=True))
-        escribir(meta["ruta"], "pagina.html", seccion=seccion, meta=meta,
+        escribir(meta["ruta"], "pagina.html", seccion=seccion, meta=meta, ruta_actual=meta["ruta"],
                  texto=html_pagina,
                  titulo_pagina=f"{meta['titulo']}. Atlas del cine de zombis",
                  descripcion=meta.get("descripcion") or resumen(cuerpo))

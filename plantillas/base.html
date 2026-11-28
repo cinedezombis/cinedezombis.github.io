@@ -33,14 +33,20 @@
 </head>
 <body>
 <a class="saltar" href="#contenido">Saltar al contenido</a>
-<header class="cabecera">
+<header class="cabecera" id="arriba">
   <a class="marca" href="{{ raiz }}index.html">Atlas del cine de zombis</a>
   <nav class="menu" aria-label="Secciones">
     <a href="{{ raiz }}index.html"{% if seccion == 'atlas' %} aria-current="page"{% endif %}>Atlas</a>
     <a href="{{ raiz }}p/peliculas-comentadas.html"{% if seccion == 'indice' %} aria-current="page"{% endif %}>Índice A–Z</a>
     <a href="{{ raiz }}p/las-mejores.html"{% if seccion == 'mejores' %} aria-current="page"{% endif %}>Mejor valoradas</a>
     <a href="{{ raiz }}p/sagas.html"{% if seccion == 'sagas' %} aria-current="page"{% endif %}>Sagas y remakes</a>
-    <a href="{{ raiz }}p/los-zombis.html"{% if seccion == 'sobre' %} aria-current="page"{% endif %}>Sobre el atlas</a>
+    <details class="submenu"{% if seccion == 'sobre' %} data-actual{% endif %}>
+      <summary>Sobre el atlas</summary>
+      <ul class="submenu-lista">
+        {% for s in sobre %}<li><a href="{{ raiz }}{{ s.ruta.lstrip('/') }}"{% if ruta_actual == s.ruta %} aria-current="page"{% endif %}>{{ s.menu }}</a></li>
+        {% endfor %}
+      </ul>
+    </details>
     <details class="lupa"{% if seccion == 'buscar' %} data-actual{% endif %}>
       <summary aria-label="Buscar en las reseñas" title="Buscar en las reseñas"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg></summary>
       <form class="lupa-form" role="search" action="{{ raiz }}p/buscar.html" method="get" data-indice="{{ raiz }}{{ indice }}">
@@ -73,7 +79,8 @@
       <li><a href="{{ raiz }}p/peliculas-comentadas.html">Índice A–Z</a></li>
       <li><a href="{{ raiz }}p/las-mejores.html">Mejor valoradas</a></li>
       <li><a href="{{ raiz }}p/sagas.html">Sagas y remakes</a></li>
-      <li><a href="{{ raiz }}p/los-zombis.html">Sobre el atlas</a></li>
+{% for s in sobre %}      <li><a href="{{ raiz }}{{ s.ruta.lstrip('/') }}">{{ 'Sobre el atlas' if loop.first else s.menu }}</a></li>
+{% endfor %}
       <li><a href="{{ raiz }}feed.xml">Novedades por RSS</a></li>
     </ul>
   </nav>
@@ -83,6 +90,7 @@
     <p>Los carteles pertenecen a sus titulares y se reproducen solo para identificar cada película.</p>
     {% if config.goatcounter %}<p>Las visitas se cuentan con <a href="https://www.goatcounter.com/">GoatCounter</a>, sin cookies ni datos personales.</p>{% endif %}
   </section>
+  <a class="arriba" href="#arriba" hidden><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 14l6-6 6 6"/></svg><span>Volver arriba</span></a>
 </footer>
 <svg class="simbolos" aria-hidden="true" focusable="false">
   <symbol id="mancha" viewBox="0 0 24 24">
